@@ -80,6 +80,21 @@ print("Modèle chargé.")
 def clean_and_tokenize(text):
     text = text.lower()
     return re.findall(r'\b\w+\b', text)
+from gensim.models.phrases import Phrases, Phraser
+
+# Collect all tokenized tweets for bigram training
+all_tokenized_tweets = []
+for i in range(1, 5):
+    source_file = f"CorpusRandomCleaned_2/cleaned_tweets{i}.txt"
+    with open(source_file, encoding="utf-8") as f:
+        tweets = f.read().splitlines()
+    for tweet in tweets:
+        tokens = clean_and_tokenize(tweet)
+        all_tokenized_tweets.append(tokens)
+
+# Train bigram model
+bigram = Phrases(all_tokenized_tweets, min_count=5, threshold=10)
+bigram_mod = Phraser(bigram)
 
 def average_vector(words, model):
     vectors = [model[word] for word in words if word in model]
@@ -108,9 +123,9 @@ def sentiment_score(tweet, model, pos_vocab, neg_vocab):
 
 all_scores = []
 
-for i in range(1, 3):
+for i in range(3,5):
     source_file = f"CorpusRandomCleaned_2/cleaned_tweets{i}.txt"
-    output_file = f"Corpus_scores_vec/cores_tweets_vec{i}.txt"
+    output_file = f"Corpus_scores_vec_enhanced/cores_tweets_vec{i}.txt"
 
     with open(source_file, encoding="utf-8") as f:
         tweets = f.read().splitlines()
@@ -314,37 +329,40 @@ all_tweet_scores = []
 # Pour stocker les scores de chaque token
 all_token_scores = []
 
-for i in range(1, 5):
-    source_file = f"CorpusRandomCleaned_2/cleaned_tweets{i}.txt"
-    with open(source_file, encoding="utf-8") as f:
-        tweets = f.read().splitlines()
+# for i in range(1, 5):
+#     source_file = f"CorpusRandomCleaned_2/cleaned_tweets{i}.txt"
+#     with open(source_file, encoding="utf-8") as f:
+#         tweets = f.read().splitlines()
 
-    # Chargement des vocabulaires positifs et négatifs
-    with open("positive_vocab_1000.txt", encoding="utf-8") as f:
-        positive_vocab = [line.strip() for line in f if line.strip()]
-    with open("negative_vocab_1000.txt", encoding="utf-8") as f:
-        negative_vocab = [line.strip() for line in f if line.strip()]
+#     # Chargement des vocabulaires positifs et négatifs
+#     with open("positive_vocab_1000.txt", encoding="utf-8") as f:
+#         positive_vocab = [line.strip() for line in f if line.strip()]
+#     with open("negative_vocab_1000.txt", encoding="utf-8") as f:
+#         negative_vocab = [line.strip() for line in f if line.strip()]
 
-    for tweet in tweets:
-        if not tweet.strip():
-            continue
-        score, pos_score, neg_score = sentiment_score(tweet, model, positive_vocab, negative_vocab)
-        all_tweet_scores.append([score])
+#     for tweet in tweets:
+#         if not tweet.strip():
+#             continue
+#         score, pos_score, neg_score = sentiment_score(" ".join(tokens_with_bigrams), model, positive_vocab, negative_vocab)
+#         all_tweet_scores.append([score])
 
-        # Score de chaque token
-        tokens = clean_and_tokenize(tweet)
-        for token in tokens:
-            token_score, _, _ = sentiment_score(token, model, positive_vocab, negative_vocab)
-            all_token_scores.append([token, token_score])
+#         # Score de chaque token
+#         tokens = clean_and_tokenize(tweet)
+#         tokens = clean_and_tokenize(tweet)
+#     tokens_with_bigrams = bigram_mod[tokens]
 
-# Écriture du CSV des scores de tweets
-with open("all_tweet_scores.csv", "w", newline='', encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow(["score"])
-    writer.writerows(all_tweet_scores)
+#     for token in tokens_with_bigrams:
+#         token_score, _, _ = sentiment_score(token, model, positive_vocab, negative_vocab)
+#         all_token_scores.append([token, token_score])
 
-# Écriture du CSV des scores de tokens
-with open("all_token_scores.csv", "w", newline='', encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow(["token", "score"])
-    writer.writerows(all_token_scores)
+# # Écriture du CSV des scores de tweets
+# with open("all_tweet_scores.csv", "w", newline='', encoding="utf-8") as f:
+#     writer = csv.writer(f)
+#     writer.writerow(["score"])
+#     writer.writerows(all_tweet_scores)
+
+# # Écriture du CSV des scores de tokens
+# with open("all_token_scores.csv", "w", newline='', encoding="utf-8") as f:
+#     writer = csv.writer(f)
+#     writer.writerow(["token", "score"])
+#     writer.writerows(all_token_scores)

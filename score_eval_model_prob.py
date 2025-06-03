@@ -51,7 +51,7 @@ def compute_sentiment_score(tweet):
 
 
 for i in range(1, 5):
-    source_file = f"CorpusRandomCleaned/cleaned_tweets{i}.txt"
+    source_file = f"CorpusRandomCleaned_2/cleaned_tweets{i}.txt"
     output_file = f"Corpus_scores/sentiment_scores_tweets{i}.txt"
 
     with open(source_file, encoding="utf-8") as f:

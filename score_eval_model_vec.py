@@ -72,7 +72,7 @@ for i in range(3,5):
 import gensim.downloader as api
 
 
-# Charger un modèle anglais (GloVe ou FastText)
+# Charger un modèle anglais 
 print("Chargement du modèle anglais...")
 model = api.load("glove-wiki-gigaword-100")  # ou "fasttext-wiki-news-subwords-300"
 print("Modèle chargé.")

@@ -118,7 +118,9 @@ def sentiment_score(tweet, model, pos_vocab, neg_vocab):
     sim_pos = cosine_similarity(tweet_vec, pos_vec)
     sim_neg = cosine_similarity(tweet_vec, neg_vec)
 
-    score = max(0, min(10, (sim_pos - sim_neg) * 10 + 5))
+    score = max(0, min(10, (sim_pos - sim_neg) * 5 + 1))
+    score =  max(-1.0, min(1.0, score-1))  # Normaliser entre -1 et 1
+
     return round(score, 2), sim_pos, sim_neg
 
 all_scores = []
@@ -366,3 +368,5 @@ all_token_scores = []
 #     writer = csv.writer(f)
 #     writer.writerow(["token", "score"])
 #     writer.writerows(all_token_scores)
+
+

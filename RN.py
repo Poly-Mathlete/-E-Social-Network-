@@ -1,4 +1,4 @@
-# algomattis_nn.py
+# RN.py
 
 import re
 import csv
@@ -7,25 +7,8 @@ import torch.nn as nn
 import torch.optim as optim
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import classification_report
-
-# --- Extraction depuis CSV ---
-tweets_data = []
-with open("lol.csv", "r", encoding="latin1") as f:
-    reader = csv.reader(f)
-    for row in reader:
-        if len(row) >= 6:
-            raw_label = row[0]
-            tweet = row[5]
-
-            if raw_label == "0":
-                label = 0  # négatif
-            elif raw_label == "4":
-                label = 1  # positif
-            else:
-                continue
-
-            tweets_data.append((tweet, label))
+from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
+import matplotlib.pyplot as plt
 
 # --- Nettoyage ---
 def clean_tweet(tweet):
@@ -38,66 +21,101 @@ def clean_tweet(tweet):
     tweet = re.sub(r"\s+", " ", tweet).strip()
     return tweet
 
-texts = [clean_tweet(t[0]) for t in tweets_data]
-labels = [t[1] for t in tweets_data]
+# --- Extraction depuis CSV ---
+tweets_data = []
+with open("MMM.csv", "r", encoding="latin1") as f:
+    reader = csv.reader(f)
+    for row in reader:
+        if len(row) >= 6:
+            raw_label = row[0]
+            tweet = row[5]
 
-# --- Vectorisation TF-IDF ---
-vectorizer = TfidfVectorizer(max_features=1000)
+            if raw_label == "0":
+                label = 0
+            elif raw_label == "4":
+                label = 1
+            else:
+                continue
+
+            tweets_data.append((clean_tweet(tweet), label))
+
+# --- Extraction des colonnes ---
+texts = [t[0] for t in tweets_data if isinstance(t[0], str) and len(t[0].strip()) > 0]
+labels = [t[1] for t in tweets_data if isinstance(t[0], str) and len(t[0].strip()) > 0]
+
+# --- Vectorisation ---
+vectorizer = TfidfVectorizer(max_features=1024, stop_words=None)
 X = vectorizer.fit_transform(texts).toarray()
-y = torch.tensor(labels, dtype=torch.float32).unsqueeze(1)
+y = torch.tensor(labels).float()
 
 # --- Split ---
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
-X_train_tensor = torch.tensor(X_train, dtype=torch.float32)
-X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
+X_train = torch.tensor(X_train).float()
+X_test = torch.tensor(X_test).float()
+y_train = y_train.view(-1, 1)
+y_test = y_test.view(-1, 1)
 
-# --- Réseau de neurones ---
-class SimpleNN(nn.Module):
-    def __init__(self, input_dim):
-        super().__init__()
-        self.fc1 = nn.Linear(input_dim, 64)
-        self.relu = nn.ReLU()
-        self.fc2 = nn.Linear(64, 1)
+# --- Modèle ---
+class SentimentNN(nn.Module):
+    def __init__(self):
+        super(SentimentNN, self).__init__()
+        self.fc1 = nn.Linear(1024, 1024)
+        self.relu1 = nn.ReLU()
+        self.dropout = nn.Dropout(0.3)
+        self.fc2 = nn.Linear(1024, 128)
+        self.relu2 = nn.ReLU()
+        
+        self.fc3 = nn.Linear(128, 1)
         self.sigmoid = nn.Sigmoid()
 
     def forward(self, x):
         x = self.fc1(x)
-        x = self.relu(x)
+        x = self.relu1(x)
+        x = self.dropout(x)
         x = self.fc2(x)
-        return self.sigmoid(x)
+        x = self.relu2(x)
+        
+        x = self.fc3(x)
+        x = self.sigmoid(x)
+        return x
 
-model = SimpleNN(input_dim=1000)
+model = SentimentNN()
 criterion = nn.BCELoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # --- Entraînement ---
+print("⚡ Entraînement du modèle...")
 for epoch in range(5):
     model.train()
     optimizer.zero_grad()
-    outputs = model(X_train_tensor)
+    outputs = model(X_train)
     loss = criterion(outputs, y_train)
     loss.backward()
     optimizer.step()
-    print(f"Époque {epoch+1}, perte: {loss.item():.4f}")
+    print(f"Epoch {epoch+1}/5 - Loss: {loss.item():.4f}")
 
 # --- Évaluation ---
 model.eval()
-with torch.no_grad():
-    preds = model(X_test_tensor)
-    pred_labels = (preds > 0.5).int()
-    true_labels = y_test.int()
-    print(classification_report(true_labels, pred_labels))
+y_pred = model(X_test).detach().numpy()
+y_pred_label = [1 if p >= 0.5 else 0 for p in y_pred]
+
+print("\n✅ Résultats sur le test :")
+print(classification_report(y_test, y_pred_label))
+
+# --- Matrice de confusion ---
+cm = confusion_matrix(y_test, y_pred_label)
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=["négatif", "positif"])
+disp.plot(cmap=plt.cm.Blues)
+plt.title("Matrice de confusion")
+plt.show()
 
 # --- Prédiction personnalisée ---
 def predict_sentiment(tweet):
     cleaned = clean_tweet(tweet)
     vec = vectorizer.transform([cleaned]).toarray()
-    vec_tensor = torch.tensor(vec, dtype=torch.float32)
     with torch.no_grad():
-        pred = model(vec_tensor)
-        return "positif" if pred.item() > 0.5 else "négatif"
+        output = model(torch.tensor(vec).float())
+    return "positif" if output.item() >= 0.5 else "négatif"
 
 if __name__ == "__main__":
-    print("Exemple de prédiction :")
-    print(predict_sentiment("shut the fuck up"))
-    print(predict_sentiment("je suis trop heureux aujourd'hui !"))
+    print("Exemple :", predict_sentiment("i eat this cheat"))

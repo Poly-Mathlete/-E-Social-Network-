@@ -1,3 +1,8 @@
+'''
+Version initaile, complété et devenu clean_Final.py qui est complété et commenté 
+'''
+
+
 import re
 from pathlib import Path
 

@@ -1,877 +1,877 @@
-1 : ['allez', 'emmène', 'resto', 'zappé', 'telho', 'reste', 'tranquille', 'tn', 'clavier']
-2 : ['RT', 'nrj', 'music', 'tour', 'vendée', 'débarque', '5', 'mars', 'roche', 'yon', 'toutes', 'stars', 'préférées']
-3 : ['RT', 'troisième', 'participant', 'superbe', 'a', 'message', 'lol', 'jpp', 'http…']
-4 : ['RT', 'chepa', 'cherche', 'koi', 'cet', 'pute', 'lapelle', 'jtombe', 'répondeur', 'meditel']
-5 : ['concours', 'ifsi', 'reims', 'premier', 'jour', 'bac', 'blanc']
-6 : ['heu', 'con', 'prend', 'lopettes', 'parti', 'mdrrrr']
-7 : ['abracadabar', 'diffusera', 'grand', 'écran', 'nintendo', 'direct', 'attention', 'bar', 'ouvre', 'avant', '19h', 'ferme', '0h00']
-8 : ['RT', 'reste', 'toujours', 'extrêmement', 'fidèle', 'amis']
-9 : ['orage', 'juste', 'dessus', 'maison', 'voyou']
-10 : ['ptdr', 'prix', 'fringues']
-11 : ['ah', 'ah', 'tas', 'feuilles', 'équivalent', 'chapitre', 'grosses', 'matières', 'encore']
-12 : ['soutien', '100', '%']
-13 : ['flocons', 'balz', 'comme', 'chat', 'wande']
-14 : ['critiquer', 'temps', 'amis']
-15 : ['RT', 'apparence', 'personne', 'calme', 'si', 'explose', 'diable', 'cache']
-16 : ['oui', 'exact', 'surtout', 'a', '3', '4', 'ans', 'ca', 'commence', 'tot', 'djihad']
-17 : ['RT', 'café+clope', 'lendemain', 'soirée', 'passe', 'tellement', 'bien']
-18 : ['suivant', 'pc', 'pense']
-19 : ['pamela', 'anderson', 'explique', 'pourquoi', 'hésite', 'apparaître', 'remake', 'd’alerte', 'malibu']
-20 : ['neige', 'chez', 'tout', 'monde', 'chez', 'ntm', 'ok', 'jvois']
-21 : ['RT', 'jltle', 'nbre', 'fois', 'où', 'j’ai', 'vu', 'terrain', 'rugby', 'faire', 'recoudre', 'tête', 'remettre', 'bouejms', 'entendu', 'parl…']
-22 : ['vice', 'maternel', 'traînant', 'hérédité', 'toujours', 'impatient', 'course', 'bornée', 'croissant', 'fin', 'clair', 'parmi', 'fleurs', 'ombre']
-24 : ['charlotte', 'gainsbourg', 'évoque', 'décès', 'père', 'sale', 'état']
-25 : ['lire', 'livre', 'aurélie', 'lanctôt', 'libéraux', 'aiment', 'femmes', '-', 'essai', 'austérité']
-26 : ['RT', 'adore', 'cinéma', 'séries', 'américaines']
-27 : ['manque', 'personne', 'tête', 'résonne']
-28 : ['marc', 'trévidic', 'prouve', 'bon', 'juge', 'fait', 'toujours', 'bon', 'romancier']
-29 : ['apt', 'vaucluse']
-30 : ['RT', 'quand', 'bac', 'vert', 'mdr']
-31 : ['depuis', 'réussi', 'a', 'bypass', 'proxy', 'début', 'avance', 'beaucoup', 'moins', 'vite', 'merci']
-32 : ['franchement', 'agace', 'avancé', 'truc', 'sais', 'quoi', 'mettre', 'putain', 'dossier', 'flemmmmmmmme', 'rédiger']
-33 : ['RT', 'hui', 'ça', 'bien', 'dur', 'supporter', 'entre', 'bagarre', 'endurance', 'kiff', 'kiff', '…']
-34 : ['RT', 'neige', 'chez', 'tout', 'monde', 'sauf', 'chez']
-35 : ['RT', 'toute', 'façon', 'toujours', 'déçu', 'personnes', 'aime', 'plus']
-36 : ['RT', 'tombé', 'podium', '27', 'novembre', 'après', 'défaite', 'face', 'montpellier', 'fallu', '3', 'mois', '14', 'matchs', '…']
-39 : ['RT', 'scandales', 'sport', '-', 'champions', 'triche']
-40 : ['RT', 'animaux', 'empoisonnés', 'parc', 'kruger', 'sud']
-41 : ['RT', 'tenue', 'provocante', 'blablabla', 'ça', 'encore', 'concept', 'inventé', 'hommes', 'justifier', 'viol']
-42 : ['RT', 'selon', 'sexta', 'neymar', 'discuterait', 'toujours', 'psg']
-43 : ['RT', 'oui', 'ya', 'tout', 'sephora', 'va', 'grand', 'sephora', 'trouver', 'teinte', 'foncé', 'sur…']
-44 : ['RT', 'verrai', 'sans', 'doute', 'jamais', 'autres', 'idoles', 'aimerais', 'tellement', 'voir', 'moinslui', 'svp', '…']
-45 : ['RT', 'plus', 'moitié', 'adolescents', 'manquent', 'sommeil', 'cause', 'cours', 'commencent', 'tôt', 'matin']
-46 : ['après', 'beau', 'temps']
-47 : ['forum', 'bière', '19', 'mars', '2016', 'fête', 'bière', 'poligny', 'cette', 'onzième', 'édition', 'samedi', '19', 'mars']
-48 : ['RT', 'jui', 'mort']
-49 : ['RT', 'vidéo', '-', 'afrique', 'sud', 'couper', 'cornes', 'rhinocéros', 'éviter', 'braconnage']
-50 : ['maxime_legoff', 'carlitodnole', 'sinon', 'droit', 'lire', 'itw', 'comprendre', 'sens', 'citation']
-51 : ['RT', 'nein', 'plus', 'premier', 'partenaire', 'commercial', '-']
-52 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-54 : ['10eme', 'truc', 'fou']
-55 : ['RT', 'rendez-vous', '6', 'mars', '2016', 'esplanade', 'palais', 'peuple', 'festival', 'grillades', 'big', 'up', 'tous', 'fans']
-57 : ['ha', 'fait', 'où', 'respect', 'tjr', 'revenu', 'hein']
-58 : ['si', 'buy', 'jeu', 'viens']
-59 : ['can', 'pu', 'assez', 'place', 'garage']
-60 : ['RT', 'quoi', 'pire', 'gros', 'mots', 'cette', 'vidéo', 'magnifique', 'mdrrr']
-62 : ['RT', 'dingue', 'cette', 'vache', 'traduit', 'pr', 'sourds', '&', 'amp', 'malentendants', 'discours', 'marine']
-63 : ['bonheur', 'sera-t-il', 'courte', 'durée']
-65 : ['bon', 'dessin', 'a', 'quand-même', 'moins', '25', '30', 'ans', 'moins']
-66 : ['RT', 'essayant', 'obtenir', 'bonne', 'température', 'pendant', 'sommeil']
-67 : ['vu', 'ciel', 'dis', '15mn', 'fait', 'soleil', 'tout', 'schizo', 'temps', 'hui']
-68 : ['quand', 'bu', 'lait', 'ca', 'a', 'fait', 'bruit', 'dread', 'doctors', 'quand', 'arrivent', 'morte']
-69 : ['bonjour', 'pouvez', 'refuser', 'colis', 'être', 'intégralement', 'remboursée', 'si', 'souhaitez', '1', '2']
-70 : ['RT', 'g', 'point', 'RT', 'notifiant', 'ministère', 'justice', 'police', 'dernier', 'moment', 'me…']
-71 : ['RT', 'rer', 'relou', 'a', 'toute', 'afrique', 'dedans', 'asseoir', 'marathon', 'a']
-72 : ['zoolander', '2', 'quand', 'cinéma', 'parodie', 'mode']
-73 : ['RT', 'viol', 'justifiable', 'fille', 'joue', 'pute', 'seins', 'a', 'air', 'tout', 'bah', 'a', 'cherché', 'faut', 'arreter']
-74 : ['quand', 'prof', 'dit', 'trouver', 'partenaire', 'meilleur', 'pote', 'regarde', 'mdrrr']
-76 : ['philippines', 'corps', 'momifié', 'd’un', 'allemand', 'retrouvé', 'yacht', 'dérive']
-77 : ['académie', 'européenne', 'cinéma', 'défend', 'film', 'oscarisé', 'ida']
-79 : ['RT', 'foll', 'accuse', 'sarkozy', 'petit', 'débat', 'politicien', 'crise', 'agricole']
-80 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-81 : ['RT', 'jve', 'meuf', 'fai', '1m55', 'comme', 'ça', 'pose', 'épaule', 'comme', 'ptit', 'perroquet']
-82 : ['aime', 'vidéo', 'tour', 'magie', 'n°5', 'explication', 'secret', 'bon', 'tour', 'adresse']
-83 : ['RT', 'gens', 'parle', 'arrêt', 'bus', 'savoir', 'horraires', 'regarde', 'panneau', 'mère', 'poulpe', 'nan']
-84 : ['cinéma', 'route', 'amour', 'passe', 'vin']
-85 : ['mi-pluie', 'mi-neige', 'truc', 'tient', 'sert', 'rien']
-86 : ['modern', 'express', 'redressé', 'port', 'bilbao']
-87 : ['RT', 'jean-louis', 'félicite', 'très', 'mal', 'préparé', 'match', 'pendant', 'golf']
-88 : ['canton', 'genève', 'porte', 'plainte', 'contre', 'centrale', 'nucléaire', 'bugey']
-90 : ['catherine', 'botti', 'a', 'enchanté', 'visiteurs', 'corbeilles', 'découpes', 'stand', 'fruits', 'légumes', 'frais']
-91 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-92 : ['fois', 'où', 'pris', 'bus', '15', 'dizaine', 'minute', 'après', 'apprends', 'entre', 'a', 'prit', 'feu']
-93 : ['RT', 'trouvé', 'meuf', 'trouve', 'tellement', 'bonne', 'film', 'train', 'bouffer', 'stp', 'où', 'va', 'monde']
-94 : ['RT', 'rtsi', 'juif', 'coupe', 'gaz', 'entre', '19h39', '19h45', 'sait', 'jamais', 'zerma']
-101 : ['RT', 'dit', 'aime', 'montre']
-103 : ['RT', 'i', 'suffit', 'booba', 'dise', 'vivement', 'pourvu', 'neige', 'déréglé', 'tt', 'météo', 'nationale', 'temp', 'i', 'pa', 'si', 'i', 'doit', 'neige…']
-116 : ['article', 'parisien']
-125 : ['tellement', 'bon', 'avoir', 'cours', 'mercredi', 'aprem']
-126 : ['encore', 'quelques', 'petites', 'heures', 'remporter', 't-shirt', 'nier']
-127 : ['salaire', 'blatter', 'connu', 'fin', 'mars']
-128 : ['RT', 'voici', 'teaser', 'clip', 'deindépendantes', 'bientôt', 'htt…']
-129 : ['RT', 'parfois', 'arbre', 'humanise', 'mieux', 'paysage', 'ferait', 'homme']
-130 : ['*pas', 'trop']
-131 : ['RT', 'ahahahaha', 'jsuis', 'ko', 'gars', 'a', 'peur', 'souuuurd']
-132 : ['tué', 'mangé', 'coloc', 'précédent']
-134 : ['ptdrrrrrrr', 'gars', 'tuer']
-135 : ['plus', 'quelques', 'jours', 'sauver', 'musée', 'tissus', 'lyon']
-136 : ['RT', 'pack', 'ps4', 'edition', 'blanche', '+', 'écran', 'asus', 'gaming', 'gagner', '-', 'tweet', 'compte', 'ht…']
-137 : ['RT', 'jsuis', 'tellement', 'fatigué', 'h24', 'mtn', 'fatigue', 'jla', 'sent', 'plus', 'fait', 'partie', 'prend', 'thé', 'ensemble', 'parfois']
-138 : ['bayern', 'munich', 'javi', 'martinez', 'retouche', 'ballon']
-139 : ['RT', 'data', 'performance', 'sportive', 'retrouvez', 'dossier', 'mois', 'février']
-142 : ['retour', 'homme', 'sans', 'bras', 'coucou', 'xd']
-143 : ['RT', 'gosses', 'voyez', 'hamas', 'lieu', 'diffamer']
-144 : ['RT', 'retour', 'rencontre', 'haletante', 'entre', 'hcmag', 'chamonix']
-145 : ['RT', 'tais', 'plus', 'belle', 'vie']
-146 : ['ça', 'déroule', 'hui', '17', 'h', 'intervenants', 'partout', 'pays', 'ministre', 'min', 'mccallum', 'là', 'cet', 'pm']
-147 : ['nouvelle', 'bande-annonce', 'monde', 'dory', 'poisson', 'amnésique', 'traces', 'passé', '-', 'allociné']
-148 : ['RT', 'quand', 'oda', 'offre', 'arc', 'combats', 'comme', 'contre', 'cp9']
-149 : ['RT', 'mouhaha', 'dirige', 'monde']
-150 : ['quand', 'sais', 'cours', 'jour', 'rentrée', 'anniversaire', 'vais', 'pouvoir', 'dormir']
-151 : ['RT', 'salon', 'agriculture', 'président', 'visite', 'ht…']
-152 : ['RT', 'père', 'benoît', 'lacroix', 'éteint', '100', 'ans']
-153 : ['RT', 'coran', 'a', 'sortie', 'lycee', 'jai', 'pousser', 'meuf', 'sans', 'mexcuser', 'ajouter', 'fb', 'dis', 'depuis', 'pousser', 'j…']
-154 : ['combat', 'grand', 'froid', 'ac', 'moufles', 'réalisées', 'partir', 'vieux', 'pull', '…']
-155 : ['fete', 'anniversaire', 'jb', 'yavai', 'tout', 'monde', 'wsh']
-157 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-158 : ['étirer', 'mieux', 'sex']
-159 : ['schème', 'pensée', 'pervers', 'orangiste', 'canadian', 'ti-jean', 'chrétien', 'fameux', 'plan', 'b']
-160 : ['peut', 'toujours', 'connecter', 'alors', 'banni', '29', '02', 'wtf', 'p']
-161 : ['RT', 'cadre', 'divorce', 'si', 'époux', 'oublie', 'mentionner', 'sources', 'revenus', 'ça', 'peut', 'ê…']
-162 : ['temps', 'aille', 'chez', 'coiffeur']
-163 : ['RT', 'meilleur', 'vine', 'français', 'sans', 'aucune', 'hésitation']
-164 : ['equipe', 'f1', '-', 'grosjean', 'grand', 'frère']
-165 : ['RT', 'neige', 'paris', 'mars', 'alors', 'faisais', '13', 'degrés', '24', 'décembre', 'vas', 'falloir', 'expliquer']
-166 : ['savez', 'si', 'oui', 'rendez-vous', '6', 'mars', 'mesnil-sur-oger']
-167 : ['puissant', 'séisme', 'crée', 'panique', 'indonésie', 'risque', 'revivre', 'nouveau', 'sri-lanka', 'finalemen']
-168 : ['fait', 'papier', 'plus', 'long', 'sujet', 'hyper', 'intrigué']
-169 : ['nouvelle', 'chanson', 'album', 'avril', 'operators', 'projet', 'dan', 'boeckner']
-170 : ['calme', 'parce', 'deja', 'mot', 'sandale', 'degueulasse', 'mdrrr']
-171 : ['nez', 'bouche']
-172 : ['chez', 'ça', 'tourne', 'vraiment', 'bien', 'bon', 'tout', 'fond', 'fxxa', 'anticrénelage', 'ombres', 'moyen', 'reste', 'élevé']
-173 : ['revois', 'demain', 'si', 'pensez', 'a', 'endroits', 'plus', 'spécifiques', 'observer', 'dites']
-174 : ['suicide', 'chat', 'ptdr', 'va', 'monde']
-175 : ['RT', 'neige', 'faire', 'oublier', 'loi', 'el', 'khomri', 'sachez-le', 'coup']
-176 : ['chic_lady6', 'pays', 'où', 'neige', 'jamais', 'via', 'twitter']
-177 : ['RT', 'tl', 'a', 'toujours', 'suceurs', 'RT', 'tweet', 'fois', 'tout', 'monde', 'RT', 'alors', 'très', 'bien', 'vu', 'au…']
-178 : ['RT', 'dernier', 'bal']
-179 : ['RT', 'prêts', 'découvrir', 'clip', '-', '&', 'gt', 'disponible', 'exactement', '30', 'minutes']
-180 : ['RT', 'cabella', 'raconte', 'enfer', 'français', 'newcastle']
-181 : ['RT', '4-', 'faites', 'genre', 'juge', 'tous', 'plus', 'moins', 'physique']
-184 : ['veut', 'allez', 'cinéma', 'vu', 'temps', 'va', 'arriver', 'trempé']
-185 : ['hello', 'kfthon', '25e', 'remise', 'dons', 'lancé', 'merci', 'avance', 'contributions']
-186 : ['bah', 'proble', 'mdp', 'forum']
-187 : ['augmenter', 'taux', 'manière', 'naturelle', 'sans', 'effets', 'secondaires']
-188 : ['RT', 'peux', 'commencer', 'prochain', 'chapitre', 'vie', 'si', 'relis', 'sans', 'cesse', 'dernier']
-190 : ['RT', 'breaking', 'news', 'cette', 'averse', 'neige', 'duré', 'aussi', 'longtemps', 'pokémon', 'direct']
-192 : ['RT', 'journal', 'fin', 'monde', 'jour', '1', 'astres', 'alignés', 'neige', 'pluie', 'vent', 'combiné', 'comme', 'pro…']
-193 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-194 : ['RT', '-', 'missile', 'hanche', 'signé']
-195 : ['temps', 'arrete', 'changer', 'aujd']
-196 : ['dit', 'a', 'yannick', 'ça', 'a', 'traumatisé', 'préfère', 'donc', 'garder', 'silence']
-197 : ['RT', 'jveu', 'relationship', 'centrée', 'religion', 'respect', 'autrui', 'baise', 'baiiiiise', 'aaaaaaa', 'jve', 'niker']
-198 : ['suivez', 'match', 'live', 'audio']
-199 : ['parle', 'sudil', 'fait', '16deges']
-200 : ['RT', 'neige', 'partie', 'ossi', 'vite', 'harlem', 'shake', 'fou']
-201 : ['RT', 'amitié', 'donne', 'beaucoup', 'conseils', 'paroles', 'réconfortantes']
-202 : ['RT', '-', 'missile', 'hanche', 'signé']
-203 : ['avant', '18', 'avril', '1940', 'québécoises', 'droit', 'vote', 'go', 'crois', 'assez']
-204 : ['foot', '-', 'fifa', '-', 'salaire', 'blatter', 'connu', 'fin', 'mars']
-205 : ['RT', 'oui', 'comme', 'voient', 'musulman', 'potentiel', 'terroriste', 'jeune', 'noir', 'potentiel', 'agresseur']
-206 : ['RT', 'petit', '5', 'ans', 'fait', 'violer', 'pédophile', 'faute', 'aussi', 'psq', 'trop', 'sexy', 'petit', 'short']
-207 : ['RT', 'kan', 'tsort', 'ac', 'arab', 'bn', 'suffi', 'toubli', 'répondr', 'a', 'txto', 'voi', 'tweeter', 'hadith', 'comportemn', 'enver', 'ls', 'f…']
-208 : ['RT', 'conseil', 'sécurité', 'unanime', 'alourdir', 'sanctions', 'contre', 'corée', 'nord', 'via']
-209 : ['vérité', 'vas-y', 'déjà', 'neige', 'choix', 'partir', 'cours', 'vais', 'ressembler', 'mouton', 'là']
-210 : ['RT', 'plan', 'valide', 'dirrecte']
-211 : ['RT', 'deja', 'meuf', 'aime', 'poulet', '67', '%', 'aime', 'mettre', 'manteau']
-212 : ['contact', 'physique', 'trop', 'important', 'jtrouve']
-213 : ['bébé', 'caché', 'christian']
-214 : ['re', 'kb', 'este', 'atras']
-215 : ['chocolat', 'chaud', 'bon', 'bail', 'rentrant']
-216 : ['arrête', 'tout', 'vie', 'travail', 'ciné', 'goûter', 'enfants', 'tout', 'arrête', 'tout', 'car', 'neige', 'oui', 'neige']
-217 : ['RT', 'juppé', 'a', 'enfin', 'lu', 'coran', 'vendre', 'islam', 'france', 'pauvre', 'parti', 'islamo-vendu', 'so…']
-218 : ['RT', 'info', 'reste', 'quelques', 'jours', 'projet', 'anniversaire', 'anaïs', 'envoyé', 'montages', 'pour…']
-219 : ['suivez', 'match', 'live', 'audio', 'paris', 'saint-germain', 'france', 'bleu', '107', '1', 'proposent', 'suivre', 'rencont']
-220 : ['RT', 'jlt', 'quoi', 'qu’on', 'dise', 'entraîneur', 'n’est', 'terrain']
-221 : ['mere', 'a', 'faire', 'courses', 'insiste', 'oublie', 'chips', 'a', 'prit', 'tôut', 'sauf', 'chips']
-222 : ['RT', 'livre', 'jongle']
-223 : ['code', 'route', 'résumé', 'code', 'route', 'populaire', 'n’oubliez', 'réviser', 'avant', 'l’examen']
-224 : ['RT', 'dirait', 'trop', 'daronne', 'attend', 'quand', 'rentre', 'tard', 'soir', 'enculer', 'race']
-225 : ['wah', 'temps', 'hardcore']
-226 : ['RT', 'a', 'quel', 'niveau', 'relou', 'estimez', 'mec', 'fout', 'pieds', 'côté', 'connais', 'pue', 'croit', 'seul']
-227 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-228 : ['jss', 'merde', 'pr', 'decalage', 'horaire', 'lundi']
-229 : ['RT', 'retour', 'siestes']
-230 : ['route', 'etape', '10']
-231 : ['mal', 'a', 'odeur']
-232 : ['RT', 'cette', 'musique', 'meilleur', 'feat', 'homme', 'femme', 'toute', 'catégorie', 'confondu', 'jla', 'chanterai', 'comme', 'berceuse', 'a', 'enfant', 'ht…']
-233 : ['RT', 'arabes', 'leurs', 'mariages', 'c’est', 'délire', 'louent', 'audi', 'lambo', 'fusées', 'jet', 'packs', 'finir', '8eme', 'eta…']
-234 : ['RT', 'top', '5', 'choses', 'manquent', 'plus', 'ol', 'lisandro', '1er', 'devant', 'lisandro', 'lisandro', 'lisandro', 'lisa…']
-235 : ['RT', 'sérieusement', 'venez', 'vérifie', 'si', 'a', 'sauter', 'mois', 'si', 'cas', 'recommence', 'parce', 'neige', 'mar…']
-236 : ['concentrez-vous', 'présent', 'car', 'aime', 'trop', 'engager', 'allez', 'rythme']
-237 : ['RT', 'vrai', 'amour', 'grandir', 'tant', 'couple', 'apprendre', 'avantage', 'autre', 'jamais', 'abandonner', 'personn…']
-238 : ['gp', 'samyn', 'direct', 'gilbert', 'a', 'abandonné', 'live', 'via']
-239 : ['RT', 'temps', 'vraiment', 'fou']
-240 : ['couille', 'mis', 'commentaire', 'wsh', 'faut', 'voir']
-241 : ['g', 'découver', '1', 'nvx', 'smiley', '&', 'gt', 'lsmiley', 'coquin', 'malin']
-242 : ['RT', 'nouvel', 'album', '&', 'gt']
-243 : ['RT', 'osez', 'cadeau', 'original', 'personnalise', 'tout', 'objets', '07', '53', '58', '35', '82']
-244 : ['partouze', 'parc', 'entre', 'infirmières', 'toubibs', 'centre']
-245 : ['RT', 'meilleur', 'rappeur', 'parmi', '3', 'objectivement']
-247 : ['champs-noisy', 'si', 'conseil', 'régional', 's’installait', 'cité', 'descartes', 'communes', 'champs-sur-marne']
-248 : ['aime', 'neige', 'vent', 'pluie', 'quand', 'tout', 'petit', 'peu', 'tempête', 'là', 'non', 'xd']
-249 : ['RT', 'RT', 'gagne', 'places', '1er', '1', '4', 'finale', 'contest', 'petite', 'halle', 'villette']
-250 : ['pantalon', 'ski', 'ça', 'va', 'être', 'possible', 'contre']
-251 : ['quels', 'critères', 'choisir', 'société', 'suivez', 'guide', 'évitez', 'pièges', '&', 'gt', '&', 'gt']
-252 : ['oui', 'gang', 'putes', 'besssst', 'squads']
-253 : ['RT', '100', 'jours', 'france', 'accueillera', 'europe', 'football', 'rendez-vous', '10', 'juin', 'ensemble']
-254 : ['pk', 'tl', 'a', 'pleins', 'gens', 'disent', 'chez', 'neige', 'contrairement', 'tout', 'monde', 'personne', 'dit', 'neige']
-255 : ['RT', 'contre-discours', 'méthode', 'macron', 'via']
-256 : ['15', 'mars', 'passe', 'permis']
-257 : ['RT', 'temps', 'va', 'comprendre', 'bonnes', 'personnes', 'celles', 'oubliées', 'mises', 'cotées']
-258 : ['neige', 'pluie', 'neige', 'pluie', 'fait', 'gamin', 'ciel', 'enleve', 'deux']
-259 : ['crois', 'seule', 'adorer', 'aller', 'chez', 'dentiste']
-260 : ['leurs', 'prix', 'point', 'barre', 'pense', 'surtout', 'fait', 'sacré', 'film', 'dont', 'titre', 'affiche', 'met', 'scène']
-261 : ['…', 'second', 'duel', 'bon', 'visionnage', 'tous']
-262 : ['RT', 'petit', '5', 'ans', 'fait', 'violer', 'pédophile', 'faute', 'aussi', 'psq', 'trop', 'sexy', 'petit', 'short']
-263 : ['RT', 'coran', 'a', 'sortie', 'lycee', 'jai', 'pousser', 'meuf', 'sans', 'mexcuser', 'ajouter', 'fb', 'dis', 'depuis', 'pousser', 'j…']
-264 : ['ha', 'ça', 'yé', 'ça', 'rentre', 'ordre', 'patron']
-265 : ['RT', 'seule', 'photo', 'où', 'tout', 'monde', 'souris', '*', '*']
-266 : ['RT', 'a', 'tendance', 'réagir', 'rapidement', 'lieu', 'prendre', 'temps', 'réflexion']
-267 : ['frère', 'vient', 'demander', 'si', 'royaume-uni', 'angleterre', 'usa', 'quelle', 'famille', 'ptn']
-268 : ['RT', 'neige', 'voit', 'plus', 'sacré', 'coeur']
-269 : ['nord', 'a', 'seulement', 'grêle', 'orage']
-270 : ['made', 'in', 'est-il', 'vendeur']
-271 : ['made', 'in', 'est-il', 'vendeur']
-272 : ['made', 'in', 'est-il', 'vendeur']
-273 : ['neige', 'enfin', 'rendez-vous', 'peu', 'tard', '2', 'mars', 'quand']
-274 : ['RT', 'mddr', 'inquiètes', 'ca', 'arrive', 'balle', 'meilleur', 'fin']
-275 : ['shippe', 'frisk', 'tout', 'monde', 'comment', 'ça', 'passe', 'v']
-276 : ['prdrr', 'paris', 'neige', 'montre', 'temps', 'peine']
-277 : ['psg', 'quand', 'star', 'brésilienne', 'devait', 'rejoindre', 'club', 'parisien']
-278 : ['aussi', 'louis-michel', 'van', 'loo', 'doit', 'célèbre', 'portrait', 'diderot']
-279 : ['témoignage', 'habitant', 'alep', 'rcf']
-280 : ['soleil', 'revient', 'paname', 'imp', 'temps']
-282 : ['après', '16', 'ans', 'cinq', 'titres', 'stade', 'toulousain', 'millo-chluski', 'file', 'perpignan', 'via']
-283 : ['RT', '1ères', 'font', 'percent', '¿', 'comprends']
-284 : ['audrey', 'retrouvée', '1er', 'roman', 'young', 'adult', 'confessions', 'accro', 'shopping', 'sort', 'demain']
-285 : ['entend', 'là', 'faire', 'tourner', 'voiture', '5', 'minutes', 'enlever', 'fine', 'couche', 'gel', 'pare-brise']
-286 : ['RT', 'signe', 'plus', 'romantique', 'quand', 'sort', 'grand', 'jeu', 'finit', 'tous', 'craquer']
-287 : ['quintero', 'entraîné', 'matin', 'groupe', 'opposition', 'fin', 'session', 'aucun', 'signes', 'difficultés', 'physiques']
-288 : ['nan', 'trouvais', 'ça', 'drôle', 'contraste', 'temps', 'entre', 'régions', 'x']
-289 : ['psg', 'quand', 'star', 'brésilienne', 'devait', 'rejoindre', 'club', 'parisien']
-290 : ['2', '2', '2', 'mars', '1992', 'admission', '-', 'république', 'moldova', 'saint-marin', 'tadjikistan', 'turkménistan']
-292 : ['spectacles', 'cirque', 'pinder', '-', 'cirque', 'pinder', 'a', 'jamais', 'aussi', 'proche', 'che', 'cirque']
-293 : ['boîte', 'easy-r', 'dacia', 'désormais', 'dci', '90', 'stand', 'dacia', 'met', 'avant', 'boîte', 'automatique', 'pilotée']
-294 : ['RT', 'ah', 'ah', 'nbc', 'moment', 'assez', 'drôle', 'après', 'super', 'tuesday']
-295 : ['psg', 'quand', 'star', 'brésilienne', 'devait', 'rejoindre', 'club', 'parisien']
-296 : ['jui', '93']
-297 : ['wsh', 'neige', 'fondu', 'croyez', 'va', 'rester', '20', 'ans', 'hein', 'touche', 'sol', 'déjà', 'partie', 'mdr']
-298 : ['plainte', 'contre', 'président', 'ibk']
-299 : ['commentaire', 'très', 'pertinent', 'pl59', 'discours', 'haineux', 'défini', 'pl', '59', 'jdm', '…']
-301 : ['play', 'fr', '-', 'bioshock', '2', 'ep', '14', '-', 'rivets', 'plafond', 'via']
-302 : ['déluge', 'bw']
-303 : ['encore', 'ceux', 'utilisent', 'moins']
-305 : ['ça', 'a', 'perturbé', 'tout', 'bureau', 'pendant', '10min', 'haha']
-308 : ['sinon', 'mal', 'batushka', 'comme', 'groupe', 'marrant', 'mélanger', 'black', 'metal', 'chants', 'grégoriens', 'manière', 'font']
-309 : ['RT', 'président', 'prend', 'route', 'direction', 'palais', 'marina', 'arrivée', 'prévue', '6', 'avril', 'https', '…']
-310 : ['sud', 'grand', 'soleil', 'mdrrr', 'normal', 'envie', 'dire']
-311 : ['cd', 'amiibo', 'cool', 'comme', 'figurine', 'a', 'presque', 'envie', 'déballer']
-312 : ['insupporte', 'depuis', 'début']
-313 : ['mois-ce', 'histoire', 'aim', 'mars', '2016', 'cliquez', 'événement', 'calendrier', 'obtenir', 'plus']
-314 : ['RT', 'alerte', 'météo', 'risque', 'avalanche', '5', '5', 'montmartre', 'évitez', 'hors', 'piste']
-315 : ['RT', 'physique', 'attire', 'personnalité', 'fait', 'rester']
-316 : ['RT', 'louis', 'conduit', '4x4', 'a', 'réosseur', 'voit', 'dessus', 'volant']
-317 : ['putain', 'prennent', 'pognon']
-318 : ['non', 'regrette', 'car', 'aime', 'voir', 'plusieurs', 'versions', 'plusieurs', 'visions', 'tellement', 'enrichissant']
-319 : ['branle', 'ferme', 'vas', 'mettre', 'doigt', 'cul']
-320 : ['RT', 'binôme', 'gagnant', 'fidélisation']
-322 : ['RT', 'exclu', '-', 'vient', 'dévoiler', 'clip', 'cherché', 'déchire']
-323 : ['voit', 'bien', 'quel', 'mot', 'utilise', 'plus']
-324 : ['bonjour', 'espérons', 'contact', 'pris', 'jour', 'a', 'apporté', 'pleine', 'satisfaction', 'restons', 'écoute']
-325 : ['service', 'factures', 'réduire', 'note', 'internet']
-326 : ['oh', 'manque', 'respect', 'oubliée']
-327 : ['ciel', 'parisien', 'sous', 'tempête', 'neige']
-328 : ['train', 'grave', 'doc']
-329 : ['hezbollah', 'étiqueté', 'groupe', 'terroriste']
-330 : ['RT', 'club', 'dorothée', '&', 'lt', '3']
-331 : ['dea', 'pratiques', 'incohérentes', 'frontières', 'causent', 'souffrances', 'inutiles']
-332 : ['RT', 'réunion', 'cours', 'présidents', '2ème', 'vp']
-333 : ['RT', 'neige', 'paris', 'mars', 'alors', 'faisais', '13', 'degrés', '24', 'décembre', 'vas', 'falloir', 'expliquer']
-334 : ['oui', 'passent', 'chercher', 'chèque', 'compta']
-335 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-336 : ['gens', 'aiment', 'dormir', 'aiment', 'rer', 'a', 'aime', 'optimisme', 'viendrais', 'hoodie']
-337 : ['voici', 'comme', 'promis', 'cabinet', 'image']
-338 : ['RT', 'si', 'vois', 'chien', 'rue', 'découpe', 'petits', 'morceaux', 'laisse', 'manger']
-339 : ['si', 'habille', 'certaine', 'façon', 'ça', 'veut', 'toujours', 'dire', 'droit', 'toucher']
-340 : ['rencontre', 'prodige', 'moment']
-341 : ['vais', 'renier', 'si', 'mec', 'aime', 'pizza']
-342 : ['sauras', 'année', 'prochaine']
-343 : ['a', 'ouvrir', 'lèvre', 'stylo', 'pdt', 'type', 'bac']
-344 : ['content', 'club', 'compris', 'maillot', 'bleu', 'sacrée', 'connerie']
-345 : ['disent', 'starfoullah', 'mdr', 'matte', 'moche', 'bas', 'vasy', 'mort', 'jmen', 'blc', 'jfais', 'merde', 'mdr']
-347 : ['RT', 'bouteille', 'vin', 'cinq', 'monde', 'italienne']
-348 : ['RT', 'moment', 'gênant', 'où', 'regardes', 'film', 'parents', 'ça', 'fait', 'blagues', 'cul', 'dois', 'faire', 'genre', '…']
-349 : ['enfin', 'bon', 'aimé']
-351 : ['RT', 'voix', 'off', 'tête', 'jlaime', 'trop', 'taille', 'tout', 'monde', 'nik', 'mères', 'nn', 'vraiment', 'jtm']
-353 : ['RT', 'investir', 'prévention', 'l’unique', 'issue', 'politique', 'réduire', 'fardeau', 'l’', 'communiqué']
-355 : ['RT', 'raison', 'laquelle', 'essaye', 'contrôler', 'tempérament', 'sent', 'toujours', 'mal', 'avoir', 'agit…']
-356 : ['turquie', 'accusé', 'd’espionnage', 'journaliste', 'can', 'dündar', 'promet', 'faire', '“le', 'procès', 'l’etat”']
-357 : ['réchauffement', 'climatique', 'tout', 'ça']
-358 : ['RT', 'père', 'trump', 'a', 'arrêté', 'lors', 'd’une', 'manifestation', 'kkk']
-359 : ['sponsor', 'première', 'conférence', 'fr', 'dédiée', 'rdv', '21', '06', '2016']
-362 : ['voit', 'manque', 'personnalité', 'gens', 'quand', 'reçois', 'snap', 'têtes', 'chiens', 'changements', 'visages']
-363 : ['RT', '6', 'toujours', 'personnes', 'aime', 'plus', 'dit', 'moins']
-364 : ['trop', 'hésiter', 'vu', 'prix']
-365 : ['RT', 'espère', 'temps', 'prendre', 'photos', 'ciel', 'bleu', 'déjà', 'retour']
-366 : ['ramène', 'chocolat', 'chaud', 'fromage', 'fondu']
-367 : ['a', 'piraté', 'compte', 'dieu', 'merci', 'cousin', 'a', 'réussi', 'récupérer', 'pleins', 'tweets', 'supprimés']
-368 : ['RT', 'pogba', 'si', 'quelque', 'chose', 'va', 'mal', 'foot', 'redonne', 'sourire', 'amoureux', 'foot', 'amour', 'vie', 'https', '…']
-369 : ['genre', 'meuf', 'ki', 'tombe', 'tt', 'tps']
-370 : ['calais', 'gouvernement', 'face', 'mensonges', 'via']
-371 : ['RT', 'ciara', 'maîtrise', 'merveille', 'coupé-décalé']
-372 : ['RT', 'merci', 'cochon', 'belle', 'dédicace']
-374 : ['temps', 'bipolaire']
-375 : ['RT', 'interdiction', 'exploiter', 'bientôt', 'inscrite', 'code', 'minier', 'https', '…']
-376 : ['RT', 'quand', 'encore', 'déchiré', 'soirée', 'veille', 'vas', 'chercher', 'courrier']
-377 : ['ptdr', 'salon', 'devenu', 'salon', 'beauté']
-378 : ['tout', 'monde', 'snap', 'neige']
-379 : ['RT', 'jsp', 'quoi', 'pire', 'entre', 'fans', 'jul', 'critique', 'nekfeu', '99', 'taille', '2000']
-380 : ['RT', 'selon', 'sexta', 'neymar', 'discuterait', 'toujours', 'psg']
-382 : ['RT', 'tomorrowland', 'poche', 'mamaaaa', 'crois', 'tjrs', 'prix', 'crois', 'ps', 'nn', 'plus', 'mdr']
-383 : ['mec', 'nu', 'mdr', 'encore', 'voiture', 'itinérante']
-384 : ['RT', 'port', 'habit', 'restreignant', 'mouvements', 'présence', 'femmes']
-385 : ['RT', 'clip', 'maintenant', 'disponible', 'integralite', 'exclusivite', '&', 'gt', '&', 'gt', '…']
-386 : ['RT', 'cette', 'vache', 'transcrit', 'propos', 'marine', 'pen', 'sourds', 'malentendants']
-387 : ['RT', 'député', 'defend', 'maintien', 'chasse', 'glu', 'ia']
-388 : ['secours', 'tout', 'monde', 'hype', 'neige', 'ts', 'help']
-389 : ['RT', 'capable', 'planter', 'couteau', 'dos', 'demander', 'pourquoi', 'saignes']
-390 : ['oui', 'viens', 'voir', 'ça', 'snap', 'copine', 'chez', 'a', 'grand', 'soleil', 'ça', 'fait', 'grave', 'froid']
-391 : ['viens', 'vite', 'découvrir', 'nouveau', 'service', 'beauté', 'dont', 'peux', 'plus', 'passer']
-392 : ['princesse', 'mary', 'danemark', 'refuse', 'voile', 'arabie', 'saoudite']
-393 : ['vit', 'bien', 'ouais', 'mdrrr']
-394 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-395 : ['RT', 'neige', 'paris', 'venez', 'faire', 'tour', 'jardin', 'rassurez-vous', 'a', 'tout', 'faut']
-396 : ['extension', 'modulaire', 'autre', 'idée', 'habitat']
-397 : ['RT', 'a', 'toujours', 'raison', 'toujours', 'tout', 'cas', 'dit', '-', '-']
-398 : ['RT', '77', 'grêle', 'enfaite', 'encore', '+', 'sympathique', 'neige']
-399 : ['RT', 'croissance', 'bénéfices', 'capital', 'faut', 'diminuer', 'coût', 'travail']
-400 : ['habille', 'vulgaire', 'ça', 'va', 'empêcher', 'violeur', 'violer']
-401 : ['concerne', 'bien', 'placé', 'savoir', 'idée', 'réçue', 'vécu', 'ca', 'pue']
-402 : ['RT', 'mettez', 'contrôle', 'parental', 'svp']
-403 : ['comme', 'phénomène', 'terminé', 'vont', 'ré-ouvrir']
-404 : ['épuisant', 'laser', 'game', '50gamins']
-405 : ['a', 'vent', 'neige', 'maintenant', 'soleil', 'revient']
-406 : ['RT', 'jeter', 'babouche', 'magnifique', 'peux', 'plus']
-407 : ['RT', 'imagine', 'née', '29', 'février', 'vas', 'fêter', 'aniv', 'tout', '4', 'ans']
-408 : ['ok', 'admets', 'ski', 'cool', 'beaucoup', 'trop', 'cher']
-409 : ['-kai', 'sort', 'actuellement', 'petit', 'ruelle', 'coin', 'ville', 'sang', 'peu', 'coin', 'lèvres', '-']
-410 : ['RT', 'post', 'bad', 'mariage', 'sûrement', 'chose', 'dégoûte', 'plus', 'ici']
-411 : ['RT', 'jsuis', 'sortie', 'cliqué', 'vite', 'fait', 'vring', 'u', 'jsuis', 'tombée', 'ça', 'mdr']
-412 : ['temps', 'nouveau', 'couvert', 'xd']
-413 : ['test', 'skiier', 'a', 'terminé', 'oka', 'ski', 'marathon', 'temps', '00', '23', '38', 'félicitations']
-414 : ['mdrrrr', 'viens', 'rendre', 'compte', 'i', 'ii', 'iii', 'dm', 'croyais', 'iii', 'chiant']
-415 : ['voix', 'peut', 'cacher', 'regard', 'livre']
-416 : ['RT', 'video', '-', 'mario', 'vargas', 'llosa', 'donald', 'trump', 'clown', 'démagogique', 'raciste']
-417 : ['bail', 'part', 'après', 'ya', 'plus', 'bus', 'retour']
-418 : ['avoir', 'mal', 'dire', 'cause', 'cette', 'association', 'précisément']
-419 : ['RT', 'dépend', 'jamais', 'personne', 'parce', 'monde', 'ombre', 'quitte', 'noir']
-420 : ['sherkan', 'tigre', 'livre', 'jungle']
-421 : ['chien', 'handicap', 'présenté', 'aftaa', 'fr', '—', 'kisskissbankbank', 'via']
-422 : ['insulte', 'bah', 'dit', 'donc', 'petit', 'sait', 'faire', 'différence', 'entre', 'insultes', 'phrase', 'sans', 'insulte', 'o']
-423 : ['RT', 'arabes', 'leurs', 'mariages', 'c’est', 'délire', 'louent', 'audi', 'lambo', 'fusées', 'jet', 'packs', 'finir', '8eme', 'eta…']
-424 : ['RT', 'vidéos', '–', 'pourquoi', 'scott', 'kelly', 'devenu', 'astronaute', 'plus', 'cool', 'univers', '-', 'metronews', 'https…']
-425 : ['RT', 'subhnan', 'allah', 'temps', 'dehors', 'dieu', 'vraiment', 'puissant']
-426 : ['3eme', 'trimestre', 'jme', 'dit', 'trop', 'sert', 'a', 'r', 'jv', 'taffer']
-427 : ['RT', 'pire', 'jcrois', 'ls', 'gens', 'ki', 'croient', 'indispensables', 'ptdr', 'vs', 'etes', 'ls', 'meilleur', 'vs', 'changez']
-428 : ['RT', 'code', 'code', 'tie', 'va']
-429 : ['RT', 'binôme', 'gagnant', 'fidélisation']
-430 : ['RT', 'feu', 'apres', 'bar']
-431 : ['RT', 'caractéristiques', 'importantes', 'niveau', 'consistance', 'qualité', 'matériaux', 'http…']
-433 : ['avoue', 'naze', 'celui', 'là', 'aime', 'bien', 'reste', 'perso']
-434 : ['tout', 'monde', 'dis', 'neige', 'là', 'où', 'a', 'grand', 'soleil']
-435 : ['écoute', 'nouvel', 'album', 'the', '1975', 'chui', '____', 'pq', 'jme', 'embrouillé', 'laura']
-436 : ['RT', 'genre', 'fille', 'boude', 'craque', 'bout', 'deux', 'minutes']
-437 : ['RT', 'team', 'message', 'mignon', 'soir', 'ni', 'matin', 'ni', 'jamais']
-439 : ['RT', 'breaking', 'news', 'cette', 'averse', 'neige', 'duré', 'aussi', 'longtemps', 'pokémon', 'direct']
-440 : ['ciel', 'où', 'tenez-vous', 'résolution', '2211', 'contredit', 'précédentes', 'préséante']
-441 : ['grave', 'pvp', '1', '9', 'mal', 'p']
-442 : ['RT', 'profs', 'ça', 'fait', '20ans', 'lycée', 'savent', 'tjrs', 'quand', 'ça', 'sonne', 'ça', 'fait', 'trois', 'ans', 'sais', 'plus', '…']
-443 : ['vidéo', 'roadtrip', '457', 'missions', 'parcourir', 'états-unis']
-444 : ['RT', 'concours', '75', 'follower', 'tirage', 'sort', 'RT', 'tenter', 'gagner', 'pack']
-445 : ['veux', '7-0', 'effectivement', 'cas', 'échéant', 'politique', 'opposition', 'profilée', 'nécessaire']
-446 : ['bon', 'contre', 'confrère', 'adverse', 'souci', 'hein', 'spour', '1', 'ami', 'plus', 'a', 'prescription', 'souffle-t-il']
-447 : ['rêve', 'fini', 'mnt', 'pleut']
-448 : ['RT', 'gradur', 'quand', 'venait', 'arriver', 'game', 'envoyais', 'freestyle', 'sheguey', 'chaque', 'semaine', 'énerver', 'main…']
-449 : ['RT', 'clip', 'maintenant', 'disponible', 'integralite', 'exclusivite', '&', 'gt', '&', 'gt', '…']
-451 : ['excuse', 'dire', 'ça', 'extrêmement', 'drôle', 'dit', 'donc', 'trop', 'dur', 'brevet', 'cette', 'année']
-452 : ['instant', 'foodporn', 'découvrez', 'cornet', 'glace-donut']
-453 : ['RT', '3', '26', '27', 'arrive', 'supplie']
-454 : ['RT', 'rester', '4h', 'assise', 'chaise', 'rater', 'bac', 'blanc', 'jdis', 'non']
-455 : ['RT', 'cette', 'fille', 'aime', 'fort', 'plait', 'RT', 'meilleure', 'a', 'jamais', 'pu', 'rencontrer', 'ni', 'voir', '…']
-456 : ['wshhh', 'quoi', 'temps']
-457 : ['RT', 'bonjour', 'cette', 'personne', 'a', 'disparu', 'dimanche', 'pensez', 'proches', 'merci', 'plus', 'possible', 'plaît']
-458 : ['saviez-vous', 'répond', 'toutes', 'questions', 'santé', 'sexuelle']
-459 : ['série', 'documentaire', 'réalisé', 'jeu', 'tom', 'the', 'division', 'ubisoft', 'biborg', '&', 'amp', 'r+i', 'creative']
-461 : ['RT', 'tiens', 'frère', 'vient', 'être', 'fait', 'chevalier', 'ordre', 'mérite', 'http…']
-462 : ['RT', 'rdv', '11', 'mars']
-463 : ['ba', 'aya', 'cissoko', 'canard', 'enchainé', 'cette', 'semaine']
-464 : ['RT', 'électeurs', 'crédules', 'gauche', 'répétition', 'quittent', 'navire']
-465 : ['premier', 'dérange', 'placard', 'casse', 'gueule']
-466 : ['vent', 'emportais', 'mdr']
-467 : ['ça', 'prend', 'compte', 'ratio', 'wins', 'normale', 'si', 'a', 'jamais', 'ranked', 'avant', 'crois']
-468 : ['faut', 'regretter', 'passé', 'regarder', 'vers', 'futur']
-469 : ['RT', 'selon', 'bilan', 'financier', 'transfert', 'luis', 'a', 'rapporté', '96', '3m€']
-470 : ['bonjour', 'voici', 'lien', 'sondage', 'tpe', 'pourriez', 'répondre', 'svp', 'merci']
-471 : ['contre', 'qd', 'jui', 'rentrée', 'g', 'vu', 'jav', 'tâche', 'pantalon', 'jsp', 'a', 'vu']
-472 : ['RT', 'comment', 'peux', 'défendre', 'viol', 'a', '0', 'excuses']
-473 : ['RT', 'pourquoi', 'tout', 'temps', 'retard']
-474 : ['quand', 'gens', 'encore', 'là', 'faut', 'profiter', 'après', 'trop', 'tard', 'regrettes', 'avoir', 'pris', 'temps']
-476 : ['RT', 'bande', 'plus', 'quand', 'frotte']
-477 : ['plupart', 'haineux', 'lu', 'livre', 'haine']
-478 : ['quelles', 'régions', 'où', 'a', 'plus', 'd’offres', 'emplois', 'non', 'pourvues', 'via']
-479 : ['a', 'cheveux', 'comme', 'katherine', 'prcq', 'si', 'non', 'cst', 'premier', 'double']
-480 : ['RT', 'baroudeurs', 'beauce-centre', 'atome', 'cc', 'remportent', 'tournoi', 'beauport']
-481 : ['RT', 'jour', 'où', 'pub', 'mascara', 'arrêteront', 'prendre', 'connes', 'leurs', 'putain', 'faux', 'cils', 'f…']
-482 : ['RT', 'starfoullah', 'insulter', 'temps', 'tout', 'puissant', 'envoi', 'temps']
-484 : ['boîte', 'easy-r', 'dacia', 'désormais', 'dci', '90']
-485 : ['pk', 'quand', 'neige', '77', 'là', 'voir']
-487 : ['jour', 'anniversaire', 'offre', 'stp']
-489 : ['blague', 'temps', 'contre']
-490 : ['mec', 'tente', 'rattraper', 'x']
-491 : ['surtout', 'envie', 'voir']
-492 : ['clair', 'savent']
-493 : ['RT', 'a', 'quel', 'niveau', 'relou', 'estimez', 'mec', 'fout', 'pieds', 'côté', 'connais', 'pue', 'croit', 'seul']
-494 : ['RT', 'bonne', 'nouvelle', 'ceux', 'place', 'match', 'retransmi', 'écran', 'géant', 'salle', 'herel', 'boul…']
-495 : ['roh', 'dommage', 'demande', 'si', 'vais', 'monter', 'paris', 'faire', 'a', 'plus', 'monde']
-496 : ['apple', 'whatsapp…', 'conflit', 'mondial', 'entre', 'autorités', 'géants', 'web', 'durcit']
-497 : ['yeux', 'aussi', 'noirs', 'démon', 'celui', 'ressurgit', 'ai…']
-499 : ['RT', 'journal', 'fin', 'monde', 'jour', '1', 'astres', 'alignés', 'neige', 'pluie', 'vent', 'combiné', 'comme', 'pro…']
-501 : ['RT', 'exclu', '-', 'vient', 'dévoiler', 'clip', 'cherché', 'déchire']
-504 : ['RT', 'annulation', '¦pont', 'jacques-cartier', 'fermetures', 'complètes', 'nuit', '7-8-9', 'mars']
-505 : ['pouvoir', 'changer', 'toute', 'notes']
-506 : ['hier', 'cuba', 'vla', 'soleil', 'rentre', 'a', 'orage', 'après', 'neige']
-507 : ['RT', 'ça', 'choque', 'voir', 'neige', 'mars', 'tsa', 'signes', 'fin', 'temps', 'temps', 'divague', 'comme', 'ça']
-508 : ['RT', 'sûr', 'hn', 'crois', 'go', 'possessive', 'truc', 'genre']
-509 : ['RT', 'merci', 'lillois', 'beaucoup', 'sourires', 'cadeaux', 'dédicaces', 'surtout', 'retour', 'paris', 'triste']
-510 : ['RT', 'reportage', 'spécial', 'soir', 'jt', 'tv', 'libertés', '19h', '&', 'amp', 'élus', 'https…']
-511 : ['merci', 'parisiens', 'petit', 'rappelle', 'a', 'chance', 'vivre', 'sud']
-512 : ['franchement', 'etais', 'obliger', 'rappeler']
-513 : ['bonjour', 'trouvé', 'problème', 'service', 'paypal', 'hésitez', 'recontacter', 'si', 'cela', 'persiste', 'dw']
-514 : ['oui', 'a', 'temps', 'réfléchisse', 'vengeance']
-515 : ['ça', 'sent', 'bazar', 'périph']
-516 : ['RT', 'temps', 'enlever', 'chaussettes', 'peut', 'rendre', 'compte', 'point', 'faire', 'erreur']
-517 : ['internet', 'peu', 'comme', 'neg', 'marrons', 'fait', 'bilan', 'voici', 'bilan', 'année', 'internet', '2015']
-518 : ['RT', 'prêts', 'découvrir', 'clip', '-', '&', 'gt', 'disponible', 'exactement', '30', 'minutes']
-519 : ['RT', 'arabes', 'leurs', 'mariages', 'c’est', 'délire', 'louent', 'audi', 'lambo', 'fusées', 'jet', 'packs', 'finir', '8eme', 'eta…']
-520 : ['québec', 'lino', 'saputo', 'numéro', '1']
-521 : ['RT', 'tout', 'monde', 'coucherait', 'tout', 'monde', 'comme', 'con', 'train', 'filmer', '…']
-522 : ['bouleversé', 'témoignage', 'poignant', 'aristide', 'barraud', 'hui', 'quelle', 'force']
-523 : ['RT', 'hommage', 'disparu', 'a', '25', 'ans', 'spéciale', 'reprises', 'gainsbourg', 'bashung', 'dès', '14', '03', 'https', '…']
-524 : ['RT', 'apple', 'whatsapp…', 'conflit', 'mondial', 'entre', 'autorités', 'géants', 'web', 'durcit']
-525 : ['team', 'procrastiné', 'révisions', 'possible', 'dois', 'tout', 'apprendre', 'soir', 'pck', 'demain', 'bac', 'blanc', 'oui', 'aime']
-526 : ['RT', 'quand', 'élite', 'communicants', 'juge', 'fiasco', 'hollande', 'périscope']
-527 : ['blog', 'roi', 'eco', 'l’hommage', 'daniel', 'bougnoux']
-528 : ['RT', 'aimé', 'voir', 'sourire', 'moins', 'fois', 'pouvoir', 'dire', 'terre', 'entière', 'comme', 'genre', 'sourire', 'qu…']
-529 : ['RT', 'suivez', 'soir', '1', '8ème', 'finale', 'retour', 'eurocup', 'face', 'gran', 'canaria', 'direct']
-530 : ['RT', 'dimanche', 'soir', 'moment', 'où', 'regrettes', 'avoir', 'assez', 'profiter', 'weekend', 'jvous', 'jure']
-531 : ['prof', 'tellement', 'lent', 'encore', 'passé', 'transparents', 'lieu', 'parler', 'diapos']
-532 : ['deux', 'ans', 'après', 'avoir', 'brûlée', 'retire', 'masque', '-', 'tribunal', 'net']
-533 : ['quoi', 'expression', 'utilises', 'plus', 'moment']
-534 : ['RT', 'ca', 'fait', '2', 'ans', 'nique', 'game', 'oses', 'demander', 'comment', 'appelle']
-535 : ['oui', 'adore', 'neige', '&', 'lt', '3']
-536 : ['RT', 'manière', 'dont', 'personne', 'habillée', 'donne', 'droit', 'outrepasser', 'droits', 'porter', 'atteinte', 'd…']
-537 : ['RT', 'petit', '5', 'ans', 'fait', 'violer', 'pédophile', 'faute', 'aussi', 'psq', 'trop', 'sexy', 'petit', 'short']
-538 : ['story', 'tout', 'monde', 'ça', 'parle', 'neige', 'paris']
-539 : ['booba', 'a', 'bouleversé', 'climat']
-540 : ['RT', 'oui', 'lance', 'hashtag', 'nombreux', 'mobiliser']
-541 : ['RT', 'entretien', 'ac', 'commissaire', 'pr', 'avancer', 'positions', 'françaises', 'avt', 'conseil', '14', 'mars']
-542 : ['RT', 'guettez', 'logo', 'coca', 'cola', 'fait', 'cote', 'blanc', 'crache', 'noir']
-543 : ['RT', 'demain', 'sonne', 'départ', 'désormais']
-545 : ['a', 'gardé', 'côté', 'allez', 'kits', 'giboulées', 'mars', 'tout', 'monde']
-546 : ['thon', 'feu']
-547 : ['RT', 'poserais', 'jour', 'rtt', 'lendemain', 'remettre']
-548 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-549 : ['RT', 'coran', 'a', 'sortie', 'lycee', 'jai', 'pousser', 'meuf', 'sans', 'mexcuser', 'ajouter', 'fb', 'dis', 'depuis', 'pousser', 'j…']
-550 : ['RT', '9', 'cassez', 'couilles', 'histoire', '2000', 'surtout', 'plupart', 'gens', 'parle', '2000', '31', '1…']
-551 : ['RT', 'hui', 'sinistré', '9', '25', 'journalistes', 'site', 'gagnent', 'moins', '1700', 'euros', 'merci', 'directoire', 'https', '…']
-552 : ['RT', 'pop', 'in', 'risoul', 'focus', 'challenge', 'féminin']
-553 : ['est-ce', 'gouvernement', 'mafia', 'déguisé', 'fait', 'volé', 'grand', 'jour']
-554 : ['quand', 'fracasses', 'surf', 'physique']
-555 : ['algérie', 'général-major', 'menad', 'nouba', 'entame', 'visite', 'travail', 'turquie', 'le…']
-556 : ['lâche', '4400', 'points', 'après', 'annonce', 'département', 'énergie', 'américain', 'stocks', 'pétrole', 'forte', 'hausse']
-557 : ['comprends', 'francais', 'dsl']
-558 : ['RT', 'faut', 'vraiment', 'arrête', 'supporter', 'foutu', 'écrire', 'correctement', 'français', 'ras', 'bol', 'vo…']
-559 : ['RT', 'jour', 'où', 'tout', 'basculer']
-560 : ['attendez', 'déluge', '6h', 'réparation', 'blague', 'relation', 'client', 'faites', 'quoi']
-561 : ['batna', 'installation', 'd’un', 'comité', 'pilotage', 'convention', 'entre', 'cac', 'chu', 'des…']
-563 : ['RT', 'bien', 'neige', 'tombe', 'tôt', 'paris', 'ça', 'laisse', 'temps', 'tf1', 'france', '2', 'préparer', 'sujet', '20', 'minutes', '…']
-564 : ['RT', 'sait', 'faut', 'méfier', 'tout', 'monde', 'vraiment']
-565 : ['RT', 'vente', 'enchères', 'reprogrammée', '22', 'mars', 'merci']
-566 : ['temps', 'fait', 'importe', 'quoi', 'maintenant', 'a', 'plus', 'saison']
-567 : ['installation', 'd’un', 'comité', 'pilotage', 'convention', 'entre', 'cac', 'chu', 'batna', 'des…']
-568 : ['RT', 'vie', 'brusquée', 'temps']
-569 : ['RT', 'résultats', 'cette', 'étude', 'viol', 'font', 'froid', 'dos']
-570 : ['film', 'nul', 'dispositif', 'envoie', 'lourd']
-571 : ['urine', 'devant', 'directrice', 'd’une', 'maison', 'repos', 'd’antoing', 'où', 'vit', 'maman', 'j’étais', 'saoul']
-572 : ['plus', 'qu’une', 'semaine', 'inscrire', 'déjeuner-conférence', 'calin', 'rovinescu', '10', 'mars']
-573 : ['RT', 'selon', 'sexta', 'neymar', 'discuterait', 'toujours', 'psg']
-574 : ['neige', 'france', 'comment', 'vivez']
-576 : ['mieux', 'biblio-bus', 'cheval', 'bibliothèque', 'via']
-577 : ['vois', 'toulemonde', 'dit', 'cc']
-578 : ['gars', 'oubliez', 'toujours', 'soleil']
-580 : ['tous', 'monde', 'filmer', 'neige', 'snap']
-581 : ['RT', 'arrêtez', 'croir', 'vs', 'bonhommes', 'gérer', '10', 'go', 'jours', 'vrais', 'bonhomme', 'celui', 'arrive', 'a', 'garder', 'femm…']
-582 : ['RT', 'arabes', 'leurs', 'mariages', 'c’est', 'délire', 'louent', 'audi', 'lambo', 'fusées', 'jet', 'packs', 'finir', '8eme', 'eta…']
-583 : ['ca', 'parle', 'jeanne', 'dos']
-584 : ['finis', 'neige', 'soleil', 'revient']
-585 : ['RT', 'merci', 'cette', 'interview', 'unique', 'manquer', '27', 'mai']
-586 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-587 : ['dirais', 'violeur', 'mec']
-588 : ['arrivée', 'temps', 'ask', 'jérémy', 'lucie', 'plus', 'attendre', 'vingtaine', 'minutes', '&', 'lt', '3']
-589 : ['forfait', 'red', '500', 'mo', '5', 'euros', '1', 'centime', 'abonnés', 'fibre', 'après', 'forfait', 'ill']
-590 : ['urine', 'devant', 'directrice', 'd’une', 'maison', 'repos', 'd’antoing', 'où', 'vit', 'maman', 'j’étais', 'saoul', 've', 'tournai']
-591 : ['simple', 'fait', 'zz', 'fasse', 'autant', 'travail', 'musculaire', 'montre', 'bien', '1', 'entraîneur', 'français']
-592 : ['RT', 'dimitri', 'payet', 'west', 'ham', 'petit', 'saint-étienne', 'stade', 'supporters', 'dingues', 'équipe']
-593 : ['gamefly', 'apporte', 'jeu', 'streaming', 'tv', 'lg', 'sous', 'webos']
-594 : ['RT', '63', '%', 'français', 'considèrent', 'plus', 'difficile', 'hommes', 'femmes', 'maîtriser', 'désir', 'sexuel']
-595 : ['RT', 'video', '-', 'mario', 'vargas', 'llosa', 'donald', 'trump', 'clown', 'démagogique', 'raciste']
-596 : ['RT', 'a', 'tornade', 'chez', 'nuda', 'fini', 'tramway', 'perdu', 'bras', 'route', 'l’hôpital', 'RT', 'chaque', 'goûte…']
-597 : ['docteur', 'plumette', 'vérité', 'truc', 'bizarre']
-598 : ['RT', 'personne', 'apprendre', 'respecter', 'corps', 'femmes', 'droit', 'refuser', 'ms', 'ça', 'vient', 'parler', 'vêtemen…']
-599 : ['RT', 'punaise', 'faîtes', 'exprès', 'fin', 'coupe', 'decale', 'wtf', 'pouvez', 'google', 'https', '…']
-600 : ['ui', 'bah', 'ça', 'passe', 'juste', 'jui', 'ultra', 'stressé', 'nature', 'coup', 'vachement', 'crispé', '+', 'volant']
-601 : ['dis', 'contrôle', 'temps']
-603 : ['RT', 'livre', 'jongle']
-604 : ['RT', 'quand', 'tout', 'monde', 'ts', 'crie', 'oh', 'putain', 'neige', 'là', 'solitude']
-605 : ['homme', 'vie', 'train']
-606 : ['RT', 'genre', 'pote', 'envoie', 'messages', 'chaque', 'jour', 'là', 'si', 'jour', 'arrive', 'pire', '…']
-607 : ['b2s', 'décidé', 'annuler', 'festival', 'knock-out', 'car', 'assez', 'tickets', 'vendu', 'pouvoir', 'assurer', 'show']
-608 : ['code']
-609 : ['RT', '8', 'ceux', 'pensent', 'palestine', 'seul', 'pb', 'monde', 'alrs', 'là', 'grosse', 'flm', 'bois', 'ça', 'sors', 'palestine', 'a…']
-611 : ['RT', 'fais', 'faux', 'malaise', 'ptdr', 'pompier', 'venu', 'tout', 'jvois', 'mère', 'rentre', 'camion', 'mdit', 'sais', 't…']
-612 : ['pourquoi', 'neige', 'paris', 'quand', 'jsuis', 'sud']
-613 : ['RT', 'breaking', 'news', 'cette', 'averse', 'neige', 'duré', 'aussi', 'longtemps', 'pokémon', 'direct']
-614 : ['RT', 'bonjour', 'cette', 'personne', 'a', 'disparu', 'dimanche', 'pensez', 'proches', 'merci', 'plus', 'possible', 'plaît']
-615 : ['enfant', 'abîmée', 'sais', 'enlève', 'plutôt', 'b', 'ressemble', 'plus']
-616 : ['manipulation', 'ça', 'rentre', 'cadre', 'pn', 'risque']
-618 : ['RT', 'top', '5', 'choses', 'manquent', 'plus', 'ol', 'lisandro', '1er', 'devant', 'lisandro', 'lisandro', 'lisandro', 'lisa…']
-619 : ['RT', 'physique', 'attire', 'personnalité', 'fait', 'rester']
-620 : ['RT', 'physique', 'attire', 'personnalité', 'fait', 'rester']
-621 : ['calvaire', 'nounours', 'n’est', 'termine', '-', 'clicanimaux', 'via']
-622 : ['auxerrexpo', 'cfe', 'organisent', '6', 'ème', 'salon', 'vins', 'france', '11', '13', 'mars', '2016', 'via']
-623 : ['canton', 'genève', 'porte', 'plainte', 'contre', 'centrale', 'nucléaire']
-624 : ['vrai', 'juste', 'nom', 'match', 'faits', 'promis']
-625 : ['RT', 'nicolas', 'sarkozy', 'salon', 'depuis', '7h30', 'matin', 'hall', '1', 'interfel', 'hall2']
-626 : ['a', 'jayn', 'gael', 'wesh', 'soldats', 'ombre', 'déjà', 'déréglé', 'réseau', 'veut', 'finale', 'après', '3', 'vs', '3']
-627 : ['effet', 'passé', '16h16', 'pouvez', 'faire', 'réclamation', 'signaler', 'si', 'souhaitez']
-628 : ['RT', 'jsui', 'mort', 'taleur', 'vigile', 'pistait', 'gars', 'regarder', 'comment', 'espionnai', 'a', 'travers', 'rayons']
-629 : ['gros', 'trop', 'drôle', 'mdr']
-630 : ['RT', 'neige', 'chez', 'tt', 'monde', 'chez', 'moa']
-631 : ['RT', 'follow', '+', 'RT', 'tenter', 'gagner', 'nouveau', 'places', 'cinéma', 'bonne', 'chance', 'https', '…']
-632 : ['a', 'quebec', 'bordel', 'pire', 'p']
-633 : ['RT', 'sais', 'plus', 'drôle', 'entre', 'chute', 'génial', 'mec']
-634 : ['RT', 'nouvelle', 'source', 'twitter', 'paul', 'wesley', 'the', 'vampire', 'diaries', 'petit', 'RT', 'lancer', 'compte', 'https', '…']
-635 : ['jvis', 'nord', 'neige', 'quoi', 'cette', 'arnaque']
-637 : ['RT', 'reste', 'toujours', 'extrêmement', 'fidèle', 'amis']
-638 : ['bts', 'tuuuent', 'dire', 'film', 'année', 'prochaine']
-639 : ['RT', 'certains', 'rêvent', 'machine', 'remonter', 'temps', 'faut', 'savoir', 'arrêter', 'méditer', 'prier', 'sages', 'décisions', 'fonc…']
-640 : ['pars', 'principe', 'si', 'avoue', 'sentiments', 'va', 'rejeter', 'parce', 'juste', 'truc', 'plus', 'probable']
-641 : ['RT', 'sœur', 'a', 'reçu', 'ça', 'métro', 'mdrrrrrrrrrrrr', 'yen', 'a', 'marre', 'noirs']
-642 : ['RT', 'empêche', 'merci', 'tous', 'autres', 'concert', 'ouf']
-643 : ['compris', 'dernier', 'album', 'jorrdee', 'vraiment', 'édition', 'digitale', 'limitée…']
-644 : ['RT', 'jours', 'où', 'fille', 'entourage', 'va', 'faire', 'violer', 'verra', 'si', 'cautionnez', 'toujours']
-645 : ['RT', 'neige', 'plus', 'bon', 'tout', 'monde', 'retourne', 'retours', 'clients', 'fin', 'récré']
-646 : ['joignez-vous', 'séance', 'clavardage', 'santé', 'numérique', '8', 'mars', 'midi']
-647 : ['fait', 'qcm', 'ds', 'maths']
-648 : ['RT', 'ça', 'change', 'accueil', 'réservé', 'président', 'moins', 'message', 'clair']
-649 : ['lance', 'campagne', 'mobilisation', 'contre', 'rdv', '9', 'mars', 'a']
-650 : ['pète', 'jme', 'gray']
-651 : ['tiens', 'plutôt', 'mal', 'aussi', 'dit', 'donc']
-652 : ['crois', 'si', 'bien', 'dire', 'tsunami', 'approche']
-653 : ['RT', 'selon', 'sexta', 'neymar', 'discuterait', 'toujours', 'psg']
-654 : ['surtout', 'roux', 'ah', 'oe']
-655 : ['RT', 'importe', 'donnée', 'grande', 'http…']
-656 : ['meilleur', 'aime', '…']
-658 : ['RT', 'concours', '-', '2', 'places', 'pelouse', 'concert', 'stade', 'france', 'RT', 'commente', 'tweet', 'https', '…']
-659 : ['déjà', 'père', 'appelle', 'kévin', 'donc', 'bon']
-660 : ['tout', 'monde', 'excite', 'parce', 'neige', 'détendez', 'hein']
-661 : ['RT', 'supprime', 'plan', 'action', 'gouvernemental', 'solidarité', 'inclusion', 'sociale', 'pagsis', 'économies', 'dos', 'de…']
-662 : ['vais', 'tenir', 'sens', 'déjà']
-664 : ['bon', 'déjà', 'mardi', 'mercredi', 'comme', 'repos', 'contre', 'sais', 'vais', 'faire', 'carnaval', 'cette', 'année']
-665 : ['termine', 'merci', 'avoir', 'suivi']
-667 : ['détenu', 'filmé', 'periscope', 'pris', '6', 'mois', 'prison', 'supplémentaires']
-668 : ['RT', 'clip', 'maintenant', 'disponible', 'integralite', 'exclusivite', '&', 'gt', '&', 'gt', '…']
-669 : ['si', 'dis', 'ça', 'blesse', 'grave', 'imagine', 'idk', 'merci']
-670 : ['RT', '1', 'français', '4', 'viol', 'excusable', 'si', 'fille', 'habillée', 'sexy']
-671 : ['preview', 'deux', 'scénaristes', 'deux', 'dessinateurs', 'tome', '2', 'ghost', 'sortira', '9', '03']
-672 : ['RT', 'info', 'reste', 'quelques', 'jours', 'projet', 'anniversaire', 'anaïs', 'envoyé', 'montages', 'pour…']
-673 : ['bref', 'attends', 'bus', 'arrive', 'toujours', 'retard']
-674 : ['RT', 'si', 'jamais', 'ça', 'peut', 'dépanner', 'certains', 'connais', 'site', 'contre']
-675 : ['RT', 'milliardaire', 'bill', 'koch', 'brade', 'incroyable', 'chalet', 'aspen']
-676 : ['RT', 'ingénieures', 'tenez', 'chance', 'concours', 'deadline', '25', '03']
-677 : ['oui', 'ya', 'tout', 'sephora', 'va', 'grand', 'sephora', 'trouver', 'teinte', 'foncé', 'site']
-678 : ['mendy', 'podium', 'crois', 'qualité', 'jeu', 'bonne']
-679 : ['-', 'réveil', 'force', 'visuel', 'édition']
-681 : ['RT', 'seul', 'ceux', 'là', 'depuis', 'début', 'resteront', 'fin']
-682 : ['RT', 'soleil', 'vent', 'pluie', 'grêle', 'neige', 'soleil', 'pluie', 'grisaille', 'seule', 'heure', 'havre', 'aime']
-683 : ['boîte', 'easy-r', 'dacia', 'désormais', 'dci', '90']
-684 : ['retrouvé', 'pull', 'ex', 'vais', 'envoyer', 'bled', 'aussi']
-685 : ['pinard', 'fait', 'ça']
-686 : ['buzz-déjeuner', 'timbre', 'officiel', 'euro', 'sent', 'herbe', '-déjeuner', 'euro', 'herbe']
-687 : ['RT', 'saviez', 'invente', 'jeux', 'autres', 'serveurs']
-688 : ['neige', 'chez', 'tout', 'monde', 'quoi']
-689 : ['RT', 'durant', 'salon', 'agriculture', 'pleut', 'comme', 'vache', 'pisse']
-690 : ['beau', 'chiant', 'ça', 'va', 'être', 'coton', 'retour', 'chez', 'moto']
-691 : ['RT', 'découvrez', 'paris', 'ticket', 'conçu', 'startupers', 'internationaux', 'ht…']
-692 : ['julien', 'passe', 'code', 'semaine', 'prochaine', 'fait', '9', 'fautes', 'alors', 'fait', '6', 'passe', 'tout', 'suite']
-693 : ['bon', 'ben', 'après', 'quelques', 'minutes', 'neige', 'voila', 'retour', 'soleil']
-694 : ['yuko', 'yuko', 'paris', '15', 'avril', 'toutes', 'dates', 'tournée', 'bientôt']
-695 : ['RT', 'où', 'monde', 'bisounours']
-696 : ['boîte', 'easy-r', 'dacia', 'désormais', 'dci', '90']
-697 : ['RT', 'arabes', 'leurs', 'mariages', 'c’est', 'délire', 'louent', 'audi', 'lambo', 'fusées', 'jet', 'packs', 'finir', '8eme', 'eta…']
-698 : ['RT', 'conseil', 'professeur', 'chaque', 'chose', 'temps', 'william', 'crois', 'moment', 'utiliser', 'ça…']
-699 : ['pire', 'histoire', 'insiste']
-700 : ['RT', 'commentaire', 'très', 'pertinent', 'pl59', 'discours', 'haineux', 'défini', 'pl', '59', 'jdm']
-701 : ['RT', 'tunnels', '-', 'saisit', 'cour', 'comptes', 'concernant', 'gestion', 'bruxelles', 'mobilité']
-702 : ['petit', 'chien', 'anges', 'trop', 'trop', 'mignon']
-703 : ['ça', 'tt', 'monde', 'met', 'snap', 'dire', 'neige', 'wsh', 'fermez', 'gueule', 'vois', 'bien', 'neige']
-704 : ['après', 'avoir', 'modifié', 'code', 'criminel', 'couper', 'budgets', 'rempli', 'prisons', 'plaint', 'récidive']
-705 : ['où', '77', 'chelles', 'neige']
-706 : ['moment', 'prévenu', 'neige', 'lisant', 'tweet', 'alors', 'pouvais', 'juste', 'regarder', 'fenêtre']
-707 : ['ça', 'date', 'quand', 'gangsta', 'rap']
-708 : ['demain', 'percent', 'va', 'tous', 'faire', 'bizuter', 'terminales']
-709 : ['RT', 'soleil', 'paris', 'enfiiiin']
-710 : ['où', 'neige', 'ciel', 'super', 'bleu', 'ici']
-711 : ['vais', 'donc', 'tout', 'temps', 'enfer', 'vers', 'enfer']
-713 : ['vent', 'cocu']
-714 : ['tt', 'manière', 'là', 'où', 'habite', 'a', 'dû', 'neiger', 'aller', 'quoi', '2', '3', 'fois', 'depuis', 'encore', 'dure', 'mm', 'ptdrrr', 'wouhou', 'vive', 'sud']
-715 : ['audio', '-', 'serveur', 'devrait-il', 'payer', 'client', 'va', 'sans', 'payer']
-716 : ['pere100', 'metz', 'feux']
-717 : ['RT', 'imaginez', '2016', 'a', 'gens', 'pensent', 'viol', 'grave', 'oh', 'wait', 'réalité']
-718 : ['RT', 'tnt', 'hd', 'aide', 'équipement', 'assistance', 'proximité', 'aide', 'réception', 'passage', 'haute', 'définition', 'htt…']
-719 : ['RT', '3', 'étapes', 'passé', 'soirée', 'twitter', 'lieu', 'réviser', 'contrôle']
-720 : ['RT', 'follow', '+', 'RT', 'tenter', 'gagner', 'nouveau', 'places', 'cinéma', 'bonne', 'chance', 'https', '…']
-721 : ['christianisme', 'mémoires', 'provence', 'leopold', 'mandic', 'saint', 'reconciliation']
-722 : ['RT', 'follow', '+', 'RT', 'tenter', 'gagner', 'nouveau', 'places', 'cinéma', 'bonne', 'chance', 'https', '…']
-723 : ['RT', 'hâtes', 'filtre', 'chien', 'disparait', 'snapchat', 'gens', 'redeviennent', 'moches']
-724 : ['RT', 'follow', '+', 'RT', 'tenter', 'gagner', 'nouveau', 'places', 'cinéma', 'bonne', 'chance', 'https', '…']
-725 : ['RT', 'combattre', 'financement', 'pistes', 'eng']
-726 : ['RT', 'cette', 'vache', 'transcrit', 'propos', 'marine', 'pen', 'sourds', 'malentendants']
-727 : ['RT', 'bien', 'neige', 'tombe', 'tôt', 'paris', 'ça', 'laisse', 'temps', 'tf1', 'france', '2', 'préparer', 'sujet', '20', 'minutes', '…']
-728 : ['RT', 'faut', 'explique', 'macdo', 'hier', 'grosses', 'barres']
-729 : ['bruit', 'fait', 'story', 'quand', 'tape', 'olivio', 'tue']
-730 : ['mdrrrrr', 'tal', 'océ', 'loulou', 'auré', 'amusait', 'échanger', 'visages', 'vu', 'sketch', 'ptn']
-731 : ['viens', 'essaie', 'tiens']
-732 : ['RT', 'mariage', 'comme', 'restaurant', 'peine', 'est-on', 'servi', 'regarde', 'a', 'assiette', 'voisin', 'sach…']
-733 : ['RT', 'président', 'arrive', 'rencontrer', 'premiers', 'lauréats']
-734 : ['RT', 'putain', 'vie', 'soleil', 'ça', 'fait', 'bien']
-736 : ['trkl', 'super', 'sauf', 'temps', 'degue', 'sinon', 'askip', 'neige', 'a', 'paris', 'vre']
-737 : ['passe', 'tellement', 'toutes', 'saisons', 'journée', 'sais', 'plus', 'comment', 'habiller', 'matin']
-738 : ['faire', 'premier', 'mettre', 'fierté', 'côté']
-739 : ['RT', 'quand', 'prend', 'bus', 'chauffeur', 'attend', 'poser', 'bien', 'tout', 'ça', 'non', 'milieu', 'démarre', 'fais…']
-740 : ['RT', 'tout', 'monde', 'snapper', 'neige', 'ko']
-742 : ['brésil', 'dirigeant', 'facebook', 'refusait', 'collaborer', 'va', 'être', 'libéré']
-743 : ['RT', 'testé', 'freinage', 'glisse', 'bah', 'encore', 'ça']
-744 : ['question', 'plus', 'simple', 'faire', 'comme', 'canada', 'faire', 'venir', 'vrais', 'réfugiés', 'avion']
-745 : ['comment', 'peut-on', 'faire', 'lois', 'travail', 'quand', 'a', 'jamais', 'travaillé', 'réalité']
-746 : ['envoyer', 'question', 'ht', 'meilleures', 'retenue', 'poser', 'a', 'boss']
-747 : ['RT', 'meme', 'aimant', 'foot', 'gars', 'fait', 'basket', 'a', 'plus', 'charme', 'mdr', 'ca', 'veut', 'rien', 'dire', 'sais', 'comme', 'ça']
-748 : ['RT', 'manoir', 'rendu', 'célèbre', 'kim', 'dotcom', 'vendre']
-749 : ['espère', 'va', 'encore', 'neiger', 'soir', 'top', 'crème']
-750 : ['RT', 'dernières', 'heures', 'participer', 'gagner', 'bible', 'domotique', 'objets', 'connectés']
-751 : ['RT', 'twi', 'avant', 'pouvais', 'dire', 'tout', 'voulais', 'tt', 'monde', 'foutait', 'wah', 'mtn', 'dis', 'qqch', 'ça', 'vient', 'ouvrir', 'bouche', '…']
-752 : ['RT', 'canard', 'frère', 'recevra', 'médaille', 'ordre', 'mérite', 'mains', '10', 'mars']
-753 : ['librairie', '3', 'mars', 'magnifique', 'histoire', 'chez']
-754 : ['plus', 'argent', 'mangé', 'problème']
-755 : ['RT', 'filles', 'ongles', 'comme', 'ca', 'comment', 'faites', 'tout', 'rongés', 'vernis', 'tien', '2jours']
-756 : ['mieux', 'amiens', 'quand']
-757 : ['RT', 'reconversion', 'si', 'partait', 'élever', 'chèvres', 'larzac']
-758 : ['RT', 'nan', 'sérieusement', 'papouilles', 'vrmt', 'truc', 'plus', 'doux', 'monde', 'wsh']
-759 : ['RT', 'bien', 'réfléchi', 'avis', 'secret', 'avoir', 'vie', 'réussie', 'vivre', 'chaque', 'jour', 'comme', 'si', 'alliez', 'vous…']
-760 : ['RT', 'faut', 'prévenir', 'ps', 'a', 'rien', 'compris', 'français']
-761 : ['neige', 'personne', 'met', 'story', 'a-t-il', 'vraiment', 'neigé']
-762 : ['RT', 'enfin', 'match', 'contre', '22h30', 'gl']
-763 : ['rogozin', 'a', 'parlé', 'moteur', 'chasseur', 't-50']
-765 : ['père', 'discours', 'a', 'fait', 'coloc', 'genre', 'ouais', 'ouais', 'ouais', 'ouais', 'ouais', 'tout', 'fait', 'ouais', 'ouais', 'ouais']
-766 : ['RT', 'arrête', 'dire', 'the', 'cent', 'mdr', 'crée', 'malaise', 'envers', 'plus', 'fort', 'dirait', 'jean-michel', 'beauf']
-767 : ['RT', 'a', 'tornade', 'chez', 'nuda', 'fini', 'tramway', 'perdu', 'bras', 'route', 'l’hôpital', 'RT', 'chaque', 'goûte…']
-768 : ['potin', 'mois']
-769 : ['va', 'jouer', 'soir', 'vrai', 'club', 'oceanic']
-770 : ['RT', 'seule', 'chance', 'voir', 'aimerais', 'tellement', 'aller']
-771 : ['RT', 'voulez', 'dire', 'a', 'perdu', 'doigt', 'ça', 'arrive', 'tout', 'temps', 'tiges']
-772 : ['fait', 'quoi', 'alors', 'rien', 'reste', 'comme', 'ça', '6', 'millions', 'chômeur', 'faut', 'transformer', 'pays', 'sortir', 'paquet']
-773 : ['RT', 'follow', '+', 'RT', 'tenter', 'gagner', 'nouveau', 'places', 'cinéma', 'bonne', 'chance', 'https', '…']
-774 : ['léo', 'pd']
-775 : ['RT', 'plus', 'aise', 'quand', 'plus', 'confort', 'habituel']
-776 : ['comme', 'ça', 'pourront', 'comparer', 'gros', 'sabre', 'lol']
-777 : ['amie', 'aha', 'cerise', 'poulet']
-778 : ['aller', 'rush', 'lvl', '100', 'hui', 'puis', 'go', 'jouer', 'lol']
-780 : ['canton', 'genève', 'porte', 'plainte', 'sujet', 'centrale', 'nucléaire', 'bugey']
-781 : ['RT', 'a', 'couples', 'ça', 'fait', '3', 'ans', 'ensemble', 'personne', 'sait', 'ça', 'fait', '6', 'jours', '14', 'photos', '4', 'flipag…']
-782 : ['RT', 'problème', 'aussi', 'croyez', 'viol', 'passe', 'toujours', 'ruelle', 'nuit']
-783 : ['demi', 'fond', 'a', '8h', 'demain', 'ca', 'va', 'être', 'sympa']
-784 : ['RT', 'si', 'vois', 'chien', 'rue', 'découpe', 'petits', 'morceaux', 'laisse', 'manger']
-785 : ['RT', 'pourquoi', 'monde', 'cruel', 'comme', 'ça', 'ptdddr']
-786 : ['voici', 'test', 'ultime', 'savoir', 'si', 'cheveux', 'courts', 'iraient', 'bien']
-787 : ['&', 'gt', 'solutions', 'e-commerce', 'clé', 'main', 'comme', 'prestashop…', 'ah', 'faute', 'si', 'a', 'plus', 'boulot']
-789 : ['RT', 'candidats', 'épreuves', '9', 'mars', 'jour', 'grève']
-790 : ['car', 'scolaire', 'quitte', 'route', 'vauchassis']
-791 : ['RT', 'mans', 'bressuire', 'limoges', 'voilà']
-792 : ['néanmoins', 'manquera', 'toucher', 'résistance', 'corps', 'mémoire', 'physique', 'voyage']
-793 : ['cette', 'terre', 'a', 'ke', 'grandes', 'multi-nationales', 'ki', 'dictent', 'leurs', 'lois', 'argent', 'tout', 'reste', 'peut', 'écrouler']
-794 : ['dacccccc', 'vises', 'devant', 'dla', 'scene', 'mdr']
-795 : ['caractéristiques', 'importantes', 'niveau', 'consistance', 'qualité', 'matériaux']
-796 : ['prérequis', 'd’un', 'projet', 'marketing', 'automation']
-797 : ['aimerai', 'trop', 'sais', 'si', 'mère', 'comprendrait', 'pourquoi', 'veux', 'jeu']
-799 : ['RT', 'crois', 'plus', 'beau', 'compliment', 'pu', 'lire', 'vie', 'merci']
-800 : ['RT', 'qd', 'jprends', 'décision', 'aller', 'twi', 'alors', 'risque', 'spoil', 'maximum']
-803 : ['neige', 'ici', 'petit', 'info', 'trafic', 'oubliez', 'français', 'sait', 'conduire', 'qd', 'pleut', 'imaginez', 'quand', 'neige', 'bon', 'courage']
-806 : ['RT', 'follow', '+', 'RT', 'tenter', 'gagner', 'nouveau', 'places', 'cinéma', 'bonne', 'chance', 'https', '…']
-807 : ['ki', 'peri']
-808 : ['vais', 'martyriser', 'pauvre', 'petit']
-809 : ['RT', 'continuer', 'insulter', 'temps', 'lieu', 'admirer', 'puissance', 'allah']
-810 : ['faut', 'monte', 'a', 'cheval', 'plus', 'vite', 'possible', 'ca', 'manque', 'trooop']
-811 : ['quand', 'entrain', 'flipper', 'tatouage', '2', 'mois', 'après', 'toujours', 'ombré', 'relief', 'but']
-812 : ['RT', 'nan', 'sérieusement', 'papouilles', 'vrmt', 'truc', 'plus', 'doux', 'monde', 'wsh']
-815 : ['snap', 'fait', 'trop', 'garçon', 'azy', 'vais', 'graille', 'comme', 'chocolat', 'sait']
-816 : ['al', 'a', 'plus', 'appareil', 'ptdr', 'bye', 'bye', 'cliché', 'adolescente']
-817 : ['budget', 'prévu', 'sécurité', 'world', 'cup', '2018', 'risque', 'être', 'insuffisant', 'ministre', 'sports']
-819 : ['alors', 'déjà', 'mec', 'dit', 'bonjour', 'plus', 'ferme', 'porte', 'entrée', 'con', 'oui']
-820 : ['type', 'musique', 'jul']
-821 : ['RT', 'a', 'ouvert', 'vendredi', 'dernier', 'payez', 'temps', 'plutôt', 'consommations']
-822 : ['RT', 'jt', 'om', 'podium', 'est-il', 'définitivement', 'perdu']
-824 : ['RT', 'reportage', 'spécial', 'soir', 'jt', 'tv', 'libertés', '19h', '&', 'amp', 'élus', 'https…']
-825 : ['l’europe', 'sauvée', 'faut', 'lever', 'tabou', 'nations']
-826 : ['RT', 'programme', '2016', '5eme', 'édition', 'conférence', 'devoxx', 'france', 'publié']
-828 : ['twitto', 'parisien', 'moyen', 'rejoue', 'carte', 'puceau', 'sports', 'hiver']
-829 : ['vrai', 'regarde', 'demande', 'si', 'fais', 'connerie']
-830 : ['RT', 'quand', 'élite', 'communicants', 'juge', 'fiasco', 'hollande', 'périscope']
-831 : ['roué', 'coups', '6', 'personnes', 'tramway', 'pauvre', 'chomeur', 'cassosdirait', 'taubira', 'partie']
-832 : ['RT', 'hin', 'soleil', 'fdp']
-833 : ['bon', 'tout', 'monde', 'a', 'bien', 'fenêtre', 'admirer', 'neige', 'arrête', 'tweets', 'là', 'dessus', 'maintenant']
-834 : ['RT', 'marine', 'pen', 'service', 'reportage', 'soir', 'jt', 'tv', 'libertes', '19h', 'tvliber…']
-835 : ['RT', 'fou', 'pensez']
-836 : ['ca', 'nettoie', 'yeux', 'blanc']
-837 : ['ça', 'va', 'puer', 'chien', 'mouillé', 'baraque', 'xd']
-838 : ['veux', 'bloques', 'quand', 'laisse', 'choix', 'jour', 'heure']
-839 : ['RT', 'jvois', 'ça', 'rigole', 'histoire', 'eau', 'vin', 'vs', 'savez', 'ça', 'fait', 'sreveiller', 'matin', 'sans', 'eau', 'devoi…']
-840 : ['mari', 'avis', 'pense', 'suspendre', 'jardin']
-841 : ['marqué', 'groupe', 'ouvre', 'yeux']
-842 : ['RT', 'ministère', 'culture', 'va', 'recevoir', 'éditeurs', 'auteurs', 'bd', 'via', 'livreshebdo']
-843 : ['RT', 'quand', 'ira', 'cours', 'matin', 'soleil', 'manche', 'courte', 'petite', 'veste', 'ça', 'meilleure', 'période']
-844 : ['pourquoi', 'prix', 'brut', 'continu', 'monter', 'avis']
-845 : ['ptdrrrr', 'vraiment', 'pigeons', 'réal']
-846 : ['ceux', 'vise', 'soleil', 'vexer', 'lune']
-847 : ['ah', 'gars', 'connais', 'tout', 'monde', 'utilise']
-849 : ['toute', 'info', 'paiements', 'site', 'toujours']
-850 : ['camp', 'nano', 'vais', 'écrire', 'corriger', 'auto-publier', 'novella', 'mois', 'voilà']
-853 : ['conseillers', '8', 'mars', '+', 'infos']
-854 : ['si', 'fn', 'fait', 'poubelles', 'extrême', 'droite', 'peut', 'être', 'égouts', 'paris', 'fermer', 'lieu', 'dire', 'ça']
-855 : ['foot', '-', 'fifa', '-', 'salaire', 'blatter', 'connu', 'fin', 'mars']
-856 : ['pense', 'aussi']
-857 : ['quand', 'tout', 'monde', 'ts', 'crie', 'oh', 'putain', 'neige', 'là', 'solitude']
-859 : ['RT', 'alerte', 'météo', 'risque', 'avalanche', '5', '5', 'montmartre', 'évitez', 'hors', 'piste']
-860 : ['RT', 'météo', 'a', 'intérêt', 'changer', 'ici', 'mercredi', 'dis']
-861 : ['RT', 'a', 'ceux', 'font', 'rappel', 'progresse', 'ceux', 'font', 'rabaisser', 'publiquement', 'montrer', 'err…']
-862 : ['merci', 'screen', 'invites', 'prochaine', 'fois', 'faire', 'via', 'forum', 'relaxcube']
-863 : ['raye', 'neil', 'parieur', 'fou', 'p']
-865 : ['RT', 'temps', 'vraiment', 'fou']
-866 : ['RT', 'premier', 'roman', 'juge', 'marc', 'trévidic', 'grosse', 'déception', 'laborieux', 'poussif', '…']
-867 : ['faites', 'gagner', 'concept', 'concours', 'restauration', 'rapide', 'likez', 'logo']
-868 : ['RT', 'faire', 'tour', 'monde']
-869 : ['RT', 'video', '-', 'mario', 'vargas', 'llosa', 'donald', 'trump', 'clown', 'démagogique', 'raciste']
-870 : ['RT', 'breaking', 'news', 'cette', 'averse', 'neige', 'duré', 'aussi', 'longtemps', 'pokémon', 'direct']
-871 : ['prenez', 'risque', 'sortir', 'dehors', 'neige', 'pourrait', 'revenir', 'tout', 'moment']
-872 : ['RT', 'quel', 'but', 'relation', 'si', 'fin', 'ya', 'mariage']
-873 : ['journal', 'geek', 'lëkki', 'relance', 'playstation', '140€']
-874 : ['bien', 'sûr', 'mépris', 'j-l', 'godard']
-875 : ['RT', 'neige', 'faire', 'oublier', 'loi', 'el', 'khomri', 'sachez-le', 'coup']
-877 : ['RT', 'a', 'trouvé', 'accessoire', 'mettre', 'vernis', 'facilement', 'indispensable', 'printemps', 'tweexy', 'https…']
-878 : ['non', 'respect', 'mdr']
-879 : ['RT', 'comme', 'disait', 'quelques', 'jours', 'keynote', 'apple', 'avance', 'grand', 'toute', 'nouvelle', 'ht…']
-880 : ['RT', 'sais', 'si', 'bon', 'veux', 'touche', 'cœur', 'trop', 'près']
-881 : ['RT', 'bac', 'va', 'peut-être', 'tomber', 'ciel', 'comme', 'résidu', 'solow']
-884 : ['RT', 'cast', 'récemment']
-885 : ['quiz', 'hier', 'match', 'granville-om', 'demain', 'vendredi', 'semaine', 'foot', 'vie']
-887 : ['RT', 'espère', '05×20', 'va', 'être', 'trop', 'bien']
-888 : ['RT', 'quand', 'ira', 'cours', 'matin', 'soleil', 'manche', 'courte', 'petite', 'veste', 'ça', 'meilleure', 'période']
-889 : ['video', 'a', '60', 'ans', 'royaume', 'chérifien', 'officialisait', 'indépendance', 'via']
-890 : ['video', 'a', '60', 'ans', 'royaume', 'chérifien', 'officialisait', 'indépendance', 'via']
-891 : ['perso', 'trouve', 'poisson', 'rigolo']
-892 : ['RT', 'alerte', 'météo', 'risque', 'avalanche', '5', '5', 'montmartre', 'évitez', 'hors', 'piste']
-893 : ['trop', 'hate', 'aller', 'orleans', '26', 'mars']
-896 : ['RT', 'interdiction', 'exploiter', 'bientôt', 'inscrite', 'code', 'minier', 'https', '…']
-897 : ['RT', 'jul', 'ça', 'voit', 'a', 'temps', 'ortographe', 'plus', 'occupé', '4', '5', 'albums', 'année']
-898 : ['RT', 'tour', 'qatar', 'dit', 'intéressé', 'idée', 'acheter', 'pavés', 'pluie', 'pimenter', 'prochaine', 'édition', '…']
-899 : ['RT', 'temps', 'vraiment', 'bipolaire', 'coup', 'a', 'soleil', 'coup', 'neige']
-900 : ['regarder', 'sous', 'lit', 'bc', 'croyais', 'monstre']
-901 : ['RT', 'premier', 'tombe', 'amoureux', 'a', 'perdu']
-902 : ['RT', 'aime', 'neige', 'nique', 'nègre', 'aime', 'chaleur', 'soleil', 'putain']
-903 : ['eau', 'terre', 'feu', 'air', 'jour', '4', 'éléments', 'vivait', 'harmonie']
-904 : ['ciel', 'éclaircit', 'moment', 'où', 'cd', 'arrête']
-905 : ['mendy', 'a', 'raison', 'mdr', 'déjà', 'match', 'contre', 'bilbao', '&', 'gt', '&', 'gt', '&', 'gt', '&', 'gt', '&', 'gt', 'tous', 'matchs', 'saison', 'dernière', 'bielsa']
-906 : ['RT', 'svp', 'seule', 'seule', 'chance', 'voir']
-907 : ['RT', 'neige', 'paris', 'mars', 'alors', 'faisais', '13', 'degrés', '24', 'décembre', 'vas', 'falloir', 'expliquer']
-908 : ['félicitations', 'nathalie', 'remporte', '2', 'places', 'jeu-concours', 'proposé', 'mairie']
-909 : ['RT', '2', 'avril']
-910 : ['RT', 'urgent', 'christophe', 'barbier', 'malade', 'a', 'dit', 'bien', 'nicolas', 'sarkozy', 'matin', 'répétera-t-il', 'a', 'suivre']
-911 : ['RT', 'follow+rt', 'tenter', 'gagner', 'vanessa', 'paradis']
-912 : ['RT', 'toute', 'monde', 'regarde', 'neige', 'crois', 'moment', 'faire', 'passer']
-914 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-916 : ['RT', 'cette', 'fille', 'aime', 'fort', 'plait', 'RT', 'meilleure', 'a', 'jamais', 'pu', 'rencontrer', 'ni', 'voir', '…']
-917 : ['RT', 'deja', 'majorité', 'viols', 'lieu', 'cadre', 'familial', 'scolaire', 'mythe', 'viol', 'ruelle', 'sombre', 'min…']
-918 : ['RT', 'bien', 'neige', 'tombe', 'tôt', 'paris', 'ça', 'laisse', 'temps', 'tf1', 'france', '2', 'préparer', 'sujet', '20', 'minutes', '…']
-919 : ['RT', 'amir', 'vient', 'dévoiler', 'clip', 'cherché', 'déchire', 'via', 'melty_fr']
-920 : ['neige', 'chez', 'tout', 'monde', 'sauf', 'chez']
-921 : ['RT', '1', 'français', '4', 'viol', 'excusable', 'si', 'fille', 'habillée', 'sexy']
-924 : ['meuilleure', 'joueur', 'epicube', 'tient', 'niveaux', 'kohi', 'badlion', 'sinon', 'pseudos']
-925 : ['court', 'tous', 'après', 'temps', 'bien', 'problème']
-926 : ['neige', '93']
-927 : ['manager']
-928 : ['RT', 'pèrecent', 'dingue', 'ambiance', 'folie']
-929 : ['soleil']
-930 : ['RT', 'alexandre', 'lacazette', 'entrainé', 'hui', 'suite', 'douleur', 'genou', 'selon', 'progrès']
-931 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-933 : ['RT', 'bravo', 'a', 'offert', '10', '000', 'euros', 'saint-gilles']
-934 : ['sylvain', 'bifluorés', '-', 'ver', 'terre']
-935 : ['RT', 'temps', 'vraiment', 'fou']
-936 : ['allume']
-937 : ['RT', 'imaginez', '2016', 'a', 'gens', 'pensent', 'viol', 'grave', 'oh', 'wait', 'réalité']
-938 : ['i', 'suffit', 'booba', 'dise', 'vivement', 'pourvu', 'neige', 'déréglé', 'tt', 'météo', 'nationale', 'temp', 'i', 'pa', 'si', 'i', 'doit', 'neiger', 'soleiller']
-939 : ['-', 'economie', 'désormais', 'japon', 'gagne', 'l’argent', 'empruntant', 'tokyo', 'vient', 'première']
-940 : ['faut', 'explique', 'macdo', 'hier', 'grosses', 'barres']
-941 : ['gens', 'disent', 'viol', 'admis', 'gens', 'habillent', 'assez', 'mdr', 'hâte', 'enfants', 'fassent', 'violer']
-943 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-944 : ['tirage', 'sort', 'jeudi', '17h', 'tirage', 'sort', 'ordre', 'matches', 'rencontre', '1er', 'tour', 'entre', 'f']
-945 : ['RT', '10', '03', 'programme', '1', 'keynote', '26', 'démonstrations', '4', 'workshops', 'thématiques', 'https', '…']
-946 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-947 : ['RT', 'jamais', '2', 'sans', '3', 'très', 'drôle', 'troisième', 'semaine', 'vacances', 'troisième', 'jour', 'week-end', 'troisième…']
-949 : ['RT', 'film', 'incroyable', 'beast', 'of', 'no', 'nation']
-950 : ['jpréfère', 'beau', 'temps']
-951 : ['faillit', 'pleurer', 'lisant', 'dois', 'être', 'trop', 'sensible', 'cette', 'société']
-952 : ['RT', 'pariez', 'combat', 'htt…']
-953 : ['RT', '05', 'défi', 'fait', 'île', 'reunion', 'où', 'beau', 'temps', 'mdr']
-954 : ['combattre', 'algues', 'bleues', 'fer']
-955 : ['RT', 'picardie', 'suffit', 'journée', 'faire', 'tour', 'saisons']
-956 : ['RT', 'bien', 'neige', 'tombe', 'tôt', 'paris', 'ça', 'laisse', 'temps', 'tf1', 'france', '2', 'préparer', 'sujet', '20', 'minutes', '…']
-957 : ['RT', 'booba', 'a', 'juste', 'dit', 'vivement', 'pourvu', 'neige', 'a', 'déréglé', 'climat']
-958 : ['RT', 'mdr', 'dis', 'camille', 'dis-toi', '87', '%', 'gens', 'bac', 'rep', 'si', 'jsuis', '17', '%', 'restants', 'ok', 'déjà', 'bac', '…']
-959 : ['RT', 'putain', 'vie', 'soleil', 'ça', 'fait', 'bien']
-960 : ['RT', 'tenues', 'incitent', 'viol', 'fait', 'quand', 'dit', 'fait', 'invente', 'fait', 'hein']
-961 : ['RT', 'genre', 'fille', 'boude', 'craque', 'bout', 'deux', 'minutes']
-962 : ['prix', 'bouteilles', 'table', 'prix', 'impôt', 'maman']
-963 : ['là', 'tout', 'suite', 'peu', 'envie', 'rouler', 'boule', 'couette', 'tremblant', 'heureusement', 'fauve', 'là']
-964 : ['conseil', 'professeur', 'chaque', 'chose', 'temps', 'william', 'crois', 'moment', 'utiliser', 'ça…']
-965 : ['christianisme', 'mémoires', 'provence', 'leopold', 'mandic', 'saint', 'reconciliation']
-966 : ['aime', 'temps', 'dehors']
-967 : ['elles', 'déjà', '15', 'trophée', 'quasiment', 'maximum', 'alors', 'dire', 'elles', 'méritent', 'plus', 'possible']
-968 : ['RT', 'si', 'veux', 'progresser', 'foot', 'pck', 'bidon', 'va', 'five', 'point', 'barre', 'a', 'dedans', 'niveau', 'monte', 'vite']
-969 : ['projection', 'débat', 'documentaire', 'poète', 'benjamin', 'péret']
-970 : ['RT', 'goût', 'lumière', 'céleste']
-971 : ['RT', 'voudrais', 'sauver', 'tuerai']
-972 : ['tous', 'soirs', 'a', 'camions', 'ups', 'dhl', 'garés', 'devant', 'bureau', 'chez', 'ups', 'uniforme', 'marron', 'caractéristique']
-973 : ['RT', 'ignore', 'reviendra', 'mdrrrrrr', 'wallah', 'blc']
-974 : ['RT', 'turfu', 'dehors']
-975 : ['RT', 'donc', 'demander', 'si', 'tenue', 'lieu', 'responsable', 'question', 'implicite', 'comment', 'fille', 'pu', 'évit…']
-976 : ['raconterais', 'privé', 'tte', 'facon', 'rentre', 'chez', 'a', 'toucher', 'fond']
-977 : ['RT', 'nouvelle', 'nudes', 'max', 'RT', 'balance', 'blaze', 'a', '60', 'RT', '200', 'followers']
-978 : ['afp', 'projet', 'réforme', 'pénale', 'députés', 'vif', 'sujet']
-979 : ['plus', 'grandit', 'plus', 'fière', 'devient', 'plus', 'espère', 'avoir', 'jour', 'chance', 'voir', 'scene']
-980 : ['RT', 'selon', 'sexta', 'neymar', 'discuterait', 'toujours', 'psg']
-981 : ['avancée', 'ultralibéralisme', 'passe', 'déstructuration', 'pensée', 'chez', 'citoyen', 'ordinaire', 'a', 'fait', 'confiance', 'démocratie']
-983 : ['urgent', 'si', 'gens', 'font', 'dep', 'match', '12', 'mars', 'a', '17h', 'passe', 'vers', 'rennes', 'moyen', 'ramassage', 'route']
-984 : ['haha', '12', '30', 'découverte', 'p']
-985 : ['conseil', 'sécurité', 'unanime', 'alourdir', 'sanctions', 'contre', 'corée', 'nord']
-986 : ['RT', 'temps', 'a', 'changé', '10min']
-987 : ['RT', 'quand', 'reçois', 'message', 'personne', 'veux']
-988 : ['RT', 'bien', 'neige', 'tombe', 'tôt', 'paris', 'ça', 'laisse', 'temps', 'tf1', 'france', '2', 'préparer', 'sujet', '20', 'minutes', '…']
-989 : ['ptdr', 'dissert', 'hurle', 'protection', 'tiers', 'devant', 'juge', 'contrat', 'envie', 'tirer', 'balle']
-990 : ['RT', 'nekfeu', '2', 'avril']
-992 : ['RT', 'bonne', 'grosse', 'teuf', 'vallée', 'cet', 'apres', 'bac', 'hmmmm']
-994 : ['RT', 'reste', 'toujours', 'extrêmement', 'fidèle', 'amis']
-995 : ['gosses', 'voyez', 'hamas', 'lieu', 'diffamer']
-996 : ['non', 'jvoulais', 'surnaturel', 'etc', 'deux', 'autres', 'meufs', 'dmon', 'groupe']
-998 : ['RT', 'a', 'prix', 'grec', 'fils', 'chameaux', 'algérien']
-999 : ['pvm', 'focus', 'dégâts', 'terre', 'feu', 'vraiment', 'sympa', 'amplifier', 'dégâts', 'dpt']
-1000 : ['sauf', 'ça', 'arrive', 'tout', 'temps', 'ici', 'mdrrr']
+1 : mais allez toi je t'emmène au Resto en zappé le telho reste tranquille t'es sur tn clavier
+2 : RT : Le NRJ Music Tour Vendée débarque le 5 mars à La Roche Sur Yon avec toutes vos stars préférées ! #NMTVendee https://t.…
+3 : RT : Troisième participant : le superbe qui a un message pour vous : "lol jpp". #TheDivisionLive http…
+4 : RT : CHEPA ELLE CHERCHE KOI CET PUTE J'LAPELLE JTOMBE SUR LE RÉPONDEUR DE MEDITEL https://t.co/GDcK4kydbl
+5 : J'ai mon concours IFSI à Reims le premier jour de mon bac blanc
+6 : heu les con je prend les lopettes sont pas dans le même parti mdrrrr
+7 : L'Abracadabar diffusera sur grand écran le Nintendo Direct ! Attention, le bar n'ouvre pas avant 19h et ferme à 0h00 https://t.co/4R3ZINjeRc
+8 : RT : Le #Cancer reste toujours extrêmement fidèle à ses amis.
+9 : L'orage il était juste au dessus de ma maison le voyou
+10 : mais ptdr le prix des fringues :(
+11 : ah ah le tas de feuilles l'équivalent d'un chapitre dans une de mes grosses matières et encore!
+12 : Je le soutien 100% https://t.co/uQi46s7cPf
+13 : Les flocons ils sont balz comme le chat de wande
+14 : Critiquer pas le temps mes amis ...
+15 : RT : J'ai l'apparence d'une personne calme mais si j'explose même le diable se cache
+16 : oui ce exact!surtout a 3 ou 4 ans ca commence tot le djihad!
+17 : RT : Le café+clope un lendemain de soirée passe tellement bien.
+18 : suivant le pc je pense
+19 : Pamela Anderson explique pourquoi elle hésite à apparaître dans le remake d’Alerte à Malibu https://t.co/eC2Ko0SKaX #culture
+20 : IL NEIGE CHEZ TOUT LE MONDE ET CHEZ MOI C NTM OK JVOIS
+21 : RT : JLT"Le nbre de fois où j’ai vu sur terrain de rugby se faire recoudre la tête,la remettre dans la boue"Jms entendu parl…
+22 : Du vice maternel traînant l'hérédité / Toujours impatient dans sa course bornée / Le croissant fin et clair parmi ces fleurs de l'ombre
+24 : Charlotte Gainsbourg évoque le décès de son père : "J'étais dans un sale état" https://t.co/sHxVG4ETx4 #culture
+25 : Lire le livre d'Aurélie Lanctôt " Les libéraux n'aiment pas les femmes - essai sur l'austérité " #PQ #IRAI https://t.co/keXSKZ5aYQ
+26 : RT : j'adore le cinéma et les séries américaines
+27 : C'est le manque d'une personne qui dans ta tête résonne...
+28 : Marc Trévidic le prouve: un bon juge ne fait pas toujours un bon romancier https://t.co/zM2xPZh0DJ #culture
+29 : Apt dans le vaucluse
+30 : RT : à quand le bac vert mdr
+31 : Depuis que j'ai réussi a bypass le proxy, le début avance beaucoup moins vite... Merci ! #WCS https://t.co/U80sXgPuvl
+32 : Franchement je m'agace j'ai même pas avancé le truc c'est que je sais quoi mettre dans ce putain de dossier mais flemmmmmmmme de rédiger
+33 : RT : Aujourd'hui pour ça été bien dur à me supporter entre la bagarre et l'endurance je le Kiff et il me Kiff …
+34 : RT : Il neige chez tout le monde sauf chez moi
+35 : RT : de toute façon on est toujours déçu des personnes qu'on aime le plus
+36 : RT : L'#OL était tombé du podium le 27 novembre après une défaite face à Montpellier. Il aura fallu 3 mois et 14 matchs pour le …
+39 : RT : Scandales dans le sport - Les champions de la triche https://t.co/WL76hiQUDH https://t.co/XR64FfsgKe
+40 : RT : Des animaux empoisonnés dans le parc Kruger en #Afrique du Sud https://t.co/qZdrtWfztb https://t.co/QhXbA9eLZg
+41 : RT : "Tenue provocante" blablabla ça encore un concept inventé par les hommes pour justifier le viol
+42 : RT : [#Transfert] Selon la Sexta, Neymar discuterait toujours avec le PSG. https://t.co/eqyORurz4n
+43 : RT : oui il Ya dans tout les Sephora mais va dans un grand Sephora pour trouver une teinte foncé ou sur…
+44 : RT : Je ne verrai sans doute jamais mes autres idoles mais j'aimerais tellement le voir au moinslui svp #Jus…
+45 : RT : Plus de la moitié des adolescents manquent de sommeil à cause des cours qui commencent tôt le matin.
+46 : Après la #Neige le beau temps ! #SaintDenis #AuBoulot https://t.co/889JYQgPlU
+47 : Forum bière [19 mars 2016] Fête de la Bière de Poligny: Pour cette onzième édition, le samedi 19 mars, ... https://t.co/UWtMUMT8Nz #biere
+48 : RT : Jui mort le son https://t.co/xWfvp0RUtu
+49 : RT : VIDÉO - Afrique du Sud: couper les cornes des rhinocéros pour éviter le braconnage https://t.co/ISrdKDUQEV https://t.co/Yt8iQIBo…
+50 : maxime_legoff CarlitoDNole sinon vous avez le droit de lire l'itw pour comprendre le sens de la citation ;) #culture
+51 : RT : "Nein", la #France n'est plus le premier partenaire commercial de l'#Allemagne - https://t.co/NXmUzSHJGw https://t.co/SJBFSl…
+52 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+54 : dans le 10eme c'est un truc de fou https://t.co/3V6UIYHKqX
+55 : RT : Rendez-vous le 6 mars 2016 à l 'esplanade du palais du peuple festival des grillades big up à tous mes fans... https://t.co…
+57 : ha au fait on en est où avec le respect ? Il est tjr pas revenu hein https://t.co/I0w9iDoIUM
+58 : Si il me buy le jeu je viens
+59 : Can N'as Pu Assez De Place Dans Le Garage https://t.co/8JoJuUSUFY
+60 : RT : C'est quoi le pire des gros mots? Cette vidéo elle est magnifique Mdrrr https://t.co/0N5F1u42YF
+62 : RT : C dingue cette vache qui traduit pr les sourds &amp; malentendants le discours de Marine #LePen #salondelagriculture #FN https://…
+63 : Le bonheur sera-t-il de courte durée ?
+65 : Bon, sur le dessin il y a quand-même au moins 25/30 ans de moins. https://t.co/lQZtOxThq6
+66 : RT : Moi en essayant d'obtenir la bonne température pendant le sommeil http://t.co/dMcZifAD73
+67 : Vu le ciel, moi je dis dans 15mn il fait soleil. Pas du tout schizo le temps aujourd'hui ^^ #pointmétéo
+68 : Quand j'ai bu mon lait ca a fait le bruit des dread doctors quand ils arrivent la j'suis morte
+69 : Bonjour, vous pouvez refuser le colis et être intégralement remboursée si vous le souhaitez. 1/2
+70 : RT : g t sur le point de te RT en notifiant le ministère de la justice, la police,... Mais au dernier moment je me…
+71 : RT : Le RER D il est relou , y'a toute l'Afrique dedans , pour t'asseoir c'est le marathon .... A la la
+72 : Zoolander 2 : quand le cinéma parodie la mode https://t.co/lzyhkG5bOb #culture
+73 : RT : Le viol n'est pas justifiable mais une fille qui joue la pute seins a l'air et tout bah elle l'a cherché faut arreter
+74 : Quand le prof te dit de trouver un partenaire et que ton meilleur pote te regarde mdrrr https://t.co/mKcMKw4ofY
+76 : Philippines: le corps momifié d’un Allemand retrouvé sur un yacht à la dérive https://t.co/vCiDjTYwFa
+77 : L'Académie européenne du cinéma défend le film oscarisé "Ida" https://t.co/m5CFxAzNRR #culture
+79 : RT : Le Foll accuse Sarkozy de "petit débat politicien" sur la crise agricole https://t.co/2Z8riuaitt https://t.co/fGuWOxqYLU
+80 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+81 : RT : Jve une meuf qui fai 1m55 comme ça elle se pose sur mon épaule comme un ptit perroquet
+82 : J'aime une vidéo : "Tour de magie n°5 et son explication : Le secret d'un bon tour" à l'adresse https://t.co/pU7ZprQtUx.
+83 : RT : Les gens qui me parle à l'arrêt de bus pour savoir les horraires regarde le panneau ta mère le poulpe nan ?
+84 : Cinéma : La route de l'amour passe par le vin https://t.co/fg34iy1OPe #culture
+85 : mi-pluie mi-neige le truc qui tient pas et qui sert à rien
+86 : Le Modern Express redressé dans le port de Bilbao https://t.co/Y5IVKOhL01 #navire
+87 : RT : "Jean-Louis, je ne te félicite pas, tu as très mal préparé le match pendant que j'étais au golf" https://t.co/2aWOWmLKLx
+88 : Le canton de Genève porte plainte contre la centrale nucléaire du Bugey https://t.co/CV4Qc9kr9o
+90 : #SIA2016 Catherine Botti #MOFPrimeur a enchanté les visiteurs avec ses corbeilles et découpes sur le stand Fruits et légumes frais
+91 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+92 : La fois où j'ai pris le bus 15 et que une dizaine de minute après j'apprends que l'un d'entre eux a prit feu
+93 : RT : J'ai trouvé une meuf qui se trouve tellement bonne qu'elle se film en train de bouffer stp Où va le monde ? https://t.co/…
+94 : RT : rtsi juif tu coupe le gaz entre 19h39 et 19h45 on sait jamais zerma
+101 : RT : Le #Poisson ne vous dit pas qu'il vous aime, il vous le montre.
+103 : RT : I suffit que Booba dise" vivement l'été pourvu qu'il neige" pour déréglé tt la météo nationale le temp i c Pa si i doit neige…
+116 : Article Le Parisien https://t.co/AALAs17JF6
+125 : C'est tellement bon de pas avoir cours le mercredi aprem.
+126 : Encore quelques petites heures pour remporter le T-Shirt NieR ! https://t.co/uOU4M2a1R5
+127 : Le salaire de Blatter connu fin mars https://t.co/QuLO6q0wwn https://t.co/OGrY9sGrxK #123ActuSport #Info #sport
+128 : RT : Voici le teaser du clip de"Indépendantes" de ...Bientôt dans https://t.co/3TMg2iQcE3 htt…
+129 : RT : Parfois, un arbre humanise mieux un paysage que ne le ferait un homme ... #GilbertCesbron https://t.co/wMqdbZmg5X
+130 : le *pas est de trop
+131 : RT : Ahahahaha Jsuis ko le gars il a eu peur de souuuurd https://t.co/nbehLlHFQL
+132 : tu as tué et mangé le coloc précédent ?
+134 : PTDRRRRRRR LE GARS Y MA TUER
+135 : Plus que quelques jours pour sauver le Musée des tissus de Lyon https://t.co/oYblylAvwX #culture
+136 : RT : #CONCOURS | Un pack PS4 Edition Blanche + Écran ASUS GAMING à gagner - #RT ce tweet et #Follow le compte | ht…
+137 : RT : jsuis tellement fatigué h24 que mtn la fatigue jla sent même plus elle fait partie de moi on prend le thé ensemble parfois
+138 : Bayern Munich : Javi Martinez retouche le ballon https://t.co/csQ5Ngr7GH https://t.co/JWuorupL8l #123ActuSport #Info #sport
+139 : RT : Data et performance sportive, retrouvez le dossier du mois de février du https://t.co/vhhaLoyLCW https://t.co…
+142 : LE RETOUR DE L'HOMME SANS BRAS ( coucou xD)
+143 : RT : Pour les gosses voyez avec le Hamas au lieu de diffamer https://t.co/hR8kImtDX8
+144 : RT : Retour sur la rencontre haletante entre le HCMAG et Chamonix : https://t.co/qFU3JDha7u #hockey https://t.co/s…
+145 : RT : le tu te tais dans plus belle la vie #TuTeTais https://t.co/OmTZkHn0Lb
+146 : ça se déroule aujourd'hui jusqu'à 17 h. Les intervenants de partout au pays y sont. Le ministre min. McCallum sera là cet pm.
+147 : Nouvelle bande-annonce Le Monde de Dory: le poisson amnésique sur les traces de son passé - AlloCiné https://t.co/1A8tH6CvCh #culture
+148 : RT : Quand est ce qu'Oda nous offre un arc avec des combats comme contre le CP9 ? #OnePiece https://t.co/CR2Zh4Tnr9
+149 : RT : Mouhaha je dirige le monde https://t.co/oZvi7YvPIl
+150 : quand j'sais que j'ai pas de cours le jour de la rentrée,que c'est mon anniversaire et que je vais pouvoir dormir https://t.co/rExjpyOhI7
+151 : RT : Au Salon de l'agriculture avec le président , visite aux #SIA2016 ht…
+152 : RT : Le père Benoît Lacroix s'éteint à 100 ans https://t.co/L6hILqnv6R
+153 : RT : Sur le coran a la sortie du lycee jai pousser une meuf sans mexcuser elle ma ajouter sur fb elle ma dis depuis tu ma pousser j…
+154 : On combat le grand froid ac ces moufles réalisées à partir d'un vieux pull ! #recup #DIY #couture #TutoVideo… https://t.co/skOEygshIs
+155 : la fete d'anniversaire de JB yavai tout le monde wsh
+157 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+158 : S'étirer c'est mieux que le sex
+159 : Dans le même schème de pensée pervers de l'orangiste canadian Ti-Jean Chrétien et le fameux plan B! https://t.co/m09jfMQwEI
+160 : je ne peut toujours pas me connecter alors que j'ai été banni le 29/02 wtf ?!! =p https://t.co/PlqmLkvLxj
+161 : RT : dans le cadre d'un divorce, si un des époux oublie de mentionner une de ses sources de revenus, est ce que ça peut lui ê…
+162 : Il était temps que j'aille chez le coiffeur !
+163 : RT : Le meilleur Vine français sans aucune hésitation https://t.co/BoXwSOqxfT
+164 : [L'Equipe] F1 - Grosjean, le grand frère https://t.co/OlqJd6xN8V
+165 : RT : De la neige à Paris en mars alors qu'il faisais 13 degrés le 24 décembre. Vas falloir m'expliquer
+166 : Vous savez ce que c'est, un #placomusophile ? Si oui, rendez-vous le 6 mars au Mesnil-Sur-Oger https://t.co/86PS0HVy0c
+167 : #RTL: Un puissant séisme crée la panique en Indonésie: le risque de revivre un nouveau Sri-Lanka est finalemen... https://t.co/HhTzol4lQl
+168 : as tu fait un papier plus long sur le sujet? JE SUIS HYPER INTRIGUÉ.
+169 : Une nouvelle chanson et un album en avril pour Operators, le projet de Dan Boeckner https://t.co/NdurY82LCB
+170 : calme parce que deja le mot "sandale" c'est degueulasse mdrrr
+171 : le nez et la bouche
+172 : chez moi ça tourne vraiment bien bon pas tout à fond fxxa en anticrénelage et ombres en moyen le reste en élevé
+173 : Je les revois demain. Si vous pensez qu'il y a des endroits plus spécifiques à observer dites le moi
+174 : Suicide de chat mais ptdr ou va le monde
+175 : RT : La neige c'est pour vous faire oublier la loi El Khomri sachez-le c'est un coup de .
+176 : Chic_Lady6 : Le pays où il neige jamais #Desert #ArabLife (via Twitter https://t.co/8GrFQtneqI)
+177 : RT : dans ta tl y'a toujours des suceurs qui rt ton tweet une fois que tout le monde le rt alors qu'ils l'avaient très bien vu au…
+178 : RT : #IndoRequest #Europane (ou le dernier bal), pour "" https://t.co/1GMUxjcagI
+179 : RT : Prêts à découvrir le clip de #JaiCherché -&gt; il sera disponible dans exactement 30 minutes sur
+180 : RT : Cabella raconte l'enfer des Français à Newcastle https://t.co/LzsWk6ofCK
+181 : RT : 4- faites pas genre on juge tous plus ou moins sur le physique
+184 : On veut allez au cinéma mais vu le temps on va arriver trempé
+185 : Hello! Le KFTHON pour notre 25e remise de dons est lancé! Merci d'avance pour vos contributions! #KF25 #Team237 #RT https://t.co/xZhqxMQXfq
+186 : bah j'ai un proble de mdp sur le forum :/
+187 : Pour augmenter le taux de #testostérone de manière naturelle, sans les effets secondaires. https://t.co/2r4bJEH9XJ
+188 : RT : " Tu ne peux pas commencer le prochain chapitre de ta vie si tu relis sans cesse le dernier."
+190 : RT : BREAKING NEWS : cette averse de neige aura duré aussi longtemps que le Pokémon Direct
+192 : RT : Journal de fin du monde jour 1: les astres sont alignés, sa y est la neige la pluie et le vent se sont combiné comme la pro…
+193 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+194 : RT : #E17LFH - Le missile à la hanche signé avec l' #Handball https://t.co/dcvzYRC38g
+195 : le temps il arrete pas de changer aujd
+196 : j'ai dit a Yannick et ça l'a traumatisé, je préfère donc garder le silence
+197 : RT : Jveu une relationship centrée sur la religion, le respect d'autrui, et la baise LA BAIIIIISE AAAAAAA JVE NIKER
+198 : Suivez le match en Live Audio https://t.co/IiYQyjYf1Z
+199 : On en parle que dans le sudil fait 16deges ^^
+200 : RT : la neige elle est partie ossi vite que le harlem shake c fou
+201 : RT : En amitié, le #Sagittaire donne beaucoup de conseils et de paroles réconfortantes.
+202 : RT : #E17LFH - Le missile à la hanche signé avec l' #Handball https://t.co/dcvzYRC38g
+203 : Avant le 18 avril 1940, les québécoises n'avaient pas le droit de vote. « Let's go je crois en toi » n'était pas assez. #féminisme #assnat
+204 : Foot - FIFA - Le salaire de Blatter connu fin mars https://t.co/ycLgpHEKif https://t.co/o4LC1fGPHM
+205 : RT : Oui comme ils voient le musulman en potentiel terroriste ou le jeune noir en potentiel agresseur https://t.co/QoHDWDi86d
+206 : RT : Le petit de 5 ans qui se fait violer par un pédophile c'est sa faute aussi ? Psq il était trop sexy avec son petit short ?
+207 : RT : Kan tsort ac une arab c bn il suffi que toubli de répondr a un txto et tu la voi tweeter d hadith sur le comportemn enver ls f…
+208 : RT : Le Conseil de sécurité unanime pour alourdir les sanctions contre la Corée du Nord https://t.co/km0jGY7lJP via
+209 : la vérité la même vas-y déjà neige ou pas j'ai pas le choix de partir en cours et je vais ressembler à un mouton là
+210 : RT : Le plan valide par la Dirrecte https://t.co/x6Or2JeSkW
+211 : RT : deja une meuf qui aime le poulet T sur à 67% elle aime pas mettre de manteau https://t.co/ATSkrAWWrn
+212 : Le contact physique c'est trop important jtrouve
+213 : le bébé caché de Christian !
+214 : LE RE KB QUE LE ESTE ATRAS
+215 : Chocolat chaud le bon bail en rentrant
+216 : On arrête tout, la vie, le travail, le ciné, le goûter avec les enfants, tout, on arrête tout car il neige oui il neige à #Paris
+217 : RT : https://t.co/SwUvitVFmW Juppé a enfin lu le Coran...pour nous vendre l'islam de France!? pauvre parti islamo-vendu que so…
+218 : RT : Pour info! il reste quelques jours pour le projet pour l'anniversaire de Anaïs! Envoyé vos montages à ou pour…
+219 : Suivez le match en Live Audio: Le Paris Saint-Germain et France Bleu 107.1 vous proposent de suivre la rencont... https://t.co/ZLen8MPTj1
+220 : RT : JLT" Et quoi qu’on en dise, un entraîneur n’est pas sur le terrain.#SO #LT
+221 : "Ma mere a été faire le courses .. J ai insiste pour qu elle n oublie pas les chips ! ELLE A PRIT TÔUT SAUF LES CHIPS "
+222 : RT : le livre de la jongle https://t.co/51TQqZBur2
+223 : Le code de la route est résumé dans le « Code de la route populaire », n’oubliez pas de réviser avant l’examen. https://t.co/vwtKyUpfeP
+224 : RT : On dirait trop ma daronne qui m'attend quand j'rentre tard le soir pour m'enculer ma race https://t.co/YTqjts75lz
+225 : Wah le temps hardcore
+226 : RT : A quel niveau relou vous estimez ce mec qui fout ses pieds à côté de moi, j'le connais pas, il pue et se croit seul. https://…
+227 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+228 : Jss dans la merde pr le decalage horaire lundi :/
+229 : RT : le retour des siestes
+230 : En route avec le #LabDavanac. Etape 10 https://t.co/X68Nswo2g3
+231 : le mal n'a pas d'odeur
+232 : RT : CETTE MUSIQUE C'EST LE MEILLEUR FEAT HOMME/FEMME TOUTE CATÉGORIE CONFONDU, JLA CHANTERAI COMME BERCEUSE A MES ENFANT ht…
+233 : RT : Les Arabes,leurs mariages c’est un délire , ils louent des Audi,des Lambo, des fusées ,des Jet packs ,pour finir au 8eme eta…
+234 : RT : Dans le top 5 des choses qui me manquent le plus à l'OL, Lisandro est 1er, devant Lisandro, Lisandro, Lisandro et Lisa…
+235 : RT : Sérieusement venez on vérifie si on a pas sauter un mois et si c'est le cas on recommence parce que de la neige en mar…
+236 : Avec le #Verseau, concentrez-vous sur le présent car il n'aime pas trop s'engager... Allez à son rythme !
+237 : RT : Le vrai amour c'est grandir en tant que couple, d'apprendre d'avantage l'un de l'autre, et ne jamais abandonner la personn…
+238 : Le GP Samyn en direct, Gilbert a abandonné (LIVE) https://t.co/uaqVP0pSiw via
+239 : RT : Le temps est vraiment fou.
+240 : ma couille il l'on mis en commentaire wsh faut le voir
+241 : g découver 1 nvx smiley : ;^&gt; c le lsmiley coquin malin
+242 : RT : Le nouvel album =&gt; https://t.co/LwO0Sl4ol0
+243 : RT : #MOLDIV osez le cadeau original. Je personnalise tout vos objets 07 53 58 35 82 https://t.co/t0LhpJzRmQ
+244 : Partouze dans le parc entre infirmières et toubibs Ce centre de... https://t.co/NoHOW8aPgs
+245 : RT : Le meilleur rappeur parmi les 3 objectivement :
+247 : Champs-Noisy : et si le conseil régional s’installait à la Cité Descartes ?: Les communes de Champs-sur-Marne ... https://t.co/iCuP0rZZAZ
+248 : C'est pas que je n'aime pas la neige, le vent et la pluie, mais c'est quand même un tout petit peu la tempête là, non??? xD #Paris #tempete
+249 : RT : RT et gagne tes places pour le 1er 1/4 de finale du contest à la Petite Halle Villette! #Soul https://t.co/bS…
+250 : le pantalon de ski ça va pas être possible par contre
+251 : Quels critères pour choisir une société de #portagesalarial ? Suivez le guide et évitez les pièges &gt;&gt; https://t.co/31bPcAeWMG
+252 : Oui : le gang des putes : besssst squads https://t.co/keusragCet
+253 : RT : Dans 100 jours, la France accueillera l'Europe du football. Rendez-vous le 10 juin. Ensemble.
+254 : Pk dans ma tl y'a pleins de gens qui disent que chez eux ils neige pas contrairement à tout le monde et personne qui dit qu'il neige ? :(
+255 : RT : Le contre-discours de la méthode de Macron https://t.co/Zf4qma2AOR via
+256 : Le 15 mars je passe le permis :D
+257 : RT : Avec le temps tu va comprendre que les bonnes personnes sont celles, que tu as oubliées ou mises de cotées.
+258 : neige pluie neige pluie fait pas le gamin le ciel enleve les deux
+259 : Je crois que je suis la seule à adorer aller chez le dentiste
+260 : de leurs prix, point barre. Je pense que c'est surtout le fait de sacré un film dont le titre et l'affiche met en scène une
+261 : https://t.co/UHSLT36Hhh … Le second duel avec bon visionnage à tous :) https://t.co/APR9TrcXiZ
+262 : RT : Le petit de 5 ans qui se fait violer par un pédophile c'est sa faute aussi ? Psq il était trop sexy avec son petit short ?
+263 : RT : Sur le coran a la sortie du lycee jai pousser une meuf sans mexcuser elle ma ajouter sur fb elle ma dis depuis tu ma pousser j…
+264 : Ha ça yé, ça rentre dans l'ordre. C'est qui le patron ?! #PointNeige #TP
+265 : RT : C'est la seule photo où tout le monde souris *.* #ViolettaLive https://t.co/…
+266 : RT : Le #Lion a tendance à réagir rapidement au lieu de prendre le temps de la réflexion.
+267 : Mon frère il vient de demander si le Royaume-Uni c'est en Angleterre ou aux Usa, quelle famille ptn...
+268 : RT : Il neige à #Paris ! Et on ne voit plus le Sacré Coeur ! #Montmartre https://t.co/cojFa1fhOU
+269 : dans le nord on a seulement de la grêle et de l'orage ?
+270 : #Business Le ''Made In...'' est-il vendeur ? https://t.co/FsHdbSmtbZ https://t.co/B4wWXY50Td
+271 : #Business Le ''Made In...'' est-il vendeur ? https://t.co/rMf9vWSe99 https://t.co/1obuUt4seX
+272 : #Business Le ''Made In...'' est-il vendeur ? https://t.co/TdvrN5XuYM https://t.co/GHJz7e5f0s
+273 : La neige est enfin au rendez-vous mais un peu tard on est le 2 mars quand même... #neige
+274 : RT : mddr t'inquiètes ca arrive en balle le meilleur pour la fin
+275 : Tu shippe Frisk avec tout le monde ou comment ça se passe ? ;v;
+276 : Prdrr à Paris il neige, je vous montre le temps ou c'est la peine?
+277 : PSG : Quand une star brésilienne devait rejoindre le club parisien https://t.co/Ve6Hj40Lnq
+278 : C'est aussi à Louis-Michel van Loo que l'on doit le célèbre portrait de Diderot qui est à https://t.co/K7ayToaTJo
+279 : le témoignage d un habitant d Alep sur RCF
+280 : Le soleil revient sur Paname, c'est n'imp ce temps
+282 : Après 16 ans et cinq titres avec le Stade Toulousain, Millo-Chluski file à Perpignan #USAP https://t.co/F86juFaWcK via
+283 : RT : les 1ères qui font le percent?¿? comprends pas
+284 : Audrey retrouvée ,le 1er roman young adult de (Confessions d'une accro du shopping), sort demain ! https://t.co/pBdXZvhaTk
+285 : (j'entend par là faire tourner la voiture 5 minutes pour enlever la fine couche de gel sur le pare-brise)
+286 : RT : La #Balance est le signe le plus romantique ! Quand elle sort le grand jeu on finit tous par craquer.
+287 : quintero s'est entraîné ce matin avec le groupe, opposition en fin de session, et aucun signes de difficultés physiques...
+288 : nan mais je trouvais ça drôle le contraste du temps entre les régions x)
+289 : PSG : Quand une star brésilienne devait rejoindre le club parisien https://t.co/MGND8ZmWve
+290 : (2/2) 2 mars 1992: Admission à l' #ONU - République de Moldova, Saint-Marin Tadjikistan et Turkménistan https://t.co/4l6OeWuUgu #éphéméride
+292 : [ Spectacles] Le Cirque Pinder - #Toulouse: Le Cirque Pinder n'a jamais été aussi proche de che...: Le Cirque... https://t.co/ABEtsMgOMj
+293 : La boîte Easy-R Dacia désormais sur le dCi 90: Sur son stand, Dacia met en avant sa boîte automatique pilotée ... https://t.co/AGCRvkW9cg
+294 : RT : Ah ah dans sur NBC un moment assez drôle après le Super Tuesday https://t.co/LU6zCD9Low https://t.co/1vr3…
+295 : PSG : Quand une star brésilienne devait rejoindre le club parisien https://t.co/sHaWGggsFh
+296 : jui dans le 93
+297 : WSH c de la neige fondu croyez pas elle va rester 20 ans hein elle touche le sol qu'elle est déjà partie mdr
+298 : Une plainte contre le président IBK https://t.co/IO1CyGrxAS
+299 : #PQ #PolQc Commentaire très pertinent sur le PL59: Le discours haineux défini dans le PL 59 | JDM … https://t.co/nq1CHRaHdw
+301 : "Let's play FR - Bioshock 2 Ep.14 - J'ai des rivets dans le plafond" : https://t.co/Ze36ULOFf5 via
+302 : C est le déluge dans le bw
+303 : Les #Français sont (encore) ceux qui utilisent le moins les #réseauxsociaux en #Europe https://t.co/D9l3QXpf8Y
+305 : ça a perturbé tout le bureau pendant 10min haha
+308 : Sinon c'est pas mal Batushka comme groupe, c'est marrant de mélanger Black Metal et chants grégoriens, de la manière qu'ils le font
+309 : RT : Le président #ABT2016 prend la route en direction du palais de la Marina. Arrivée prévue le 6 Avril! #vote229 #Benin https:…
+310 : dans le sud grand soleil mdrrr normal j'ai envie de dire
+311 : Le CD et l'amiibo. Cool comme figurine! On a presque envie de ne pas la déballer! https://t.co/W26XblJPLx
+312 : moi il m'insupporte depuis le début
+313 : Ce mois-ce dans l'histoire de l'AIM : mars 2016: Cliquez sur un événement dans le calendrier pour obtenir plus... https://t.co/ye2tmNd9ST
+314 : RT : ALERTE MÉTÉO : RISQUE D'AVALANCHE À 5/5 À MONTMARTRE. ÉVITEZ LE HORS PISTE.
+315 : RT : le physique attire, la personnalité fait rester
+316 : RT : Louis qui conduit un 4x4 EST CE QU'IL A UN RÉOSSEUR POUR QU'ON LE VOIT AU DESSUS DU VOLANT ?!
+317 : putain mais il le prennent ou ce pognon?
+318 : non je le regrette car j'aime voir plusieurs versions, plusieurs visions. C'est tellement enrichissant !
+319 : branle toi et ferme la, tu vas te mettre un doigt dans le cul
+320 : RT : #Digital et #Sénior : le binôme gagnant pour la fidélisation ! https://t.co/RpxTWyGweD https://t.co/sBiHJvnrMy
+322 : RT : EXCLU - vient de dévoiler le clip J'ai Cherché, et il déchire ! https://t.co/xAN1wnCu6V https://t.co/mIEl51sWBx
+323 : on voit bien quel mot j'utilise le plus :'D
+324 : Bonjour Nous espérons que le contact pris ce jour vous a apporté pleine satisfaction, nous restons à votre écoute.
+325 : Le service Factures de pour réduire la note d'internet et du #mobile : https://t.co/BgyqLxprFS #telecom #astuce #économies
+326 : Oh mais le manque de respect pour elle je l'avais oubliée...
+327 : Le ciel parisien sous une tempête de neige #paris #tempetedeneige #flocons https://t.co/7KoIX7v1XW
+328 : Je suis dans le train, c'est grave Doc ?
+329 : Le Hezbollah est étiqueté «groupe terroriste» (https://t.co/DloF77dpmJ) https://t.co/cYWJkIOq7k https://t.co/XiaI4fmRPN
+330 : RT : Le Club Dorothée &lt;3 #MonEnfanceEnUneEmission https://t.co/cSRevKU4dZ
+331 : Dea pratiques incohérentes au frontières de l'#Europe causent des souffrances inutiles https://t.co/LIw2TSSLkq https://t.co/wrFzZgD9pI
+332 : RT : #EACSummit Réunion en cours des Présidents #Tanzania, #Uganda, #Kenya, #Rwanda et 2ème VP pour le #Burundi https://t.…
+333 : RT : De la neige à Paris en mars alors qu'il faisais 13 degrés le 24 décembre. Vas falloir m'expliquer
+334 : Oui, ils passent chercher "le chèque à la compta" :)))
+335 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+336 : Les gens aiment dormir et n'aiment pas le rer A mais j'aime ton optimisme. JE VIENDRAIS AVEC MON HOODIE
+337 : Et voici comme promis le cabinet en image : https://t.co/ealLTWOX8m
+338 : RT : Si j'vois ce chien dans la rue j'me découpe en petits morceaux et j'le laisse me manger https://t.co/bJBPDWh5d1
+339 : Si je m'habille d'une certaine façon , ça ne veut toujours pas dire que tu as le droit de me toucher
+340 : #Interview : rencontre avec , le prodige #electro du moment ! https://t.co/0U84dji7mD https://t.co/ysX05XFqOA
+341 : moi j'vais le renier si ton mec il aime pas la pizza
+342 : tu le sauras pour l'année prochaine
+343 : Y a que moi pour s'ouvrir la lèvre avec son stylo pdt le type bac
+344 : Je suis content que le club ait compris que le maillot bleu était une sacrée connerie.
+345 : ils se disent "starfoullah mdr matte le moche la bas vasy c mort jmen blc Jfais de la merde mdr"
+347 : RT : Une bouteille de vin sur cinq dans le monde est italienne https://t.co/DQtdTA7BLb https://t.co/VwziOO9cBZ
+348 : RT : ce moment gênant où tu regardes un film avec tes parents et que ça fait des blagues sur le cul et tu dois faire genre t'as …
+349 : Enfin bon, j'ai pas aimé le #Bachelor.
+351 : RT : la voix off dans ma tête jlaime trop elle taille tout le monde, elle nik des mères nn vraiment jtm
+353 : RT : Investir en prévention, l’unique issue politique pour réduire le fardeau de l’#obésité. Communiqué https://t.co/9EHLH…
+355 : RT : La raison pour laquelle le #Sagittaire essaye de contrôler son tempérament est qu'il se sent toujours mal d'avoir agit…
+356 : Turquie: accusé d’espionnage, le journaliste Can Dündar promet de faire “le procès de l’Etat” https://t.co/zGvRiLSBiA
+357 : Le réchauffement climatique, tout ça...
+358 : RT : Le père de Trump a été arrêté lors d’une manifestation du KKK https://t.co/zyLcmR4TxS https://t.co/0ttJvKpIT5
+359 : sponsor de la première conférence FR dédiée au #productmngmt. RDV le 21/06/2016 pour la !! https://t.co/yrHGZoAyOM
+362 : On voit le manque de personnalité des gens quand tu reçois des snap avec les têtes de chiens et les changements de visages .
+363 : RT : 6. C'est toujours les personnes qu'on aime le plus à qui ont le dit le moins
+364 : je n'ai pas trop hésiter vu le prix
+365 : RT : J'espère que vous avez eu le temps de prendre vos photos, le ciel bleu est déjà de retour. #Noseason
+366 : Je ramène le chocolat chaud et le fromage fondu
+367 : On m'a piraté mon compte... Dieu merci mon cousin a réussi à me le récupérer mais j'ai pleins de tweets qui ont été supprimés.
+368 : RT : Pogba : "Si quelque chose va mal, le foot me redonne le sourire. Je suis amoureux du foot. C'est l'amour de ma vie." https:/…
+369 : Que t le genre de meuf ki tombe tt le tps
+370 : Calais. Le gouvernement face à ses mensonges https://t.co/TZBf9XPALf via
+371 : RT : Ciara : elle maîtrise à merveille le coupé-décalé ! https://t.co/HsycJ2gZ8r
+372 : RT : Merci pour le cochon et la belle dédicace ! https://t.co/Gq8fjp9C2p
+374 : Le temps il est bipolaire
+375 : RT : . : l'interdiction d'exploiter #gazdeschiste bientôt inscrite au code minier https://t.co/Ofa8Rkn7dS https:…
+376 : RT : Quand t'es encore déchiré de ta soirée de la veille et que tu vas chercher le courrier : https://t.co/N2ijRj5wcX
+377 : Ptdr le salon c devenu un salon de beauté
+378 : Tout le monde snap la neige
+379 : RT : Jsp c quoi le pire entre les fans de jul qui critique nekfeu ou les 99 qui taille les 2000
+380 : RT : [#Transfert] Selon la Sexta, Neymar discuterait toujours avec le PSG. https://t.co/eqyORurz4n
+382 : RT : Tomorrowland c'est dans la poche mamaaaa j'y crois tjrs pas et le prix j'y crois ps nn plus mdr https://t.co/yBCBxgd6pb
+383 : le mec nu MDR encore avec sa voiture itinérante :D.
+384 : RT : Et le port d'un habit restreignant les mouvements en présence de femmes.
+385 : RT : Le clip de #JaiCherché MAINTENANT disponible en INTEGRALITE et en EXCLUSIVITE sur ! :) &gt;&gt; https://t.co/seddhJqKyw …
+386 : RT : #salondelagriculture Cette vache transcrit les propos de Marine Le Pen pour les sourds et malentendants ! https://t.co/R3xPdn…
+387 : RT : #DirectAN député #Aubert defend le maintien de la chasse à la glu #TortureAnimale #PratiquesDunAutreAge IA
+388 : AU SECOURS, TOUT LE MONDE EST HYPE POUR DE LA NEIGE SUR TS. HELP.
+389 : RT : ils sont capable de te planter un couteau dans le dos et te demander pourquoi tu saignes
+390 : oui je viens de voir ça sur le snap d'un copine ! Chez nous il y a une grand soleil mais ça fait grave froid
+391 : Viens vite découvrir , le nouveau service beauté dont je ne peux plus me passer ! https://t.co/cSMmltyAp4
+392 : La princesse Mary de Danemark refuse le voile en Arabie Saoudite https://t.co/WbBp4ZmI6V https://t.co/W0uVyh5j4w
+393 : on le vit bien ouais mdrrr
+394 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+395 : RT : Il neige à Paris ! Vous venez faire un tour dans le jardin ? Rassurez-vous, on a tout ce qu'il faut ;) https://t.co/jrRqM0Y…
+396 : L'extension modulaire, une autre idée de l'habitat https://t.co/S5LU6Se01y
+397 : RT : Le #Verseau a toujours raison. Toujours. En tout cas, c'est lui qui le dit ! :-) - https://t.co/J7AH3kV0Aw
+398 : RT : dans le 77 il grêle enfaite, c encore + sympathique que la neige
+399 : RT : Pour la croissance (des bénéfices du capital) il faut diminuer le coût du travail. http://t.co/JUZHTfbzVW
+400 : Que tu t'habille vulgaire ou pas ça va pas empêcher le violeur de te violer
+401 : en ce qui me concerne, tu es bien placé pour le savoir, ce n'est pas une idée réçue. C'est du vécu ET CA PUE !
+402 : RT : METTEZ LUI LE CONTRÔLE PARENTAL SVP https://t.co/3XxCjX5oLS
+403 : comme le phénomène est terminé, ils vont ré-ouvrir ?
+404 : Épuisant le laser game avec 50gamins
+405 : Y'a du vent , il neige et maintenant le soleil il revient ...
+406 : RT : Le jeter de babouche est magnifique j'en peux plus la!!! https://t.co/gsTZXBgkds
+407 : RT : T'imagine t'es née le 29 février? Tu vas fêter ton aniv tout les 4 ans..
+408 : ok j'admets, le ski c'est cool mais beaucoup trop cher
+409 : -Kai sort actuellement d'une petit ruelle au coin de la ville avec du sang un peu sur le coin des lèvres.-
+410 : RT : Les "post bad mariage" c'est sûrement la chose qui me dégoûte le plus ici..
+411 : RT : Jsuis sortie j'ai cliqué vite fait sur le vring u et jsuis tombée sur ça MDR https://t.co/lo6u88aquP
+412 : Et le temps est de nouveau couvert xD
+413 : Test Skiier a terminé le Oka Ski Marathon avec un temps de 00:23:38. Félicitations!!
+414 : Mdrrrr J'viens de me rendre compte que y avait un I, II et III sur mon dm je croyais y avait que le III c chiant
+415 : Ce que la voix peut cacher, le regard le livre
+416 : RT : VIDEO - Mario Vargas Llosa : Donald Trump est un « clown démagogique et raciste » https://t.co/ANF20KwWzH https://t.co/bIOU5…
+417 : Sa c un bail on part après ya plus De bus pour le retour
+418 : d'avoir du mal à le dire à cause de cette association, précisément
+419 : RT : ne dépend jamais de personne, parce que dans ce monde même ton ombre te quitte dans le noir.
+420 : #PetitJavaisPeur de Sherkan le tigre dans le livre de la jungle
+421 : Un chien pour le handicap présenté par aftaa.fr — KissKissBankBank https://t.co/omy1owhbG9 via
+422 : insulte ? bah dit donc le petit ne sait pas faire la différence entre des insultes et des phrase sans insulte :O
+423 : RT : Les Arabes,leurs mariages c’est un délire , ils louent des Audi,des Lambo, des fusées ,des Jet packs ,pour finir au 8eme eta…
+424 : RT : VIDÉOS – Pourquoi Scott Kelly est devenu l'astronaute le plus cool de l'univers - metronews https://t.co/SntcVo6iAy https…
+425 : RT : Subhnan Allah le temps dehors Dieu est vraiment puissant
+426 : le 3eme trimestre jme dit trop y sert a r jv pas taffer
+427 : RT : le pire jcrois c ls gens ki se croient indispensables ptdr vs etes ls meilleur vs changez pas
+428 : RT : Le code pas le code Tie la va !
+429 : RT : #Digital et #Sénior : le binôme gagnant pour la fidélisation ! https://t.co/RpxTWyGweD https://t.co/sBiHJvnrMy
+430 : RT : C'était le feu apres dans le bar
+431 : RT : Les caractéristiques importantes des #matelas sont le niveau de consistance et la qualité des matériaux. #literie http…
+433 : j'avoue que c'est naze sur celui là, mais j'aime bien le reste perso
+434 : Tout le monde dis il neige moi là où je suis y'a un grand soleil
+435 : J'écoute le nouvel album des the 1975 chui ;____; pq jme suis embrouillé avec laura :'(((((((
+436 : RT : Je suis le genre de fille qui boude mais qui craque au bout de deux minutes.
+437 : RT : Team pas de message mignon le soir, ni le matin, ni jamais
+439 : RT : BREAKING NEWS : cette averse de neige aura duré aussi longtemps que le Pokémon Direct
+440 : Mais par le ciel d'où tenez-vous que la résolution 2211 contredit les précédentes et est préséante?
+441 : Grave le pvp en 1.9 est pas mal :p
+442 : RT : les profs ça fait 20ans ils sont au lycée ils savent tjrs pas quand ça sonne moi ça fait trois ans j'y suis je le sais plus …
+443 : VIDÉO. Le roadtrip aux 457 missions pour parcourir les États-Unis https://t.co/5fKTT2pIA6
+444 : RT : CONCOURS : 75 FOLLOWER POUR LE TIRAGE AU SORT. RT POUR TENTER DE GAGNER LE PACK https://t.co/EhydNMjrJu
+445 : je ne veux pas un 7-0 mais effectivement le cas échéant une politique d'opposition profilée sera nécessaire
+446 : Bon par contre, avec le confrère adverse, pas de souci hein ? (spour 1 ami) (en plus, il y a prescription me souffle-t-il).
+447 : Le rêve est fini, mnt il pleut
+448 : RT : Gradur quand il venait d'arriver dans le game et qu'il envoyais des freestyle sheguey chaque semaine c'était énerver. Main…
+449 : RT : Le clip de #JaiCherché MAINTENANT disponible en INTEGRALITE et en EXCLUSIVITE sur ! :) &gt;&gt; https://t.co/seddhJqKyw …
+451 : excuse moi de te dire ça mais tu es extrêmement drôle toi dit donc ! Pas trop dur le brevet cette année ?
+452 : Instant foodporn: découvrez le cornet de glace-donut https://t.co/MgAT0F9veJ https://t.co/HORqUjo9Tv
+453 : RT : Le 3 du 26 et le 27 j'arrive pas j'vous en supplie https://t.co/steJlpUanc
+454 : RT : rester 4h assise sur une chaise pour rater le bac blanc jdis non
+455 : RT : Pour cette fille que j'aime fort, s'il vous plait RT pour ma meilleure elle n'a jamais pu le rencontrer ni le voir #JustinBieb…
+456 : Mais wshhh c quoi le temps la???
+457 : RT : Bonjour cette personne a disparu dimanche ! Pensez à ses proches. Merci de #Rt le plus possible s'il vous plaît. https://…
+458 : Le saviez-vous? #SextInfo répond à toutes les questions sur la santé sexuelle. #mensssuelle https://t.co/lyRYkak7s6
+459 : Une série documentaire réalisé pour le jeu Tom Clancy's The Division par Ubisoft Biborg &amp; R+I Creative ! https://t.co/ZNxTEZWzfO
+461 : RT : Tiens, le frère #Bartolone vient d'être fait chevalier de l'ordre du mérite https://t.co/ir3rvAjyFr #Regionales2015 http…
+462 : RT : Rdv le 11 mars https://t.c…
+463 : "N'ba" de Aya Cissoko dans Le Canard enchainé cette semaine https://t.co/WQICP3GupW
+464 : RT : Les électeurs crédules et de gauche (répétition) quittent le navire https://t.co/hGaGWqtRHC
+465 : Le premier qui dérange mon placard, je lui casse la gueule
+466 : Jusqu'à le vent m'emportais mdr
+467 : ça prend en compte le ratio de wins en normale si il n'y a jamais eu de ranked avant je crois.
+468 : faut pas regretter le passé et regarder vers le futur
+469 : RT : Selon le bilan financier de #Liverpool, le transfert de Luis #Suarez à #Barcelona a rapporté 96,3M€. https://t.co/a8Qzjxt2jr
+470 : Bonjour voici le lien d'un sondage pour mon tpe .Pourriez vous y répondre svp merci https://t.co/3iif5lrhRU
+471 : par contre qd jui rentrée G vu que jav une tâche sur le pantalon et jsp s'il l'a vu
+472 : RT : Comment tu peux défendre le viol, y'a 0 excuses
+473 : RT : "pourquoi t'es tout le temps en retard" http://t.co/25USLMyyVB
+474 : C'est quand les gens sont encore là qu'il faut en profiter. Après c'est trop tard et tu regrettes de ne pas avoir pris le temps...
+476 : RT : qui bande le plus quand je le frotte ??
+477 : La plupart des haineux n'ont pas lu le livre de la haine...
+478 : Quelles sont les régions où il y a le plus d’offres d'emplois non pourvues ? https://t.co/7TDGjdKlBk via
+479 : elle a les cheveux comme katherine? prcq si non, cst le premier double
+480 : RT : Les Baroudeurs de Beauce-Centre Atome CC remportent le tournoi de Beauport https://t.co/ZUaPT5aOXL https://t.co/o0pUpq5NHF
+481 : RT : Le jour où dans les pub pour Mascara ils arrêteront de nous prendre pour des connes avec leurs putain de faux cils on aura f…
+482 : RT : Starfoullah vous insulter le temps mais c le tout puissant qui nous envoi ce temps
+484 : La boîte Easy-R Dacia désormais sur le dCi 90 https://t.co/s7exhSYXvh https://t.co/BDY0kG6dzx
+485 : Pk quand il neige dans le 77 je suis pas là pour le voir
+487 : Le jour de mon anniversaire tu me l'offre stp ? https://t.co/Z6iFHsrIhL
+489 : C'est une blague le temps par contre
+490 : le mec qui tente de se rattraper x)
+491 : et surtout j'ai pas envie de le voir
+492 : c'est clair et ils le savent !
+493 : RT : A quel niveau relou vous estimez ce mec qui fout ses pieds à côté de moi, j'le connais pas, il pue et se croit seul. https://…
+494 : RT : #USGOM Bonne nouvelle pour ceux qui n'ont pas de place, le match sera retransmi sur écran géant à la salle de Herel, boul…
+495 : Roh dommage... Mais je me demande si je vais pas monter à Paris le faire, y'a plus de monde...
+496 : Apple, WhatsApp… : le conflit mondial entre les autorités et les géants du Web se durcit https://t.co/knCskGLkOs
+497 : J'ai les yeux aussi noirs que le démon,celui qui ressurgit et j'ai… https://t.co/OcrQAq39bR
+499 : RT : Journal de fin du monde jour 1: les astres sont alignés, sa y est la neige la pluie et le vent se sont combiné comme la pro…
+501 : RT : EXCLU - vient de dévoiler le clip J'ai Cherché, et il déchire ! https://t.co/xAN1wnCu6V https://t.co/mIEl51sWBx
+504 : RT : ANNULATION ¦Pont Jacques-Cartier : fermetures complètes de nuit le 7-8-9 mars
+505 : Le pouvoir de changer toute mes notes https://t.co/PHqe4NQ9kp
+506 : Hier on était à Cuba y avait vla le soleil et la on rentre y a de l'orage et après de la neige
+507 : RT : Mais ça vous choque de voir la neige en Mars tsa mais c'est un des signes de la fin des temps que le temps il divague comme ça
+508 : RT : ": Je suis pas sûr hn mais je crois que la go est "possessive " ou un truc dans le genre https://t.co/YDCmt…
+509 : RT : Merci les lillois, beaucoup de sourires, de cadeaux et de dédicaces surtout ! Le retour à Paris est triste.
+510 : RT : Reportage spécial #SIA2016 ce soir dans le JT de TV Libertés (19h) avec , &amp; élus #FN ! https…
+511 : Merci aux parisiens pour ce petit #PointMeteo qui nous rappelle qu'on a de la chance de vivre dans le sud
+512 : franchement t'etais pas obliger de le rappeler
+513 : Bonjour,nous n'avons pas trouvé de problème avec le service paypal.me,mais n'hésitez pas à nous recontacter si cela persiste^DW
+514 : Et oui y'a le temps que je réfléchisse à ma vengeance ;)
+515 : ça sent le bazar sur le périph
+516 : RT : Le temps d'enlever les chaussettes elle peut se rendre compte qu'elle est sur le point de faire une erreur https://t.co/Lh…
+517 : Internet, c'est un peu comme les Neg Marrons, il fait le bilan. Voici le bilan de l'année internet 2015 https://t.co/XRsNgVmpvL
+518 : RT : Prêts à découvrir le clip de #JaiCherché -&gt; il sera disponible dans exactement 30 minutes sur
+519 : RT : Les Arabes,leurs mariages c’est un délire , ils louent des Audi,des Lambo, des fusées ,des Jet packs ,pour finir au 8eme eta…
+520 : Au Québec : Lino Saputo est le numéro 1 ! https://t.co/uGhRR3bjXk
+521 : RT : #SiLaFinDuMondeArrivait tout le monde coucherait avec tout le monde et moi comme un con je serais en train de filmer .…
+522 : Bouleversé par le témoignage poignant d' Aristide Barraud aujourd'hui dans ! Quelle force
+523 : RT : Hommage à #Gainsbourg, disparu il y a 25 ans. Spéciale reprises Gainsbourg/Bashung dans dès le 14/03. https:/…
+524 : RT : Apple, WhatsApp… : le conflit mondial entre les autorités et les géants du Web se durcit https://t.co/CyAHTWi9fR https://t.co…
+525 : Team j'ai procrastiné mes révisions au possible et je dois tout apprendre ce soir pck demain c'est le bac blanc oui j'aime
+526 : RT : Quand l'élite des communicants juge le fiasco Hollande sur Périscope https://t.co/TJew4fDtnh Par https://t.…
+527 : BLOG « Le Roi Eco », l’hommage de Daniel Bougnoux https://t.co/99woqZUMbq https://t.co/hvdSx25KzJ
+528 : RT : J'aurais aimé voir ton sourire au moins une fois pour pouvoir dire à la terre entière comme tu avais le genre de sourire qu…
+529 : RT : Suivez, ce soir, le 1/8ème de finale retour d'Eurocup face à Gran Canaria en direct sur . https://t.co/I5Tus2xNV7
+530 : RT : le dimanche soir c'est le moment où tu regrettes de pas avoir assez profiter de ton weekend jvous jure
+531 : Le prof est tellement lent qu'il est encore dans le passé avec ses "transparents" au lieu de parler de diapos
+532 : Deux ans après avoir été brûlée, elle retire son masque - Le Tribunal Du Net https://t.co/2Wqw53omHa
+533 : c quoi l'expression que t'utilises le plus en ce moment ?
+534 : RT : "Ca fait 2 ans que j'nique le game et t'oses me demander comment j'm'appelle"
+535 : Oui j'adore la neige &lt;3
+536 : RT : La manière dont une personne est habillée ne te donne pas le droit d'outrepasser ces droits et de porter atteinte à sa d…
+537 : RT : Le petit de 5 ans qui se fait violer par un pédophile c'est sa faute aussi ? Psq il était trop sexy avec son petit short ?
+538 : Dans les story de tout le monde ça parle de la neige à Paris
+539 : Booba il a bouleversé le climat
+540 : RT : oui je lance le hashtag #JeSuisAujourdhui soyez nombreux à vous mobiliser
+541 : RT : Entretien ac le Commissaire pr avancer sur les positions françaises avt le Conseil du 14 mars https://t.…
+542 : RT : GUETTEZ LE LOGO DE COCA COLA EN FAIT SUR LE COTE C'EST UN BLANC QUI CRACHE SUR UN NOIR https://t.co/j4r1WheRhv
+543 : RT : Demain sonne le départ du #LOLVMMTour à #Toulouse au #Bikini et il est désormais #Complet #Merci https://t.co/rj68UI…
+545 : on en a gardé de côté Allez, kits giboulées de mars pour tout le monde
+546 : thon c le feu
+547 : RT : #SiLaFinDuMondeArrivait je poserais un jour de RTT le lendemain, pour m'en remettre.
+548 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+549 : RT : Sur le coran a la sortie du lycee jai pousser une meuf sans mexcuser elle ma ajouter sur fb elle ma dis depuis tu ma pousser j…
+550 : RT : 9) vous me cassez les couilles avec vos histoire de 2000 surtout que la plupart des gens qui parle des 2000 sont ne le 31/1…
+551 : RT : Aujourd'hui, est sinistré et 9 des 25 journalistes du site gagnent moins de 1700 euros. Merci le directoire! https:…
+552 : RT : Pop in Risoul : focus sur le challenge féminin https://t.co/jLwi5Am4Yk https://t.co/tKaZJXQ…
+553 : est-ce que le gouvernement est une mafia déguisé? ont se fait volé au grand jour.
+554 : Quand tu fracasses en surf, mais que t'as pas le physique #PrayForSilvanaLima #SurfBusiness https://t.co/Hw3g3FO80q https://t.co/KO86tofZ4O
+555 : Algérie : Le général-major Menad Nouba entame une visite de travail en Turquie: Le… https://t.co/OWN6DBJ5Xi
+556 : Le #CAC40 lâche les 4400 points après l'annonce du département de l'énergie américain sur les stocks de pétrole en forte hausse.
+557 : je ne comprends que le francais dsl
+558 : RT : faut vraiment qu'on arrête de vous supporter. Même pas foutu d'écrire correctement le français! Ras le bol de vo…
+559 : RT : Le jour où tout à basculer.. https://t.co/Re4sqvzKnG
+560 : Qu'attendez vous ? Le déluge ? 6h pour une réparation c'est une blague ? La relation client vous en faites quoi ?!
+561 : Batna : Installation d’un comité de pilotage de la convention entre le CAC et le CHU et des… https://t.co/ZhLXQtadgm
+563 : RT : C'est bien que la neige tombe tôt à Paris, ça laisse le temps à TF1 et France 2 de préparer un sujet de 20 minutes pour le …
+564 : RT : Le #Poisson sait qu'il faut se méfier de TOUT le monde, vraiment.
+565 : RT : La vente aux enchères avec est reprogrammée le 22 mars . Merci . https://t.…
+566 : Le temps fait n'importe quoi maintenant, y a plus de saison
+567 : Installation d’un comité de pilotage de la convention entre le CAC et le CHU Batna et des… https://t.co/ln0Lntf6lM
+568 : RT : La vie j'suis brusquée par le temps la
+569 : RT : Les résultats de cette étude sur le viol font froid dans le dos https://t.co/Xnrqpvjdrb https://t.co/DutBd9us4m
+570 : Le film sera nul mais le dispositif envoie du lourd #BatmanvSuperman #4temps https://t.co/cggjOqOKkY
+571 : Il urine devant le directrice d’une maison de repos d’Antoing où vit sa maman: "J’étais saoul, je... https://t.co/5maxC3jSKO
+572 : Plus qu’une semaine pour vous inscrire au déjeuner-conférence de Calin Rovinescu, le 10 mars au https://t.co/pKOokAVT9U
+573 : RT : [#Transfert] Selon la Sexta, Neymar discuterait toujours avec le PSG. https://t.co/eqyORurz4n
+574 : il neige en France, comment le vivez vous ?
+576 : Mieux que le biblio-bus, le cheval bibliothèque ! https://t.co/bg73wOeVZu via
+577 : tu vois? TOULEMONDE te le dit. Cc
+578 : Les gars n'oubliez pas j'ai toujours le soleil
+580 : Tous le monde à filmer la neige sur snap
+581 : RT : Arrêtez de croir que vs êtes des bonhommes à gérer 10 go par jours, le vrais bonhomme c'est celui qui arrive a garder une femm…
+582 : RT : Les Arabes,leurs mariages c’est un délire , ils louent des Audi,des Lambo, des fusées ,des Jet packs ,pour finir au 8eme eta…
+583 : CA PARLE DE JEANNE DANS LE DOS
+584 : C'est finis la neige, le soleil revient #pointmeteo #barbes
+585 : RT : Merci pour cette interview de ! Un #concert unique à ne pas manquer le 27 mai ! https://t.co/3…
+586 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+587 : On dirais un violeur le mec
+588 : Je suis arrivée à temps pour le Ask Jérémy et Lucie! Plus qu'à attendre une vingtaine de minutes&lt;3
+589 : Un forfait Red 500 Mo à 5 euros, et même 1 centime pour les abonnés fibre: Après le forfait ill... https://t.co/1zNIVf3mi3 #altetia #news
+590 : Il urine devant le directrice d’une maison de repos d’Antoing où vit sa maman: "J’étais saoul, je ve... https://t.co/1SXenRPPpL (Tournai)
+591 : le simple fait que ZZ fasse autant de travail musculaire montre bien que c'est pas 1 entraîneur français ^^
+592 : RT : Dimitri Payet : "West Ham est un petit Saint-Étienne. Le stade, les supporters dingues de leur équipe..." https://t.co/UVgXX…
+593 : GameFly apporte le jeu en streaming sur les TV LG sous webOS https://t.co/DpQmUlATu3 #hardware https://t.co/SnbggwbxeN
+594 : RT : "63% des français considèrent qu'il est plus difficile pour les hommes que pour les femmes de maîtriser leur désir sexuel"
+595 : RT : VIDEO - Mario Vargas Llosa : Donald Trump est un « clown démagogique et raciste » https://t.co/ANF20KwWzH https://t.co/bIOU5…
+596 : RT : Il y a une tornade chez moi ma Nuda à fini dans le tramway et j'ai perdu un bras, en route pour l’hôpital RT pour chaque goûte…
+597 : Docteur Plumette : en vérité c moi le truc bizarre
+598 : RT : Personne vous apprendre à respecter le corps des femmes et leur droit à se refuser à vous ms ça vient parler des vêtemen…
+599 : RT : PUNAISE , vous le faîtes exprès à la fin ? CE N'EST PAS DU COUPE DECALE, WTF ??? Vous pouvez pas GOOGLE ?? https:…
+600 : Ui. Bah, ça passe, juste que jui ULTRA stressé de nature du coup j'étais vachement crispé. (+ y avait que le volant)
+601 : j'vous le dis je contrôle le temps
+603 : RT : le livre de la jongle https://t.co/51TQqZBur2
+604 : RT : Quand tout le monde sur le TS crie "OH PUTAIN IL NEIGE" et là c'est la solitude
+605 : Y avait l'homme de ma vie dans le train
+606 : RT : Je suis le genre de pote qui ne t'envoie pas de messages chaque jour, mais qui sera là si un jour il t'arrive la pire des …
+607 : B2s à décidé d'annuler le festival knock-out ! Car pas assez de tickets vendu pour pouvoir assurer un show... https://t.co/odHROeNfS7
+608 : Le code avec https://t.co/YDD5JalyLN
+609 : RT : 8) ceux qui pensent que la Palestine c le seul pb dans le monde alrs là grosse flm, tu bois ça te sors "et la Palestine a…
+611 : RT : j'ai fais un faux malaise ptdr les pompier ils sont venu tout jvois ma mère elle rentre dans le camion elle mdit "je sais t…
+612 : Pourquoi il neige à Paris quand jsuis dans le sud ?
+613 : RT : BREAKING NEWS : cette averse de neige aura duré aussi longtemps que le Pokémon Direct
+614 : RT : Bonjour cette personne a disparu dimanche ! Pensez à ses proches. Merci de #Rt le plus possible s'il vous plaît. https://…
+615 : Une enfant abîmée je sais pas enlève plutôt le "b" sa te ressemble plus !
+616 : la manipulation avec moi mais que ça rentre pas dans le cadre du PN, je risque
+618 : RT : Dans le top 5 des choses qui me manquent le plus à l'OL, Lisandro est 1er, devant Lisandro, Lisandro, Lisandro et Lisa…
+619 : RT : le physique attire, la personnalité fait rester
+620 : RT : le physique attire, la personnalité fait rester
+621 : LE CALVAIRE DE NOUNOURS N’EST PAS TERMINE - ClicAnimaux https://t.co/b3qlfGb1al via
+622 : Auxerrexpo et CFE organisent le 6 ème Salon des Vins de France du 11 au 13 Mars 2016 https://t.co/8pOOWp6Yz6 via
+623 : Le canton de Genève porte plainte contre une centrale nucléaire https://t.co/QmdZeA30ez
+624 : (En vrai c'est juste le nom qui match, pas les faits promis)
+625 : RT : #SIA2016, Nicolas Sarkozy est au salon depuis 7h30 ce matin dans le hall 1. Il est avec Interfel hall2 https://t.co/MSu…
+626 : Y a des Jayn des Gael Wesh, des soldats de l'ombre qui ont déjà déréglé le réseau, on veut une finale après un 3 vs 3
+627 : En effet, il est passé à 16h16. Vous pouvez faire une réclamation pour le signaler si vous le souhaitez https://t.co/f41mP7Bgls
+628 : RT : Jsui mort taleur le vigile il pistait un gars regarder comment il l'espionnai a travers les rayons https://t.co/CEl9JVI8jq
+629 : Le gros il est trop drôle mdr
+630 : RT : il neige chez tt le monde mais pas chez moa
+631 : RT : [#Concours] Follow + RT pour tenter de gagner le nouveau #SonyXperiaM5 et des places de cinéma ! Bonne chance https:…
+632 : A Quebec c'est le bordel pas pire! :P
+633 : RT : Je sais pas ce qui est le plus drôle entre sa chute ou le "génial" du mec https://t.co/DjrIMlMoIZ
+634 : RT : Nouvelle source Twitter sur Paul Wesley (The Vampire Diaries). Un petit RT pour lancer le compte? :) #PaulWesley https:/…
+635 : jvis dans le nord et il neige pas c'est quoi cette arnaque
+637 : RT : Le #Cancer reste toujours extrêmement fidèle à ses amis.
+638 : Les BTS de #FiftyShades me tuuuent. Et dire que le film n'est que l'année prochaine.
+639 : RT : Certains rêvent d'une machine à remonter le temps.. Faut savoir s'arrêter, méditer, prier pour de sages décisions. Fonc…
+640 : Je pars du principe que si j'avoue mes sentiments, il va me rejeter, parce que c'est juste le truc le plus probable mais
+641 : RT : ma sœur a reçu ça dans le métro mdrrrrrrrrrrrr yen a marre des noirs http://t.co/xzOWRjoEI0
+642 : RT : N'empêche, merci à , , et tous les autres pour le concert, c'était ouf
+643 : J'avais pas compris que le dernier album de Jorrdee était vraiment en édition digitale et limitée…
+644 : RT : Le jours où une fille de votre entourage va se faire violer on verra si vous cautionnez toujours
+645 : RT : IL NE NEIGE PLUS, C'EST BON, TOUT LE MONDE RETOURNE À SES RETOURS CLIENTS, FIN DE LA RÉCRÉ.
+646 : Joignez-vous pour une séance de clavardage sur la santé numérique le 8 mars à midi https://t.co/qlUaC1XmxM
+647 : J'ai fait que le qcm au ds de maths
+648 : RT : Ça change de l'accueil réservé à notre président, au moins le message est clair !!!!! https://t.co/rRfNyKoPv5
+649 : Le lance sa campagne de mobilisation contre la ! Rdv le 9 mars a #Bayonne #Erronda https://t.co/U2RE9G0rEV
+650 : Le pète que jme suis gray
+651 : le tiens est plutôt pas mal aussi dit donc
+652 : Tu ne crois pas si bien dire, le tsunami approche
+653 : RT : [#Transfert] Selon la Sexta, Neymar discuterait toujours avec le PSG. https://t.co/eqyORurz4n
+654 : surtout le roux ah oe https://t.co/iF9OEzvPGb
+655 : RT : "Ce qui nous importe dans la donnée ce n'est pas qu'elle soit grande, c'est ... #BigData http…
+656 : Le Meilleur je t'aime #Lucenzo #Best #Sexy #LeMeilleur #MyLove #MyEverything #KingOfKuduro… https://t.co/oM96KearzN
+658 : RT : Concours #5 - 2 places "pelouse" pour le concert au Stade De France! RT et commente ce tweet! #DefJamFrancexRDiva https:…
+659 : déjà le père s'appelle Kévin donc bon.
+660 : Tout le monde s'excite parce qu'il neige, détendez vous hein
+661 : RT : Le #PLQ supprime le Plan d'action gouvernemental pour la solidarité et l'inclusion sociale (PAGSIS). Économies sur le dos de…
+662 : J'vais pas tenir, j'le sens déjà...
+664 : Bon déjà j'ai mon mardi mercredi comme repos par contre je sais même pas avec qui je vais le faire le carnaval cette année ..
+665 : Le #RDVPrévention se termine. Merci de l'avoir suivi ! https://t.co/LHUmRyJPoL
+667 : Le détenu qui s'était filmé sur Periscope s'est pris 6 mois de prison supplémentaires https://t.co/3DUCTYqtig https://t.co/uhBUUvgyWW
+668 : RT : Le clip de #JaiCherché MAINTENANT disponible en INTEGRALITE et en EXCLUSIVITE sur ! :) &gt;&gt; https://t.co/seddhJqKyw …
+669 : si tu le dis :/ mais ça blesse grave imagine idk, mais merci
+670 : RT : "Pour 1 Français sur 4, le viol excusable si la fille est habillée sexy"
+671 : [PREVIEW] Une #superheroine, deux scénaristes et deux dessinateurs : le tome 2 de Ghost sortira le 9/03 ! https://t.co/n3qabkqJe8
+672 : RT : Pour info! il reste quelques jours pour le projet pour l'anniversaire de Anaïs! Envoyé vos montages à ou pour…
+673 : Bref j'attends le bus il arrive toujours en retard
+674 : RT : Si jamais ça peut en dépanner certains... (je ne connais pas le site par contre) https://t.co/g5XSbrJcMY https://t.co/psnaUNG…
+675 : RT : Le milliardaire Bill Koch brade son incroyable chalet à Aspen https://t.co/orrHH1MIkQ https://t.co/Qh1zCHQJEB
+676 : RT : Ingénieures, tenez votre chance au concours #ingenieuses16 ! Deadline : le 25/03 https://t.co/8No9SJwTdM https://t.…
+677 : oui il Ya dans tout les Sephora mais va dans un grand Sephora pour trouver une teinte foncé ou sur le site..
+678 : #RT Mendy : "Sur le podium ? Moi j'y crois. Notre qualité de jeu est bonne." https://t.co/Uj8n7LyWs4
+679 : #StarWars - Le Réveil de la Force : Un visuel de l'édition #Bluray #Steelbook ! https://t.co/PADBKKRmtU https://t.co/pFe1u42QkV
+681 : RT : Seul ceux qui sont là depuis le début resteront jusqu'à la fin
+682 : RT : Soleil, vent, pluie, grêle, neige, soleil pluie, grisaille. En une seule heure. Le Havre on t'aime.
+683 : La boîte Easy-R Dacia désormais sur le dCi 90 https://t.co/vu7EF1J7JE
+684 : J'ai retrouvé le pull de mon ex, j'vais l'envoyer au bled aussi
+685 : c'est le pinard qui nous fait ça ?
+686 : Buzz-Déjeuner : Le timbre officiel de l'Euro sent l'herbe: #Buzz-Déjeuner #timbre #officiel #l'Euro #l'herbe https://t.co/bUkz7JbhQB
+687 : RT : Le saviez vous ? invente les jeux pour les autres serveurs !
+688 : Il neige chez tout le monde ou quoi ?
+689 : RT : Durant le salon de l'agriculture, il pleut comme vache qui pisse.
+690 : C'est beau, mais c'est chiant, ça va être coton le retour chez moi à moto.
+691 : RT : Découvrez le Paris #FrenchTech Ticket conçu pour les startupers internationaux https://t.co/IlP3u1DFEs #FTTicket ht…
+692 : Julien passe son code la semaine prochaine, il fait 9 fautes alors que j'en fait que 6 et je le passe pas tout de suite
+693 : Bon ben après quelques minutes de neige voila le retour du soleil
+694 : YUKO YUKO sera à Paris à l' le 15 avril (toutes les dates de la tournée bientôt) https://t.co/XV9STYMQNe https://t.co/3nTafc9vn0
+695 : RT : C par où le monde des bisounours ?
+696 : La boîte Easy-R Dacia désormais sur le dCi 90 https://t.co/Hr2GpGRaD8
+697 : RT : Les Arabes,leurs mariages c’est un délire , ils louent des Audi,des Lambo, des fusées ,des Jet packs ,pour finir au 8eme eta…
+698 : RT : conseil du professeur "chaque chose en son temps william, je ne crois pas que ce soit le moment d'utiliser ça…"
+699 : Le pire dans l'histoire c'est qu'elle insiste
+700 : RT : Commentaire très pertinent sur le PL59: Le discours haineux défini dans le PL 59 | JDM https://t.co/Gey4mBRQHT
+701 : RT : Tunnels - Le saisit la Cour des comptes concernant la gestion de Bruxelles Mobilité https://t…
+702 : Le petit chien dans les anges il est trop trop mignon
+703 : Ça y est tt le monde met des snap pour dire qu'il neige wsh fermez vos gueule on le vois bien qu'il neige
+704 : https://t.co/WifEVhHHJJ après avoir modifié code criminel, couper les budgets et rempli les prisons se plaint de récidive!!!
+705 : mais où dans le 77 ? À chelles il neige la
+706 : Le moment ou tu es prévenu qu'il neige en lisant un tweet de alors que tu pouvais juste regarder par la fenêtre... #écran
+707 : Ça date de quand le gangsta rap, ?
+708 : Demain c'est le percent, on va tous se faire bizuter par les terminales
+709 : RT : Le soleil à Paris enfiiiin
+710 : Mais vous êtes où pour qu'il neige ? Le ciel est super bleu ici
+711 : Je vais donc tout le temps de l'enfer vers l'enfer ... :'( https://t.co/Jb2pfNyuCN
+713 : Le vent de cocu
+714 : de tt manière là où j'habite il a dû neiger, aller quoi? 2,3 fois depuis que j'y suis? et encore elle dure mm pas ptdrrr wouhou VIVE LE SUD
+715 : AUDIO - Un serveur devrait-il payer pour le client qui s'en va sans payer? https://t.co/t1TmWK0KZU https://t.co/61rjBXUhzF
+716 : Le pere100 à metz c'était le feux
+717 : RT : Imaginez on est 2016 et y a des gens qui pensent que le viol c pas grave et que...oh wait c la réalité
+718 : RT : TNT HD : aide à l'équipement, assistance de proximité et aide à la réception pour le passage à la Haute Définition htt…
+719 : RT : Les 3 étapes du "j'ai passé ma soirée sur Twitter au lieu de réviser pour le contrôle" https://t.co/gmPNL6nWPf
+720 : RT : [#Concours] Follow + RT pour tenter de gagner le nouveau #SonyXperiaM5 et des places de cinéma ! Bonne chance https:…
+721 : Christianisme et mémoires en Provence: LEOPOLD MANDIC : LE SAINT DE LA RECONCILIATION https://t.co/0aQ8L6o6er
+722 : RT : [#Concours] Follow + RT pour tenter de gagner le nouveau #SonyXperiaM5 et des places de cinéma ! Bonne chance https:…
+723 : RT : hâtes que le filtre chien disparait de snapchat pour que les gens redeviennent moches
+724 : RT : [#Concours] Follow + RT pour tenter de gagner le nouveau #SonyXperiaM5 et des places de cinéma ! Bonne chance https:…
+725 : RT : Combattre la #corruption et le financement du #terrorisme, les pistes de l'#OCDE https://t.co/j97EXL42m6 (Eng) #GAFI https://t…
+726 : RT : #salondelagriculture Cette vache transcrit les propos de Marine Le Pen pour les sourds et malentendants ! https://t.co/R3xPdn…
+727 : RT : C'est bien que la neige tombe tôt à Paris, ça laisse le temps à TF1 et France 2 de préparer un sujet de 20 minutes pour le …
+728 : RT : faut je vous explique le macdo le d'hier des grosses barres !
+729 : Le bruit que fait dans sa story quand il "tape" Olivio me tue
+730 : mdrrrrr et tal avec océ on était avec loulou et auré et on s'amusait à échanger nos visages vous auriez vu le sketch ptn
+731 : viens on essaie avec le tiens https://t.co/u4L1Jwvteg
+732 : RT : "Le mariage est comme le restaurant : à peine est-on servi qu'on regarde ce qu'il y a dans l'assiette du voisin." Sach…
+733 : RT : Le président arrive pour rencontrer les premiers lauréats du #Paris #FTTicket https://t.co/YDpu2nd09l
+734 : RT : Putain la vie le soleil ça fait du bien
+736 : trkl c'est super sauf le temps est degue et sinon askip il neige a Paris c vre ?
+737 : On passe tellement par toutes les saisons en une journée que je sais plus comment m'habiller le matin
+738 : Faire le premier pas et mettre sa fierté de côté
+739 : RT : Quand tu prend le bus c'est pas le chauffeur il attend que tu sois poser bien tout ça, non t'es au milieu il démarre tu fais…
+740 : RT : Tout le monde à snapper la neige je suis KO
+742 : Brésil : le dirigeant de Facebook qui refusait de collaborer va être libéré https://t.co/5VY4Pd7Ulx
+743 : RT : J'ai testé le freinage en glisse. Bah c'est pas encore ça ! #LevelPetiteBite #WinterTest https://t.co/gNMHPGG22J
+744 : #cdanslair Question: Ce ne serait pas plus simple de faire comme le Canada: faire venir de vrais réfugiés en avion? https://t.co/t2cJm2OokH
+745 : comment peut-on faire des lois sur le travail quand on a jamais travaillé dans la réalité.
+746 : envoyer moi vos question avec le HT #AskSashaBanks les meilleures seront retenue , poser a la BOSS https://t.co/7FV2i4m0ph
+747 : RT : meme en aimant le foot un gars qui fait du basket a plus de charme mdr ca veut rien dire je sais mais c'est comme ça
+748 : RT : Le manoir rendu célèbre par Kim Dotcom est à vendre https://t.co/VW3IXecrwi https://t.co/X4G9nxzuWN
+749 : j'espère qu'il va encore neiger ce soir ce serait le top de la crème
+750 : RT : Dernières heures pour participer au #CONCOURS pour gagner la bible de la domotique et des objets connectés :D https://t.co/mNc…
+751 : RT : Sur Twi, avant tu pouvais dire tout ce que tu voulais tt le monde s'en foutait, wah mtn tu dis qqch, ça vient ouvrir sa bouche …
+752 : RT : Canard : le frère #Bartolone recevra médaille de l'ordre du mérite des mains de le 10 mars... https://t…
+753 : En librairie le 3 mars : une magnifique histoire chez !! https://t.co/lx2fs38ZMY https://t.co/U7iBZ2GLR6
+754 : Que t'es plus d'argent pour mangé c'est pas le problème..
+755 : RT : Les filles avec des ongles comme ca, comment vous faites ? Moi ils sont tout rongés et le vernis tien 2jours. https://t…
+756 : le mieux serais Amiens quand même!
+757 : RT : Reconversion: Et si on partait élever des chèvres dans le Larzac ? https://t.co/2vPUwV9FTq https://t.co/nihch6LV8b
+758 : RT : nan sérieusement les papouilles c vrmt le truc le plus doux au monde wsh
+759 : RT : J'ai bien réfléchi et à mon avis, le secret pour avoir une vie réussie, c'est de vivre chaque jour comme si vous alliez vous…
+760 : RT : Il faut prévenir : c'est le PS qui n'a rien compris, pas les français #LoiTravail https://t.co/…
+761 : mais... s'il neige et que personne le met en story... a-t-il vraiment neigé?
+762 : RT : et enfin le match sur contre la à 22h30, GL ! https://t.co/0eRCM28Fnz
+763 : Rogozin a parlé de moteur pour le chasseur T-50 https://t.co/fOjFaLX9yH #Nouvelles #Russie
+765 : mon père le discours qu'il m'a fait pour la coloc j'étais genre "ouais ouais ouais ouais ouais tout à fait ouais ouais ouais".
+766 : RT : j'arrête pas de dire "the cent" mdr je crée le malaise envers moi même c plus fort que moi on dirait jean-michel beauf
+767 : RT : Il y a une tornade chez moi ma Nuda à fini dans le tramway et j'ai perdu un bras, en route pour l’hôpital RT pour chaque goûte…
+768 : Le potin du mois
+769 : et il va jouer ce soir pour le vrai club de l'oceanic
+770 : RT : C'est ma seule chance de le voir, j'aimerais tellement y aller #JustinBieberAvecNRJ
+771 : RT : Vous voulez dire qu'il a perdu un doigt ? Ça nous arrive tout le temps avec nos tiges
+772 : On fait quoi alors! Rien on reste comme ça avec 6 millions de chômeur ?! Il faut transformer notre pays , sortir le paquet !
+773 : RT : [#Concours] Follow + RT pour tenter de gagner le nouveau #SonyXperiaM5 et des places de cinéma ! Bonne chance https:…
+774 : Léo le pd https://t.co/rVLTqA7nvo
+775 : RT : Le #Lion n'est plus à l'aise quand il n'est plus dans son confort habituel.
+776 : comme ça ils pourront comparer leur gros sabre lol
+777 : "C'est qu'une amie" aha c'est la cerise sur le poulet https://t.co/AgV0QqDiKQ
+778 : Aller je rush le lvl 100 aujourd'hui puis je go jouer à LoL
+780 : Le canton de Genève porte plainte au sujet de la centrale nucléaire du Bugey https://t.co/5hu1R3sdrd
+781 : RT : y a des couples ça fait 3 ans ils sont ensemble et personne le sait, mais t'en as ça fait 6 jours, t'as 14 photos et 4 flipag…
+782 : RT : votre problème aussi c'est que vous croyez que le viol se passe toujours dans une ruelle, la nuit
+783 : Le demi fond a 8h demain ca va être sympa
+784 : RT : Si j'vois ce chien dans la rue j'me découpe en petits morceaux et j'le laisse me manger https://t.co/bJBPDWh5d1
+785 : RT : Pourquoi le monde est cruel comme ça PTDDDR https://t.co/W8OhrIlJqL
+786 : Voici le test ultime pour savoir si les cheveux courts vous iraient bien ! https://t.co/C9yDhxZhu2
+787 : &gt; "Les solutions e-commerce clé en main comme Prestashop…" AH ! C'est la faute à si on a plus de boulot !
+789 : RT : Les candidats à l'agreg' ont des épreuves le 9 mars,jour... de grève https://t.co/Aqf86v0D1H https://t.co/AZYRcq8g27
+790 : Le car scolaire quitte la route à Vauchassis https://t.co/TEv4gUFm5x
+791 : RT : Le mans Bressuire Limoges ... Me voilà ... https://t.co/gLboTHDPjk
+792 : néanmoins il manquera le toucher et la résistance du corps mémoire physique du voyage
+793 : Sur cette terre il n'y a ke les grandes multi-nationales ki "dictent leurs LOIS" = L' ARGENT !! tout le reste peut s'écrouler !
+794 : dacccccc tu vises le devant dla scene mdr
+795 : Les caractéristiques importantes des #matelas sont le niveau de consistance et la qualité des matériaux. #literie https://t.co/8oxaOLdXMM
+796 : Les prérequis d’un projet de Marketing Automation #BlogSuntseu https://t.co/ey4vYrqV5n https://t.co/LYUhErkXGY
+797 : J'en aimerai trop un mais je sais pas si ma mère comprendrait pourquoi j'en veux un j'ai pas le jeu
+799 : RT : Je crois que c'est le plus beau compliment que j'ai pu lire de ma vie. Merci https://t.co/vpMCiUr5fb
+800 : RT : qd jprends la décision d'aller sur twi alors que le risque de spoil est à son maximum https://t.co/V6r8JYGVSc
+803 : Il neige ici !Petit info trafic : n'oubliez pas que le Français ne sait pas conduire qd il pleut (imaginez quand il neige bon courage )
+806 : RT : [#Concours] Follow + RT pour tenter de gagner le nouveau #SonyXperiaM5 et des places de cinéma ! Bonne chance https:…
+807 : c ki sur le peri
+808 : Je vais le martyriser le pauvre petit !
+809 : RT : Continuer à insulter le temps au lieu d'admirer la puissance d'Allah
+810 : Il faut que je monte a cheval le plus vite possible ca me manque trooop
+811 : Je suis quand même entrain de flipper pour mon tatouage ! 2 mois après il est toujours ombré et en relief. C'était pas le but
+812 : RT : nan sérieusement les papouilles c vrmt le truc le plus doux au monde wsh
+815 : Sur snap il fait trop le garçon azy j'vais le graille comme du chocolat il sait pas lui.
+816 : AL elle a plus d'appareil ptdr bye bye le cliché de l'adolescente
+817 : Le budget prévu pour la sécurité de la World Cup 2018 en #Russie risque d'être insuffisant (ministre des sports) https://t.co/ujNVHFMilB
+819 : Alors déjà le mec me dit pas bonjour mais en plus ne ferme pas la porte d'entrée. Con? Oui
+820 : le type de musique de jul
+821 : RT : L' a ouvert vendredi dernier, payez le temps plutôt que les consommations ! https://t.co/M07rycIzqi #Aix https://…
+822 : RT : Le JT de l'OM : le podium est-il définitivement perdu ? https://t.co/AzLyYrQX0t #Sport #Football #OM https://t.co/LnHVJ…
+824 : RT : Reportage spécial #SIA2016 ce soir dans le JT de TV Libertés (19h) avec , &amp; élus #FN ! https…
+825 : « Pour que l’Europe soit sauvée, il faut lever le tabou sur les nations » https://t.co/Q26456Dsxx
+826 : RT : Le programme 2016 de la 5eme édition de la conférence Devoxx France est publié https://t.co/Qbtdip9R35 #DevoxxFR
+828 : #ilneige Le twitto parisien moyen rejoue la carte du puceau des sports d'hiver. #kikoolol
+829 : En vrai je le regarde et me demande si je fais pas une connerie
+830 : RT : Quand l'élite des communicants juge le fiasco Hollande sur Périscope https://t.co/TJew4fDtnh Par https://t.…
+831 : roué de coups par 6 personnes dans le tramway:"pauvre chomeur ou cassos"dirait Taubira mais elle est partie https://t.co/Y8RiHVmAo2
+832 : RT : Hin mais le soleil t ou fdp
+833 : C'est bon, tout le monde a bien été à sa fenêtre pour admirer la neige, on arrête les tweets là dessus maintenant ?
+834 : RT : Marine Le Pen au service des #agriculteurs : reportage ce soir dans le JT de la #réinformation de TV Libertes (19h/tvliber…
+835 : RT : Le #Poisson s'en fou de ce que vous pensez de lui.
+836 : Ca nettoie les yeux le blanc ^^
+837 : ça va puer le chien mouillé dans la baraque xD
+838 : tu veux que je te bloques quand ??? Je te laisse le choix du jour et de l'heure
+839 : RT : jvois ça rigole sur l'histoire d'eau et de vin mais vs savez pas ce que ça fait de sreveiller le matin sans eau et de devoi…
+840 : mon mari n'est pas du même avis je pense le suspendre dans notre jardin.
+841 : C marqué sur le groupe ouvre tes yeux
+842 : RT : Le ministère de la Culture va recevoir les éditeurs et les auteurs de BD https://t.co/Xk02dU5APi via livreshebdo
+843 : RT : quand on ira en cours le matin avec du soleil en manche courte et petite veste ça sera la meilleure période
+844 : et pourquoi le prix du brut continu de monter?? Un avis ??
+845 : ptdrrrr c'est vraiment des pigeons le Réal
+846 : "Je suis de ceux qui vise le soleil pour vexer la lune"
+847 : ah mon gars je connais mais tout le monde l'utilise
+849 : Toute l'info des paiements est sur le site toujours
+850 : Pour le camp NaNo, je vais écrire, corriger, et auto-publier une novella. Dans le même mois. Voilà.
+853 : Nos conseillers #CIRFA à #FORUMemploi de #CHELLES le 8 mars + d'infos sur https://t.co/zLTaJB0AsF ! https://t.co/yXURVSUXKt
+854 : si le FN fait les poubelles de l extrême droite et vous c est peut être les égouts de Paris ? Fermer la au lieu de dire ça
+855 : Foot - FIFA - Le salaire de Blatter connu fin mars https://t.co/w0r1qTlVga
+856 : je le pense aussi
+857 : Quand tout le monde sur le TS crie "OH PUTAIN IL NEIGE" et là c'est la solitude
+859 : RT : ALERTE MÉTÉO : RISQUE D'AVALANCHE À 5/5 À MONTMARTRE. ÉVITEZ LE HORS PISTE.
+860 : RT : La météo elle a intérêt de changer d'ici mercredi moi je vous le dis !
+861 : RT : Il y a ceux qui te font le rappel pour que tu progresse. Et ceux qui le font pour te rabaisser publiquement et montrer ton err…
+862 : Merci pour le screen, je t'invites la prochaine fois à le faire via le forum de RelaxCube ^^ #Daweed
+863 : Raye NEIL le parieur fou :p
+865 : RT : Le temps est vraiment fou.
+866 : RT : Le premier roman du juge Marc Trévidic est une grosse déception: il est laborieux et poussif https://t.co/IhyBo3i3cx (par …
+867 : Faites gagner un concept #breton au concours de la restauration rapide! Likez le logo sur https://t.co/0As2l75i1r
+868 : RT : faire le tour du monde
+869 : RT : VIDEO - Mario Vargas Llosa : Donald Trump est un « clown démagogique et raciste » https://t.co/ANF20KwWzH https://t.co/bIOU5…
+870 : RT : BREAKING NEWS : cette averse de neige aura duré aussi longtemps que le Pokémon Direct
+871 : Ne prenez pas le risque de sortir dehors, la neige pourrait revenir à tout moment.
+872 : RT : Quel est le but de votre relation si à la fin ya pas de mariage ?
+873 : Le Journal du Geek : Lëkki relance la Playstation à 140€ #JeuxVideo #Rétro https://t.co/9aCrneuiwP
+874 : bien sûr, Le mépris de J-L Godard :)
+875 : RT : La neige c'est pour vous faire oublier la loi El Khomri sachez-le c'est un coup de .
+877 : RT : On a trouvé l'accessoire pour se mettre du vernis facilement ! L'indispensable du printemps : LE TWEEXY #TrucsDeNana https…
+878 : Le non respect mdr #lrt
+879 : RT : Comme on vous le disait il y à quelques jours, la Keynote d'Apple avance à grand pas, et c'est une toute nouvelle... ht…
+880 : RT : J'sais pas si c'est le bon j'veux pas qu'il touche mon cœur de trop près
+881 : RT : Mon bac il va peut-être tomber du ciel, comme le résidu de Solow... #BAC2016 #blaguedeES
+884 : RT : #VIDEO #Shadowhunters Le cast récemment : https://t.co/ncMCP9DeEz
+885 : Un quiz pour hier, le match Granville-OM demain, la #SMCFanZone vendredi pour #SMCASM = c'est la semaine foot de ma vie.
+887 : RT : J'espère le 05×20 il va être trop bien
+888 : RT : quand on ira en cours le matin avec du soleil en manche courte et petite veste ça sera la meilleure période
+889 : LA VIDEO. Il y a 60 ans, le royaume chérifien officialisait son indépendance https://t.co/xhA5wYQy0U via
+890 : LA VIDEO. Il y a 60 ans, le royaume chérifien officialisait son indépendance https://t.co/PlAcBcpPmK via
+891 : perso je trouve le poisson rigolo
+892 : RT : ALERTE MÉTÉO : RISQUE D'AVALANCHE À 5/5 À MONTMARTRE. ÉVITEZ LE HORS PISTE.
+893 : trop hate d'aller à Orleans le 26 Mars
+896 : RT : . : l'interdiction d'exploiter #gazdeschiste bientôt inscrite au code minier https://t.co/Ofa8Rkn7dS https:…
+897 : RT : Jul ça se voit qu'il a pas le temps pour l'ortographe il est plus occupé pour ses 4 ou 5 albums pour l'année https://t.co/…
+898 : RT : Le Tour du Qatar s'est dit "intéressé" à l'idée d'acheter des pavés et de la pluie pour "pimenter" sa prochaine édition.…
+899 : RT : Le temps il est vraiment bipolaire un coup y'a du soleil un coup il neige
+900 : #PetitJavaisPeur de regarder sous le lit bc je croyais y'avait un monstre
+901 : RT : le premier qui tombe amoureux a perdu
+902 : RT : J'aime pas la neige nique j'suis un nègre j'aime la chaleur et le soleil putain
+903 : "L'eau, la terre, le feu, l'air, un jour, ces 4 éléments vivait en harmonie"
+904 : Le ciel s'éclaircit au moment où le CD s'arrête #magie
+905 : Mendy il a raison mdr déjà le match contre Bilbao &gt;&gt;&gt;&gt;&gt; tous les matchs de la saison dernière avec Bielsa
+906 : RT : svp vous êtes ma seule seule chance de le voir #JustinBieberAvecNRJ
+907 : RT : De la neige à Paris en mars alors qu'il faisais 13 degrés le 24 décembre. Vas falloir m'expliquer
+908 : Félicitations à Nathalie qui remporte les 2 places du jeu-concours proposé par la mairie du ! https://t.co/l2FuXHjjYW
+909 : RT : le 2 avril
+910 : RT : URGENT ! Christophe Barbier est malade ! Il a dit du bien de Nicolas Sarkozy ce matin..... Le répétera-t-il ?... A suivre !
+911 : RT : #Concours Follow+RT pour tenter de gagner le #DVD de #JeMeSuisFaitToutPetit avec Vanessa Paradis https://t.co/A7OJfP7WGV
+912 : RT : Toute le monde regarde la neige, je crois que c'est le moment de faire passer la #LoiTravail.
+914 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+916 : RT : Pour cette fille que j'aime fort, s'il vous plait RT pour ma meilleure elle n'a jamais pu le rencontrer ni le voir #JustinBieb…
+917 : RT : Deja la majorité des viols ont lieu dans le cadre familial ou scolaire. Le mythe du viol dans la ruelle sombre c'est une min…
+918 : RT : C'est bien que la neige tombe tôt à Paris, ça laisse le temps à TF1 et France 2 de préparer un sujet de 20 minutes pour le …
+919 : RT : Amir vient de dévoiler le clip J'ai Cherché, et il déchire ! https://t.co/T2vORwES9j via melty_fr #eurovision !!
+920 : Il neige chez tout le monde sauf chez moi
+921 : RT : "Pour 1 Français sur 4, le viol excusable si la fille est habillée sexy"
+924 : Même le meuilleure joueur Epicube ne tient pas le niveaux de Kohi/Badlion , sinon tu as des pseudos ?
+925 : on court tous après le temps c'est bien le problème !!
+926 : il neige dans le 93?
+927 : je suis le manager
+928 : RT : Le pèrecent c'était dingue ! Il y avait une ambiance de folie !
+929 : Et nous le soleil...
+930 : RT : Alexandre Lacazette ne s'est pas entrainé aujourd'hui suite à une douleur au genou, selon Le Progrès. https://t.co/23wQaV7OUb
+931 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+933 : RT : Bravo à qui a offert 10.000 euros pour la #ProtectionAnimale à Saint-Gilles #RéserveParlementaire https://…
+934 : Sylvain et les bifluorés - Le Ver de Terre
+935 : RT : Le temps est vraiment fou.
+936 : Allume le
+937 : RT : Imaginez on est 2016 et y a des gens qui pensent que le viol c pas grave et que...oh wait c la réalité
+938 : I suffit que Booba dise" vivement l'été pourvu qu'il neige" pour déréglé tt la météo nationale le temp i c Pa si i doit neiger ou soleiller
+939 : #Environnement - Economie. Désormais, le Japon gagne de l’argent en empruntant: Tokyo vient, pour la première ... https://t.co/eyDhbp4KGA
+940 : faut je vous explique le macdo le d'hier des grosses barres !
+941 : Mais les gens qui disent le viol est admis pour les gens qui s'habillent pas assez mais mdr j'ai hâte que vos enfants se fassent violer
+943 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+944 : Tirage au sort ce jeudi à 17h: Le tirage au sort de l'ordre des matches de la rencontre du 1er tour entre la F... https://t.co/Tb9aXGnZxV
+945 : RT : 10/03 #SystemX16 Au programme : 1 keynote, 26 démonstrations et 4 workshops thématiques ! https://t.co/kJQihh687M https:/…
+946 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+947 : RT : "jamais 2 sans 3" très drôle elle est OU la troisième semaine de vacances ??? Le troisième jour de week-end ??? Le troisième…
+949 : RT : Le film il est incroyable beast of no nation
+950 : jpréfère le beau temps
+951 : j'ai faillit pleurer en le lisant... Je dois être trop sensible pour cette société
+952 : RT : #BatmanvSuperman : #QuiVaincra ? #Batman ou #Superman ? Pariez sur 'Le Combat du Siècle' ! https://t.co/spqrDscH9p htt…
+953 : RT : On est du 05. Défi fait sur l'île de la Reunion d'où le beau temps mdr. https://t.co/Xs6UW76eXM
+954 : Combattre les algues bleues par le fer https://t.co/1IiUExl8FW https://t.co/Hh9gnjV27B
+955 : RT : en picardie il suffit d'une journée pour faire le tour des saisons
+956 : RT : C'est bien que la neige tombe tôt à Paris, ça laisse le temps à TF1 et France 2 de préparer un sujet de 20 minutes pour le …
+957 : RT : Booba il a juste dit "Vivement l'été pourvu qu'il neige" il a déréglé le climat.
+958 : RT : mdr je dis à Camille "dis-toi que 87% des gens ont le bac" elle me rep "et si jsuis dans les 17% restants??" ok déjà le bac …
+959 : RT : Putain la vie le soleil ça fait du bien
+960 : RT : "Les tenues incitent au viol c'est un fait" quand on dit "c'est un fait" on invente pas le fait hein.
+961 : RT : Je suis le genre de fille qui boude mais qui craque au bout de deux minutes.
+962 : Le prix des bouteilles sur ta table c le prix des impôt de maman
+963 : Là tout de suite j'ai un peu envie de me rouler en boule dans ma couette en tremblant. Heureusement que le fauve est là.
+964 : conseil du professeur "chaque chose en son temps william, je ne crois pas que ce soit le moment d'utiliser ça…"
+965 : Christianisme et mémoires en Provence: LEOPOLD MANDIC : LE SAINT DE LA RECONCILIATION https://t.co/ndITNMHwwx
+966 : J'aime pas le temps qui est dehors
+967 : Elles ont déjà eu 15 trophée c'est quasiment le maximum, alors dire qu'elles méritent plus c'est pas possible.
+968 : RT : Si tu veux progresser au foot pck t'es bidon, tu va au Five point barre, y'a que la dedans que le niveau monte vite
+969 : #actus Projection débat d'un documentaire sur le poète Benjamin Péret https://t.co/Z505TKLPOn
+970 : RT : [Le goût de M] Lumière céleste https://t.co/NjX2EZYmOW https://t.co/cOcrUgGsc4
+971 : RT : "ce que je voudrais sauver je le tuerai."
+972 : Tous les soirs y a des camions UPS et DHL garés devant le bureau. Chez UPS ils ont même leur uniforme marron caractéristique.
+973 : RT : "ignore le il reviendra" mdrrrrrr wallah il s'en blc
+974 : RT : C'est le turfu dehors
+975 : RT : Donc demander si c'est la tenue ou le lieu le responsable, la question implicite c'est " comment la fille aurait pu évit…
+976 : je te raconterais en privé tte facon des que je rentre chez moi ... On a toucher le fond
+977 : RT : Nouvelle nudes max de RT J'BALANCE LE BLAZE a 60 RT ET 200 FOLLOWERS https://t.co/mv6VYIVKDr
+978 : https://t.co/NhApqgRkam AFP: Projet de réforme pénale: les députés dans le vif du sujet https://t.co/ra5WkKZRiv
+979 : Plus il grandit plus je suis fière de ce qu'il devient plus j'espère avoir un jour la chance de le voir sur scene #JustinBieberAvecNRJ
+980 : RT : [#Transfert] Selon la Sexta, Neymar discuterait toujours avec le PSG. https://t.co/eqyORurz4n
+981 : L'avancée de l'ultralibéralisme passe par la déstructuration de la pensée chez le citoyen ordinaire qui a fait confiance à la démocratie.
+983 : URGENT! Si des gens font le Dep pour le match #FCLOM le 12 Mars A 17H et qui passe vers Rennes ou qu'il on un moyen de ramassage en route !
+984 : Haha le 12 30 la découverte... :p
+985 : Le Conseil de sécurité unanime pour alourdir les sanctions contre la Corée du Nord #Onu https://t.co/srSMojS3MN
+986 : RT : le temps il a changé en même pas 10min
+987 : RT : Quand tu reçois le message de la personne que tu veux https://t.co/TiIqezgEnp
+988 : RT : C'est bien que la neige tombe tôt à Paris, ça laisse le temps à TF1 et France 2 de préparer un sujet de 20 minutes pour le …
+989 : ptdr ma dissert je hurle "la protection des tiers devant le juge du contrat" j'ai envie de me tirer une balle
+990 : RT : Nekfeu le 2 avril avec et
+992 : RT : Une bonne grosse teuf au vallée cet été apres le bac hmmmm
+994 : RT : Le #Cancer reste toujours extrêmement fidèle à ses amis.
+995 : Pour les gosses voyez avec le Hamas au lieu de diffamer https://t.co/hR8kImtDX8
+996 : non jvoulais sur le surnaturel etc, c les deux autres meufs dmon groupe
+998 : RT : Y'a le prix d'un grec fils de chameaux algérien https://t.co/O8RuRrNyqc
+999 : Et en PvM, avec le focus et les dégâts supp' du Terre/Feu, c'est vraiment sympa pour amplifier les dégâts des DPT
+1000 : Sauf que nous ça arrive tout le temps ici mdrrr

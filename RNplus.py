@@ -20,7 +20,7 @@ def clean_tweet(tweet):
     return tweet
 
 tweets_data = []
-with open("MMM.csv", "r", encoding="latin1") as f:
+with open("balanced_tweets_200k.csv", "r", encoding="latin1") as f:
     reader = csv.reader(f)
     for row in reader:
         if len(row) >= 6:
@@ -83,7 +83,7 @@ optimizer = torch.optim.AdamW(model.parameters(), lr=0.01)#AdamW a meilleure con
 
 # Entraînement du modèle
 print("⚡ Entraînement du modèle...")
-for epoch in range(20):
+for epoch in range(100):
     model.train()
     optimizer.zero_grad()
     outputs = model(X_train)

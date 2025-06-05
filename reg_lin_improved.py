@@ -10,7 +10,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 import matplotlib.pyplot as plt
 # Extraction et nettoyage des tweets
 tweets_data = []
-with open("MMM.csv", "r", encoding="latin1") as f:
+with open("balanced_tweets_200k.csv", "r", encoding="latin1") as f:
     reader = csv.reader(f)
     for row in reader:
         if len(row) >= 6:
@@ -74,4 +74,4 @@ if __name__ == "__main__":
     plt.show()
 
     print("Exemple de prédiction :")
-    print(predict_sentiment("shut the fuck up"))
+    print(predict_sentiment("shut the fuck up"))  

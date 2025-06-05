@@ -59,15 +59,15 @@ y_test = y_test.view(-1, 1)#idem test
 class SentimentNN(nn.Module):
     def __init__(self):
         super(SentimentNN, self).__init__()
-        self.fc1 = nn.Linear(512, 256)# la on vas créer la première couche linéaire
+        self.fc1 = nn.Linear(512, 128)# la on vas créer la première couche linéaire
         self.relu1 = nn.ReLU()# la on vas ajouter une activation ReLU
         self.drop1 = nn.Dropout(0.3)# la on vas ajouter une couche de dropout pour éviter le sur-apprentissage
         
-        self.fc2 = nn.Linear(256, 128)#idem pour la deuxième couche linéaire
+        self.fc2 = nn.Linear(128,64)#idem pour la deuxième couche linéaire
         self.relu2 = nn.ReLU()
         self.drop2 = nn.Dropout(0.3)
         
-        self.fc3 = nn.Linear(128, 1)
+        self.fc3 = nn.Linear(64, 1)
         self.sigmoid = nn.Sigmoid() # sigmoid pour la sortie binaire
 
     def forward(self, x):# La on apllique ces fonctions dans l'ordre
@@ -85,12 +85,12 @@ class SentimentNN(nn.Module):
 
 model = SentimentNN()# la on vas créer une instance du modèle
 criterion = nn.BCELoss()# la on vas utiliser la perte binaire pour la classification binaire
-optimizer = optim.Adam(model.parameters(), lr=0.001)# # la on vas à l'optimiseur Adam avec un apprentissage de 0.001 (c'est lent)
+optimizer = optim.Adam(model.parameters(), lr=0.01)# # la on vas à l'optimiseur Adam avec un apprentissage de 0.001 (c'est lent)
 
 # la on s'entraîne
 
 print("⚡ Entraînement du modèle...")
-for epoch in range(5):# on vas faire 5 époques d'entraînement ( peu pour commencer)
+for epoch in range(30):# on vas faire 5 époques d'entraînement ( peu pour commencer)
     model.train()# il s'entraîne
     optimizer.zero_grad()# on réinitialise les gradients
     outputs = model(X_train)

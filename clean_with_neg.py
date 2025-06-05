@@ -55,6 +55,7 @@ custom_stopwords_en = base_stopwords_en - negation_words_en
 custom_stopwords_en.discard("n't") # S'assurer que "n't" n'est PAS un stopword
 
 # Traitement des fichiers
+# Boucle sur 4 fichiers nommés randomtweets1.txt à randomtweets4.txt
 for i in range(1, 5): 
     # Définir le chemin du fichier source à lire
     source_file = f"CorpusRandomTwitter/randomtweets{i}.txt"

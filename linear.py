@@ -1,74 +1,77 @@
-# algomattis.py -- Version 2 du programme de régression logistique -- Meilleure version
+# algomattis.py
 
-import re                          # Module pour les expressions régulières - regex (nettoyage de texte)
-import csv                         # Module pour lire les fichiers CSV
-from sklearn.model_selection import train_test_split      # Pour séparer les données en jeu d'entraînement/test
-from sklearn.feature_extraction.text import TfidfVectorizer  # Pour transformer les textes en vecteurs numériques
-from sklearn.linear_model import LogisticRegression        # Modèle de classification : régression logistique
-from sklearn.metrics import classification_report          # Pour évaluer le modèle avec un rapport de classification
+import re
+import csv
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+import matplotlib.pyplot as plt
+# Extraction et nettoyage des tweets
+tweets_data = []
+with open("MMM.csv", "r", encoding="latin1") as f:
+    reader = csv.reader(f)
+    for row in reader:
+        if len(row) >= 6:
+            raw_label = row[0]
+            tweet = row[5]
 
-# --- Extraction depuis un fichier CSV ---
-tweets_data = []                                        # Liste qui contiendra les tweets et leurs étiquettes (label)
-with open("16.csv", "r", encoding="latin1") as f:       # On ouvre le fichier CSV 
-    reader = csv.reader(f)                              # On crée un lecteur CSV ligne par ligne
-    for row in reader:                                  # Pour chaque ligne brut du fichier :
-        if len(row) >= 6:                               # On vérifie que la ligne contient au moins 6 colonnes
-            raw_label = row[0]                          # La 1ère colonne est le score déja mis : 0 (négatif) ou 4 (positif)
-            tweet = row[5]                              # La 6e colonne contient le texte du tweet
-
-            if raw_label == "0":                        # Si la polarité est 0, on le note comme négatif
+            if raw_label == "0":
                 label = "négatif"
-            elif raw_label == "4":                      # Si c'est 4, on le note comme positif
+            elif raw_label == "4":
                 label = "positif"
             else:
-                continue                                # Si ce n’est ni 0 ni 4, on ignore la ligne
+                continue  # On ignore les autres labels
 
-            tweets_data.append((tweet, label))          # On ajoute le tweet et son label à la liste
+            tweets_data.append((tweet, label))
 
-# --- Séparation des colonnes tweet / label ---
-raw_tweets = [t[0] for t in tweets_data]                # Liste contenant uniquement les textes des tweets
-labels = [t[1] for t in tweets_data]                    # Liste contenant uniquement les étiquettes (positif/négatif)
+# colonnes
+raw_tweets = [t[0] for t in tweets_data]
+labels = [t[1] for t in tweets_data]
 
-# --- Fonction de nettoyage des tweets ---
+# on nettoie les tweets
 def clean_tweet(tweet):
-    tweet = tweet.lower()                               # On passe tout en minuscules
-    tweet = re.sub(r"http\S+", "", tweet)               # On enlève les URLs
-    tweet = re.sub(r"@\w+", "", tweet)                  # On enlève les mentions @
-    tweet = re.sub(r"#\w+", "", tweet)                  # On enlève les hashtags
-    tweet = re.sub(r"rt\s?:", "", tweet)                # On enlève les "RT :" des retweets car on en tient pas compte ici
-    tweet = re.sub(r"[^\w\s]", "", tweet)               # On enlève la ponctuation
-    tweet = re.sub(r"\s+", " ", tweet).strip()          # On enlève les espaces en trop
+    tweet = tweet.lower()
+    tweet = re.sub(r"http\S+", "", tweet)
+    tweet = re.sub(r"@\w+", "", tweet)
+    tweet = re.sub(r"#\w+", "", tweet)
+    tweet = re.sub(r"rt\s?:", "", tweet)
+    tweet = re.sub(r"[^\w\s]", "", tweet)
+    tweet = re.sub(r"\s+", " ", tweet).strip()
     return tweet
 
-cleaned_tweets = [clean_tweet(t) for t in raw_tweets]   # On nettoie tous les tweets
+cleaned_tweets = [clean_tweet(t) for t in raw_tweets]
 
-# --- Vectorisation avec TF-IDF ---
-vectorizer = TfidfVectorizer(max_features=1000)         # On transforme les textes en vecteurs (1000 mots max)
-X = vectorizer.fit_transform(cleaned_tweets)            # On applique la vectorisation
-y = labels                                              # Les labels ne changent pas
+# on les vectorisation TF-IDF
+vectorizer = TfidfVectorizer(max_features=1000)
+X = vectorizer.fit_transform(cleaned_tweets)
+y = labels
 
-# --- Entraînement du modèle de régression logistique ---
-X_train, X_test, y_train, y_test = train_test_split(    # On sépare les données : 80% entraînement, 20% test
-    X, y, test_size=0.2, random_state=42
-)
-model = LogisticRegression(max_iter=10000)              # On initialise la régression logistique avec un grand nombre d'itérations
-model.fit(X_train, y_train)                             # On entraîne le modèle sur les données d'entraînement
+# on entraîne le modèle
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15, random_state=42)
+model = LogisticRegression(max_iter=10000)
+model.fit(X_train, y_train)
 
-# --- Fonction de prédiction d’un nouveau tweet ---
+# prediction
 def predict_sentiment(tweet):
-    cleaned = clean_tweet(tweet)                        # On nettoie le tweet
-    vec = vectorizer.transform([cleaned])               # On vectorise le tweet nettoyé
-    return model.predict(vec)[0]                        # On prédit la polarité (positif/négatif)
+    cleaned = clean_tweet(tweet)
+    vec = vectorizer.transform([cleaned])
+    return model.predict(vec)[0]
 
-# --- Évaluation du modèle (si le fichier est exécuté directement) ---
+# --- Évaluation ---
 if __name__ == "__main__":
-    print("Entraînement du modèle...")
-    print(classification_report(y_test, model.predict(X_test)))  # On affiche les métriques d’évaluation
+    print("⚙ Entraînement du modèle...")
+    print(classification_report(y_test, model.predict(X_test)))
+    
+
+# Matrice de confusion
+    y_pred = model.predict(X_test)
+    cm = confusion_matrix(y_test, y_pred, labels=["négatif", "positif"])        
+    disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=["négatif", "positif"])
+    disp.plot(cmap=plt.cm.Blues)
+    plt.title("Matrice de confusion")
+    plt.show()
+
     print("Exemple de prédiction :")
-    print(predict_sentiment("J'en ai marre de ce bordel !"))     # On teste le modèle sur un exemple
-
-
-
-'''
-Le programme fonctionne bien mais il faut le fichier 16.csv en local !
-'''
+    print(predict_sentiment("shut the fuck up"))

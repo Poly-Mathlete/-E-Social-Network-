@@ -79,9 +79,9 @@ n_neg = len(y_train) - n_pos
 pos_weight = torch.tensor([n_neg / n_pos]).float() # e ratio permet de dire : “Un exemple positif compte autant que X exemples négatifs.”
 criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight)#fonction de perte adaptée aux classes déséquilibrées
 
-optimizer = torch.optim.AdamW(model.parameters(), lr=0.005)#AdamW a meilleure convergence (plus rapide et plus stable),moins d’overfitting
+optimizer = torch.optim.AdamW(model.parameters(), lr=0.01)#AdamW a meilleure convergence (plus rapide et plus stable),moins d’overfitting
 
-# --- Entraînement ---
+# Entraînement du modèle
 print("⚡ Entraînement du modèle...")
 for epoch in range(20):
     model.train()
@@ -92,7 +92,7 @@ for epoch in range(20):
     optimizer.step()
     print(f"Epoch {epoch+1}/20 - Loss: {loss.item():.4f}")
 
-# --- Évaluation ---
+# évaluation du modèle
 model.eval()
 with torch.no_grad():
     logits = model(X_test)
@@ -108,7 +108,7 @@ with torch.no_grad():
     plt.title("Matrice de confusion")
     plt.show()
 
-# --- Prédiction personnalisée ---
+
 def predict_sentiment(tweet):
     cleaned = clean_tweet(tweet)
     vec = vectorizer.transform([cleaned]).toarray()

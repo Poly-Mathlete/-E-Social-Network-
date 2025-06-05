@@ -1,9 +1,9 @@
-import re #pour utiliser expressions régulières
-from pathlib import Path #pour manipuler les fichiers
+import re
+from pathlib import Path
 
-import nltk #notre bibliothèque de traitement de texte documenté 
+import nltk
 from nltk.corpus import stopwords
-from nltk.tokenize import TreebankWordTokenizer #tokenizer : transforme les phrases en liste de mots 
+from nltk.tokenize import TreebankWordTokenizer
 
 # Télécharger les ressources NLTK
 nltk.download("punkt", quiet=True)
@@ -23,7 +23,7 @@ regex_artifacts_sources = re.compile(
 )
 
 # on supprime les noms d'utilisateurs mentionnés 
-regex_usernames = re.compile(r'@\w+') 
+regex_usernames = re.compile(r'@\w+')
 
 # on supprime les URL (http ou https)
 regex_urls = re.compile(r'https?://\S+')
@@ -54,7 +54,7 @@ for i in range(1, 5):
 
     cleaned_tweets = []
 
-    # Choix de la langue pour les stopwords selon le document
+    # Choix de la langue pour les stopwords
     langue = "french" if i in [1, 2] else "english"
     stop_words = set(stopwords.words(langue))
 
@@ -64,11 +64,11 @@ for i in range(1, 5):
     for line in lines:
         # Ignore les lignes vides ou invalides
         if line == '"","x"' or not line.strip():
-            continue # On ignore le reste dans ce cas
+            continue
         # Extraction du numéro de tweet et du texte via regex
         m = re.match(r'^"(\d+)","(.*)"$', line)
         if not m:
-            continue # On ignore le reste dans ce cas
+            continue
         tweet_num, tweet_text = m.groups()
 
         # Nettoyage du texte 

@@ -1,4 +1,4 @@
-# algomattis.py -- Version 1 du programme de regression linéaire -- Ne donne pas des résultats probants
+# reg_lin.py -- Version 1 du programme de regression linéaire -- Ne donne pas des résultats probants
 
 import re
 from sklearn.model_selection import train_test_split # Pour découper les donner en train/test

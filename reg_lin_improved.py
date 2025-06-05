@@ -1,4 +1,4 @@
-# algomattis.py -- Version 2 du programme de régression logistique -- Meilleure version
+# reg_lin_improved.py -- Version 2 du programme de régression logistique -- Meilleure version
 
 import re                          # Module pour les expressions régulières - regex (nettoyage de texte)
 import csv                         # Module pour lire les fichiers CSV

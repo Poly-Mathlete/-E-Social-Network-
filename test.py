@@ -1,4 +1,4 @@
-from algomattis import predict_sentiment
+from reg_lin import predict_sentiment
 
 print(predict_sentiment("je suis heureux "))  
 

@@ -1,1 +1,0 @@
-        f.write("\n".join(cleaned_tweets))

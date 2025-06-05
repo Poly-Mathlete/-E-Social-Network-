@@ -4,7 +4,7 @@ import random as rd  # bibliothèque pour faire des choix aléatoires
 # Lire le fichier CSV contenant les tweets
 # encoding="latin-1" permet d'ouvrir correctement les caractères spéciaux
 # header=None signifie que le fichier n'a pas de ligne de titre
-df = pd.read_csv("training.1600000.processed.noemoticon.csv", encoding="latin-1", header=None)
+df = pd.read_csv("balanced_tweets_200k.csv", encoding="latin-1", header=None)
 
 # On donne des noms aux colonnes du tableau pour y accéder plus facilement
 df.columns = ["polarity", "id", "date", "query", "user", "text"]

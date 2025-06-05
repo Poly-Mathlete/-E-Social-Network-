@@ -4,7 +4,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import TreebankWordTokenizer
 
-# Télécharger les ressources NLTK si ce n'est pas déjà fait
+# Télécharger les ressources NLTK 
 try:
     stopwords.words("french")
 except LookupError:
@@ -18,7 +18,7 @@ except LookupError:
 # Initialisation du tokenizer
 tokenizer = TreebankWordTokenizer()
 
-# Préparation des regex (identique à votre code)
+# Préparation des regex 
 regex_artifacts_sources = re.compile(
     r'\|'
     r'\[Saut de retour à la ligne\]|'
@@ -56,73 +56,87 @@ custom_stopwords_en.discard("n't") # S'assurer que "n't" n'est PAS un stopword
 
 # Traitement des fichiers
 for i in range(1, 5): 
-    source_file = f"CorpusRandomTwitter/randomtweets{i}.txt" # Assurez-vous que ce fichier existe
+    # Définir le chemin du fichier source à lire
+    source_file = f"CorpusRandomTwitter/randomtweets{i}.txt"
+    
+    # Créer le dossier de sortie s'il n'existe pas
     output_dir = Path("CorpusRandomCleaned")
     output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Chemin du fichier nettoyé à sauvegarder
     dest_file = output_dir / f"cleaned_tweets_neg_aware{i}.txt"
 
-    cleaned_tweets = []
+    cleaned_tweets = []  # Liste pour stocker les tweets nettoyés
+    
+    # Déterminer la langue (les fichiers 1 et 2 sont en français, les autres en anglais)
     langue = "french" if i in [1, 2] else "english"
 
+    # Choisir la liste de stopwords personnalisée selon la langue
     if langue == "french":
         stop_words_to_use = custom_stopwords_fr
     else:
         stop_words_to_use = custom_stopwords_en
 
+    # Lecture du fichier source
     try:
         with open(source_file, encoding="utf-8") as f:
             lines = f.read().splitlines()
     except FileNotFoundError:
         print(f"Fichier {source_file} non trouvé. Passe au suivant.")
-        continue
+        continue  # Passe au fichier suivant si le fichier courant n'existe pas
 
-
+    # Traitement ligne par ligne
     for line_num, line in enumerate(lines):
+        # Ignorer la première ligne d’en-tête ou les lignes vides
         if line == '"","x"' or not line.strip():
-            if line_num == 0 and line == '"","x"': # Sauf pour la première ligne d'en-tête
+            if line_num == 0 and line == '"","x"':
                  continue
-            elif not line.strip(): # Lignes vides
+            elif not line.strip():
                 continue
-        
+
+        # Extraire l'ID et le texte du tweet via regex
         m = re.match(r'^"(\d+)","(.*)"$', line)
         if not m:
-            # Gérer les lignes qui ne correspondent pas, par exemple si le format change
-            # print(f"Ligne ignorée (format non reconnu) dans {source_file}, ligne {line_num+1}: {line[:50]}...")
+            # Ignorer les lignes qui ne correspondent pas au format attendu
             continue
+
         tweet_id, tweet_text = m.groups()
 
+        # Nettoyage du texte :
+        # Supprimer les artefacts visuels, mentions, URLs, hashtags, etc.
         t = regex_artifacts_sources.sub('', tweet_text)
         t = t.replace('""', '"')
         t = regex_usernames.sub('', t)
         t = regex_urls.sub('', t)
         t = regex_hashtags.sub('', t)
-        # La gestion des apostrophes doit être prudente pour ne pas casser les négations
-        # "n'est pas" -> tokenisé en ["n'", "est", "pas"] par TreebankWordTokenizer
-        # Ma regex_apostrophes actuelle "\b\w+'" va transformer "l'arbre" en "arbre" mais "n'est" resterait "n'est"
-        # Après tokenisation, "n'" sera un token. Donc c'est ok.
-        t = regex_apostrophes.sub('', t) # Supprime l', j', d'
+
+        # Suppression des contractions comme l', d', j', etc. (mais on préserve les négations comme "n'")
+        t = regex_apostrophes.sub('', t)
+
+        # Supprimer les guillemets typographiques et autres ponctuations
         t = regex_quotes.sub('', t)
-        t = t.replace("'", "") # Supprime les apostrophes restantes (ex: dans "aujourd'hui")
-        t = regex_punctuation.sub(' ', t)
+        t = t.replace("'", "")  # Supprimer les apostrophes simples restantes
+        t = regex_punctuation.sub(' ', t)  # Remplacer la ponctuation par des espaces
+
+        # Mise en minuscule et nettoyage des espaces superflus
         t = t.lower()
         t = re.sub(r'\s{2,}', ' ', t).strip()
 
+        # Tokenisation du texte (avec TreebankWordTokenizer par ex.)
         tokens = tokenizer.tokenize(t)
-        
-        # Filtrage des stopwords en conservant les mots de négation
+
+        # Filtrer les stopwords tout en conservant certains tokens comme "rt"
         filtered_tokens = [
             word.upper() if word.lower() == 'rt' else word
             for word in tokens
             if word.lower() not in stop_words_to_use or word.lower() == 'rt'
         ]
-        
-        # Si vous voulez explicitement marquer les négations (Approche 2), faites-le ici AVANT le filtrage des stopwords
-        # tokens_neg_marked = nltk.sentiment.util.mark_negation(tokens, shallow=True)
-        # filtered_tokens = [ ... for word in tokens_neg_marked ... ]
-        
-        if filtered_tokens: # Ne pas ajouter de lignes vides si tous les tokens sont des stopwords
+
+        # Ne conserver que les tweets qui ont encore du contenu après nettoyage
+        if filtered_tokens:
             cleaned_tweets.append(f"{tweet_id} : {filtered_tokens}")
 
+    # Écriture du fichier nettoyé
     with open(dest_file, "w", encoding="utf-8") as f:
         f.write("\n".join(cleaned_tweets))
 

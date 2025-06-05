@@ -18,7 +18,7 @@ except LookupError:
 # Initialisation du tokenizer
 tokenizer = TreebankWordTokenizer()
 
-# Préparation des regex (identique à votre code)
+# Préparation des regex 
 regex_artifacts_sources = re.compile(
     r'\|'
     r'\[Saut de retour à la ligne\]|'
@@ -56,7 +56,7 @@ custom_stopwords_en.discard("n't") # S'assurer que "n't" n'est PAS un stopword
 
 # Traitement des fichiers
 for i in range(1, 5): 
-    source_file = f"CorpusRandomTwitter/randomtweets{i}.txt" # Assurez-vous que ce fichier existe
+    source_file = f"CorpusRandomTwitter/randomtweets{i}.txt" 
     output_dir = Path("CorpusRandomCleaned")
     output_dir.mkdir(parents=True, exist_ok=True)
     dest_file = output_dir / f"cleaned_tweets_neg_aware{i}.txt"
@@ -116,9 +116,6 @@ for i in range(1, 5):
             if word.lower() not in stop_words_to_use or word.lower() == 'rt'
         ]
         
-        # Si vous voulez explicitement marquer les négations (Approche 2), faites-le ici AVANT le filtrage des stopwords
-        # tokens_neg_marked = nltk.sentiment.util.mark_negation(tokens, shallow=True)
-        # filtered_tokens = [ ... for word in tokens_neg_marked ... ]
         
         if filtered_tokens: # Ne pas ajouter de lignes vides si tous les tokens sont des stopwords
             cleaned_tweets.append(f"{tweet_id} : {filtered_tokens}")

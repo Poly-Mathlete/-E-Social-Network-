@@ -4,7 +4,7 @@ import ast # Pour convertir la chaîne de la liste en une vraie liste Python
 
 # --- DÉFINITIONS DES LEXIQUES ET MOTS CLÉS ---
 
-# 1. Lexique de sentiments (mis à jour avec votre liste et mes estimations de scores)
+# Lexique de sentiments 
 sentiment_lexicon_fr = {
     # Positifs / Enthousiasme
     "excellent": 0.9, "superbe": 0.8, "merveilleux": 0.85, "adore": 0.7,
@@ -99,11 +99,11 @@ sentiment_lexicon_fr = {
     # RT : score neutre
     "rt": 0.0
 }
-# 2. Mots de négation
+# Mots de négation
 negation_words = {"ne", "n'", "n’", "pas", "jamais", "plus", "rien", "aucun", "aucune", "non"}
 NEGATION_WINDOW = 3 # Fenêtre d'influence de la négation
 
-# 3. Intensificateurs et Atténuateurs
+# Intensificateurs et Atténuateurs
 intensifiers = {
     "très": 1.5, "extrêmement": 2.0, "vraiment": 1.3, "tellement": 1.4, 
     "beaucoup": 1.2, "incroyablement": 1.7, "fortement": 1.4, "trop": 1.3,
@@ -114,7 +114,7 @@ diminishers = {
     "moins": 0.7, "légèrement": 0.75, "guère": 0.4, "à peine": 0.5
 }
 
-# 4. Conjonctions contrastives
+# Conjonctions contrastives
 contrast_conjunctions = {"mais", "cependant", "pourtant", "néanmoins", "toutefois", "malgré", "quoique", "bien que"}
 CONTRAST_FACTOR = 1.5 # Facteur de pondération pour la clause après la conjonction
 
@@ -138,11 +138,11 @@ def analyze_sentiment_lexical_refined(tokens):
     active_clause_has_sentiment_word = False # Pour suivre si la clause actuelle a des mots de sentiment
 
     for i, token in enumerate(tokens):
-        # La sortie de clean_mimi.py peut avoir 'RT' en majuscules.
+        # La sortie de clean_with_neg.py peut avoir 'RT' en majuscules.
         # On s'assure de travailler avec des minuscules pour la recherche dans les lexiques.
         token_lower = token.lower() 
 
-        # Ignorer "RT" pour le calcul de score s'il est encore là
+        # Ignorer "RT" pour le calcul de score s'il est encore là car ça correspond à retweet
         if token_lower == 'rt':
             continue
 
@@ -194,7 +194,7 @@ def analyze_sentiment_lexical_refined(tokens):
             # Décrémenter la fenêtre de négation pour chaque mot (sentimental ou non)
             # qui n'est pas lui-même un mot de négation.
             # Si un mot sentimental est trouvé, il consomme la négation.
-            # S'il n'y a pas de mot sentimental dans la fenêtre, la négation "s'épuise".
+            # S'il n'y a pas de mot sentimental dans la fenêtre, la négation s'épuise
             negation_influence_countdown -= 1
 
 
@@ -210,13 +210,9 @@ def analyze_sentiment_lexical_refined(tokens):
     elif len(score_clauses) == 1:
         final_score = score_clauses[0]
         # Le compte de mots de sentiment est celui de la seule clause
-        # (déjà stocké dans current_clause_sentiment_word_count, mais celui-ci est pour la *dernière* clause)
+        # (déjà stocké dans current_clause_sentiment_word_count, mais celui-ci est pour la dernière clause)
         # Pour être précis, il faudrait sommer les current_clause_sentiment_word_count de chaque clause
         # si on les stockait séparément.
-        # Pour l'instant, on va se baser sur le compte global si une seule clause.
-        # Si la clause était vide de mots de sentiment, current_clause_sentiment_word_count serait 0.
-        # On a besoin du compte total de mots de sentiment sur TOUTES les clauses pour la normalisation.
-        # Faisons un compte global plus simple pour la normalisation :
         num_sentiment_words_overall = sum(1 for t in tokens if t.lower() in sentiment_lexicon_fr)
 
     else: # Plus d'une clause, gestion du contraste
@@ -227,18 +223,10 @@ def analyze_sentiment_lexical_refined(tokens):
         num_sentiment_words_overall = sum(1 for t in tokens if t.lower() in sentiment_lexicon_fr)
 
 
-    # Normalisation optionnelle (pour un score moyen par mot de sentiment)
-    # if num_sentiment_words_overall > 0:
-    #    normalized_score = final_score / num_sentiment_words_overall
-    # else:
-    #    normalized_score = 0.0
-    # Pour cet exemple, on utilise final_score (somme, potentiellement pondérée par contraste)
 
     # Étiquetage
-    # Ajustez ces seuils en fonction de la distribution des scores que vous obtenez
-    # et de la granularité souhaitée.
-    threshold_pos = 0.1 # Exemple
-    threshold_neg = -0.1 # Exemple
+    threshold_pos = 0.1 
+    threshold_neg = -0.1 
 
     if final_score > threshold_pos:
         label = "positif"
@@ -251,9 +239,8 @@ def analyze_sentiment_lexical_refined(tokens):
 
 
 # --- TRAITEMENT DU FICHIER DE TWEETS NETTOYÉS ---
-# Doit correspondre à la sortie de clean_mimi.py
+# Doit correspondre à la sortie de clean_with_neg.py
 # Format attendu: chaque ligne est "ID : ['token1', 'token2', ...]"
-# (ou le nom de fichier que vous avez utilisé, ex: cleaned_tweets1.txt)
 input_file_path = Path("CorpusRandomCleaned/cleaned_tweets_neg_aware1.txt")
 output_file_path = Path("scored_tweets_lexical_refined1.txt")
 
@@ -284,9 +271,8 @@ else:
                     # Fallback si ast.literal_eval échoue (par ex. si ce n'est pas une liste valide)
                     # Ceci est une rustine et indique un problème dans le format d'entrée
                     # ou dans la façon dont les tokens ont été sauvegardés.
-                    # Votre clean_mimi.py devrait produire une liste Python valide sous forme de chaîne.
                     # tokens_list = [t.strip().strip("'\"") for t in tokens_str.strip("[]").split(',') if t.strip()]
-                    continue # Préférable de sauter la ligne si le format est incorrect
+                    continue 
                                 
                 score, label, sentiment_word_count = analyze_sentiment_lexical_refined(tokens_list)
                 results_output.append(f"Tweet ID: {tweet_id_str} | Score: {score:.2f} | Label: {label} | Mots Sentiment: {sentiment_word_count} | Tokens: {tokens_list}")

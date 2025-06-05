@@ -63,7 +63,7 @@ while True:
 # Résultat final
 if total > 0:
     normalized_score = correct / total
-    print(f"\n✅ Score validé pour {correct} / {total} évaluations.")
-    print(f"🎯 Score normalisé : {normalized_score:.2f}")
+    print(f"\n Score validé pour {correct} / {total} évaluations.")
+    print(f" Score normalisé : {normalized_score:.2f}")
 else:
     print("\nAucune évaluation effectuée.")

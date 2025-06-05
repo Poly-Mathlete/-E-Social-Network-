@@ -106,7 +106,7 @@ for t in [i / 100 for i in range(48, 52)]:
         best_thresh = t
 
 final_preds = (probs > best_thresh).int()
-print(f"\n✅ Meilleur seuil : {best_thresh:.2f} | F1-score : {best_f1:.4f}")
+print(f"\n Meilleur seuil : {best_thresh:.2f} | F1-score : {best_f1:.4f}")
 print(classification_report(y_test.int(), final_preds))
 
 cm = confusion_matrix(y_test.int(), final_preds)

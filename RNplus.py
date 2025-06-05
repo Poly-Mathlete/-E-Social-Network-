@@ -98,7 +98,7 @@ with torch.no_grad():
     logits = model(X_test)
     probs = torch.sigmoid(logits)
     y_pred_label = (probs > 0.49).int()
-    print("\n✅ Résultats sur le test :")
+    print("\n Résultats sur le test :")
     print(classification_report(y_test.int(), y_pred_label))
 
     # Matrice de confusion

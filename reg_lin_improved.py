@@ -1,4 +1,4 @@
-# algomattis.py
+
 
 import re
 import csv

@@ -104,7 +104,7 @@ model.eval()# il s'évalue
 y_pred = model(X_test).detach().numpy()# la on vas faire des prédictions sur les données de test
 y_pred_label = [1 if p >= 0.5 else 0 for p in y_pred]# on vas transformer les prédictions en labels binaires
 
-print("\n✅ Résultats sur le test :")
+print("\n Résultats sur le test :")
 print(classification_report(y_test, y_pred_label))
 
 # la ça vas afficher la matrice de confusion

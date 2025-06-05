@@ -3,19 +3,19 @@ import importlib.util
 import ast
 import csv
 
-# === 1. Import dynamique du fichier score_eval_model_vec.py ===
+# 1. Import dynamique du fichier score_eval_model_vec.py 
 spec = importlib.util.spec_from_file_location("score_module", "score_eval_model_vec.py")
 score_module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(score_module)
 
-# === 2. Charger les vocabulaires ===
+# 2. Charger les vocabulaires 
 with open("positive_vocab_1000.txt", encoding="utf-8") as f:
     positive_vocab = [line.strip() for line in f if line.strip()]
 
 with open("negative_vocab_1000.txt", encoding="utf-8") as f:
     negative_vocab = [line.strip() for line in f if line.strip()]
 
-# === 3. Charger les tweets nettoyés (sous forme de liste de mots) ===
+#  3. Charger les tweets nettoyés (sous forme de liste de mots) 
 cleaned_tweet_files = [
     f"CorpusRandomCleaned_2/cleaned_tweets{i}.txt" for i in range(1, 5)
 ]
@@ -36,7 +36,7 @@ for path in cleaned_tweet_files:
             except Exception as e:
                 print(f"⚠️ Erreur dans {path} : {e}")
 
-# === 4. Charger les tweets bruts (format CSV texte) ===
+#  4. Charger les tweets bruts (format CSV texte) 
 random_tweet_files = [
     f"CorpusRandomTwitter/randomtweets{i}.txt" for i in range(1, 5)
 ]
@@ -50,7 +50,7 @@ for path in random_tweet_files:
     except FileNotFoundError:
         print(f"⚠️ Fichier non trouvé : {path}")
 
-# === 5. Interface utilisateur ===
+#  5. Interface utilisateur 
 print("=== Interface de test des scores ===")
 
 oui_count = 0

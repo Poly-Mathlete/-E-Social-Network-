@@ -61,8 +61,8 @@ while True:
 if total > 0:
     # Calcul du score : proportion de bonnes réponses
     normalized_score = correct / total
-    print(f"\n✅ Score validé pour {correct} / {total} évaluations.")
-    print(f"🎯 Score normalisé : {normalized_score:.2f}")
+    print(f"\n Score validé pour {correct} / {total} évaluations.")
+    print(f" Score normalisé : {normalized_score:.2f}")
 else:
     # Si l’utilisateur n’a rien évalué
     print("\nAucune évaluation effectuée.")

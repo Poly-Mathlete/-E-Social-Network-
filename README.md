@@ -69,6 +69,22 @@ Pour passer à la deuxième phase du projet (entraînement de modèles plus comp
 - Cette réduction aléatoire a été réalisée via le script `random_dataset.py`.
 - Le fichier final `balanced_tweets_200k.csv` est équilibré (même nombre de tweets positifs et négatifs) et servira pour l’apprentissage supervisé.
 
+Avant d'utiliser cette base de données tweets comme référence pour l'entraînement, nous avons voulu vérifier la qualité de son étiquetage.
+
+Pour cela, nous avons utilisé le script `Noter_fichier_csv.py`, qui :
+
+- sélectionne aléatoirement des tweets du fichier CSV,
+- affiche ces tweets à l’utilisateur pour un étiquetage manuel (positif/négatif),
+- compare ces étiquettes humaines à celles déjà présentes dans la base,
+- calcule une précision globale
+
+Résultat : 80 % de correspondance entre ces deux étiquetages.
+
+➡️ Ce taux est nettement supérieur aux approches précédentes.  
+C'est pourquoi, nous avons utilisé ce support plus fiable pour entraîner les modèles de classification des sentiments.
+
+
+
 ## Partie 2 : Entraînement d’algorithmes d’intelligence artificielle
 
 ### 1. Régression linéaire naïve (`reg_lin_improved.py`)

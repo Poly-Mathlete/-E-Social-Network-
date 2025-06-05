@@ -23,7 +23,7 @@ def clean_tweet(tweet):
 
 # --Ici on vas charger les données
 tweets_data = []
-with open("MMM.csv", "r", encoding="latin1") as f:
+with open("balanced_tweets_200k.csv", "r", encoding="latin1") as f:
     reader = csv.reader(f)
     for row in reader:
         if len(row) >= 6:

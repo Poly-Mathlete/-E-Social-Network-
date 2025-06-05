@@ -69,7 +69,7 @@ Pour passer à la deuxième phase du projet (entraînement de modèles plus comp
 - Cette réduction aléatoire a été réalisée via le script `random_dataset.py`.
 - Le fichier final `balanced_tweets_200k.csv` est équilibré (même nombre de tweets positifs et négatifs) et servira pour l’apprentissage supervisé.
 
-
+## Partie 2 : Entraînement d’algorithmes d’intelligence artificielle
 
 ### 1. Régression linéaire naïve (`reg_lin_improved.py`)
 
